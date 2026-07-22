@@ -20,7 +20,7 @@ body:
     attributes:
       label: Record
       description: Provide the GraphRoots URL, slug, or record ID when available.
-      placeholder: https://elkaioum.github.io/GraphRoots/artists/example-artist
+      placeholder: https://elkMm.github.io/GraphRoots/artists/example-artist
     validations:
       required: true
 

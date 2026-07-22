@@ -1,7 +1,7 @@
 const creatorCredit = import.meta.env.PUBLIC_CREATOR_CREDIT?.trim();
 const repositoryUrl = (
   import.meta.env.PUBLIC_REPOSITORY_URL?.trim() ||
-  "https://github.com/elkaioum/GraphRoots"
+  "https://github.com/elkMm/GraphRoots"
 ).replace(/\/+$/, "");
 const correctionsUrl =
   import.meta.env.PUBLIC_CORRECTIONS_URL?.trim() ||

@@ -170,7 +170,7 @@ test("homepage and evidence routes are statically useful", async ({ page }) => {
     page.getByRole("link", { name: "Open a corpus correction issue" }),
   ).toHaveAttribute(
     "href",
-    "https://github.com/elkaioum/GraphRoots/issues/new?template=corpus-correction.yml",
+    "https://github.com/elkMm/GraphRoots/issues/new?template=corpus-correction.yml",
   );
 
   await page.goto(appPath("/legal/license"));

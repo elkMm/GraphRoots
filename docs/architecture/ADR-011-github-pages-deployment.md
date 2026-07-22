@@ -5,7 +5,7 @@
 
 ## Context
 
-GraphRoots is a static Astro application intended for public review. GitHub Pages provides a suitable first hosting target, but project sites are mounted below a repository-name path. The existing root-relative application links, graph data requests, canonical URLs, sitemap, and robots metadata would therefore break or point to the host root when deployed as `elkaioum/GraphRoots`.
+GraphRoots is a static Astro application intended for public review. GitHub Pages provides a suitable first hosting target, but project sites are mounted below a repository-name path. The existing root-relative application links, graph data requests, canonical URLs, sitemap, and robots metadata would therefore break or point to the host root when deployed as `elkMm/GraphRoots`.
 
 ## Decision
 

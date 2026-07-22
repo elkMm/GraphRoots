@@ -5,13 +5,13 @@
   "private": true,
   "license": "MIT",
   "author": "Elkaïoum M. Moutuou",
-  "homepage": "https://elkaioum.github.io/GraphRoots/",
+  "homepage": "https://elkMm.github.io/GraphRoots/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elkaioum/GraphRoots.git"
+    "url": "git+https://github.com/elkMm/GraphRoots.git"
   },
   "bugs": {
-    "url": "https://github.com/elkaioum/GraphRoots/issues"
+    "url": "https://github.com/elkMm/GraphRoots/issues"
   },
   "type": "module",
   "packageManager": "pnpm@11.9.0",

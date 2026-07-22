@@ -4,13 +4,13 @@ GraphRoots is a fully static Astro application. The repository workflow validate
 
 ## First publication
 
-1. Create or select the GitHub repository `elkaioum/GraphRoots`.
+1. Create or select the GitHub repository `elkMm/GraphRoots`.
 2. Push this project to the `main` branch, including `pnpm-lock.yaml`.
 3. In the repository, open **Settings → Pages**.
 4. Set **Source** to **GitHub Actions**.
 5. Open **Actions → Verify and deploy GitHub Pages** and run the workflow, or push a commit to `main`.
 
-The expected project-site URL is `https://elkaioum.github.io/GraphRoots/`. GitHub creates the `github-pages` deployment environment when the workflow first deploys.
+The expected project-site URL is `https://elkMm.github.io/GraphRoots/`. GitHub creates the `github-pages` deployment environment when the workflow first deploys.
 
 ## Workflow behavior
 
@@ -32,8 +32,8 @@ GitHub project sites are served below the repository name. During GitHub Actions
 To simulate the GitHub project build locally:
 
 ```sh
-GITHUB_REPOSITORY=elkaioum/GraphRoots \
-GITHUB_REPOSITORY_OWNER=elkaioum \
+GITHUB_REPOSITORY=elkMm/GraphRoots \
+GITHUB_REPOSITORY_OWNER=elkMm \
 pnpm run build
 ```
 

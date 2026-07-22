@@ -1,6 +1,6 @@
 # GraphRoots
 
-[![Verify and deploy GitHub Pages](https://github.com/elkaioum/GraphRoots/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/elkaioum/GraphRoots/actions/workflows/deploy-pages.yml)
+[![Verify and deploy GitHub Pages](https://github.com/elkMm/GraphRoots/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/elkMm/GraphRoots/actions/workflows/deploy-pages.yml)
 
 GraphRoots begins with **Blues / Roots & Branches**, a curated and evolving public network of relationships among artists, ensembles, and traditions. Its architecture can support other musical domains later without diluting the Blues-first launch.
 
