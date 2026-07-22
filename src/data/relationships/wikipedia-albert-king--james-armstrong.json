@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-albert-king--james-armstrong",
+  "slug": "wikipedia-albert-king--james-armstrong",
+  "entityAId": "entity:albert-king",
+  "entityBId": "entity:james-armstrong",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "The Wikipedia biography for James Armstrong explicitly describes Albert King as a musical influence. The claim awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-james-armstrong"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (james-armstrong@1342718631:2). Verify the cited page context and an independent source before review."
+}

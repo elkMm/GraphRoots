@@ -1,0 +1,24 @@
+{
+  "id": "entity:ted-hawkins",
+  "slug": "ted-hawkins",
+  "name": "Ted Hawkins",
+  "entityType": "artist",
+  "summary": "Ted Hawkins was a blues musician and singer-songwriter.",
+  "dateDisplay": "1936 – 1995",
+  "regions": ["United States"],
+  "styles": ["Blues", "Soul Blues"],
+  "roles": ["Musician", "Singer-Songwriter"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-ted-hawkins",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "3HHeVbmDYdw",
+    "title": "Afraid",
+    "sourceUrl": "https://www.youtube.com/watch?v=3HHeVbmDYdw",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

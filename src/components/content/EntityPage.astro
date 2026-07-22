@@ -1,0 +1,450 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import {
+  evidenceCategoryLabels,
+  relationshipReviewStatusLabels,
+  relationshipTypeLabels,
+} from "../../domain/relationships";
+import { withBase } from "../../domain/base-path";
+import { getEntityPath, getRelationshipPath } from "../../domain/routes";
+import type { Entity, Relationship, Source } from "../../domain/types";
+
+interface Props {
+  entity: Entity;
+  relationships: Relationship[];
+  entities: Entity[];
+  sources: Source[];
+}
+
+const { entity, relationships, entities, sources } = Astro.props;
+const entityById = new Map(entities.map((record) => [record.id, record]));
+const sourceById = new Map(sources.map((source) => [source.id, source]));
+const incoming = relationships
+  .filter(
+    (relationship) =>
+      relationship.orientation === "directed" &&
+      relationship.entityBId === entity.id,
+  )
+  .map((relationship) => ({
+    relationship,
+    other: entityById.get(relationship.entityAId),
+  }));
+const outgoing = relationships
+  .filter(
+    (relationship) =>
+      relationship.orientation === "directed" &&
+      relationship.entityAId === entity.id,
+  )
+  .map((relationship) => ({
+    relationship,
+    other: entityById.get(relationship.entityBId),
+  }));
+const connected = relationships
+  .filter(
+    (relationship) =>
+      relationship.orientation === "symmetric" &&
+      (relationship.entityAId === entity.id ||
+        relationship.entityBId === entity.id),
+  )
+  .map((relationship) => ({
+    relationship,
+    other: entityById.get(
+      relationship.entityAId === entity.id
+        ? relationship.entityBId
+        : relationship.entityAId,
+    ),
+  }));
+const exploratory = relationships
+  .filter(
+    (relationship) =>
+      relationship.orientation === "undetermined" &&
+      (relationship.entityAId === entity.id ||
+        relationship.entityBId === entity.id),
+  )
+  .map((relationship) => ({
+    relationship,
+    other: entityById.get(
+      relationship.entityAId === entity.id
+        ? relationship.entityBId
+        : relationship.entityAId,
+    ),
+  }));
+const citedSources = entity.sourceIds.flatMap((sourceId) => {
+  const source = sourceById.get(sourceId);
+  return source ? [source] : [];
+});
+const graphConnections = [
+  ...incoming,
+  ...outgoing,
+  ...connected,
+  ...exploratory,
+];
+const evidenceCoverage = graphConnections.filter(
+  ({ relationship }) => relationship.citationIds.length > 0,
+).length;
+const relationshipGroups = [
+  { heading: "Incoming", entries: incoming },
+  { heading: "Outgoing", entries: outgoing },
+  { heading: "Connected", entries: connected },
+  { heading: "Exploratory", entries: exploratory },
+].filter((group) => group.entries.length > 0);
+const description = `${entity.summary.slice(0, 145)}${entity.summary.length > 145 ? "…" : ""}`;
+---
+
+<BaseLayout
+  title={entity.name}
+  description={description}
+  canonicalPath={getEntityPath(entity)}
+>
+  <article class="shell entity-page">
+    <header class="entity-header">
+      <p class="eyebrow">GraphRoots / Blues · {entity.entityType}</p>
+      <h1>{entity.name}</h1>
+      <p class="lede">{entity.summary}</p>
+      <div class="actions">
+        <a
+          class="button"
+          href={withBase(`/blues/explore?entity=${entity.slug}`)}
+          >Focus in explorer</a
+        >
+        <span class="tag">{entity.reviewStatus.replaceAll("_", " ")}</span>
+      </div>
+    </header>
+
+    <div
+      class:list={[
+        "entity-overview",
+        { "has-video": Boolean(entity.featuredVideo) },
+      ]}
+    >
+      <section class="profile-section" aria-labelledby="profile-heading">
+        <h2 id="profile-heading">Profile</h2>
+        <dl>
+          <div><dt>Type</dt><dd>{entity.entityType}</dd></div>
+          {
+            entity.dateDisplay && (
+              <div>
+                <>
+                  <dt>Dates</dt>
+                  <dd>{entity.dateDisplay}</dd>
+                </>
+              </div>
+            )
+          }
+          <div>
+            <dt>Regions</dt><dd>
+              {entity.regions.join("; ") || "Not yet reviewed"}
+            </dd>
+          </div>
+          <div>
+            <dt>Styles</dt><dd>
+              {entity.styles.join("; ") || "Not yet classified"}
+            </dd>
+          </div>
+          <div>
+            <dt>Connections</dt><dd>
+              {graphConnections.length} shown · {evidenceCoverage} cited
+            </dd>
+          </div>
+        </dl>
+      </section>
+
+      {
+        entity.featuredVideo && (
+          <section
+            class="featured-video"
+            aria-labelledby="featured-video-heading"
+          >
+            <div class="featured-video-header">
+              <div>
+                <p class="eyebrow">Listen and watch</p>
+                <h2 id="featured-video-heading">Featured song</h2>
+              </div>
+              <div class="featured-video-meta">
+                <p>{entity.featuredVideo.title}</p>
+                <a
+                  href={entity.featuredVideo.sourceUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Watch on YouTube →
+                </a>
+              </div>
+            </div>
+            <div class="video-frame">
+              <iframe
+                src={`https://www.youtube-nocookie.com/embed/${entity.featuredVideo.videoId}`}
+                title={`${entity.name} — ${entity.featuredVideo.title}`}
+                loading="lazy"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              />
+            </div>
+          </section>
+        )
+      }
+    </div>
+
+    <section
+      class="relationships-section"
+      aria-labelledby="relationships-heading"
+    >
+      <h2 id="relationships-heading">Relationships</h2>
+      <p class="section-note">
+        Reviewed claims and provisional exploratory paths are shown together.
+        Each record keeps its editorial status visible.
+      </p>
+      {
+        relationshipGroups.length === 0 ? (
+          <p>No reviewed or provisional graph connections are available.</p>
+        ) : (
+          relationshipGroups.map((group) => (
+            <div>
+              <h3>{group.heading}</h3>
+              <ul class="relationship-list">
+                {group.entries.map(({ relationship, other }) => (
+                  <li
+                    class:list={{
+                      "is-provisional":
+                        relationship.reviewStatus === "provisional",
+                    }}
+                  >
+                    <div class="relationship-summary">
+                      {relationship.reviewStatus === "reviewed" ? (
+                        <a
+                          href={withBase(
+                            getRelationshipPath(relationship.slug),
+                          )}
+                        >
+                          {other?.name}
+                        </a>
+                      ) : other ? (
+                        <a href={withBase(getEntityPath(other))}>
+                          {other.name}
+                        </a>
+                      ) : (
+                        <span>Unresolved entity</span>
+                      )}
+                      <span>
+                        {relationshipTypeLabels[relationship.relationshipType]}
+                      </span>
+                      <small>
+                        {evidenceCategoryLabels[relationship.evidenceCategory]}
+                      </small>
+                      <small class="review-status">
+                        {
+                          relationshipReviewStatusLabels[
+                            relationship.reviewStatus
+                          ]
+                        }
+                      </small>
+                    </div>
+                    <p class="relationship-explanation">
+                      {relationship.explanation}
+                    </p>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))
+        )
+      }
+    </section>
+
+    {
+      citedSources.length > 0 && (
+        <section class="reading" aria-labelledby="sources-heading">
+          <h2 id="sources-heading">Sources</h2>
+          <ol>
+            {citedSources.map((source) => (
+              <li>
+                {source.url ? (
+                  <a href={source.url}>{source.title}</a>
+                ) : (
+                  source.title
+                )}
+                {source.publisher && ` — ${source.publisher}`}. {source.note}
+              </li>
+            ))}
+          </ol>
+        </section>
+      )
+    }
+  </article>
+</BaseLayout>
+
+<style>
+  .entity-page {
+    padding-block: clamp(3rem, 8vw, 7rem);
+  }
+
+  .entity-header {
+    max-width: 62rem;
+    margin-bottom: 2rem;
+  }
+
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  .entity-overview {
+    display: grid;
+    grid-template-columns: minmax(15rem, 36rem);
+    gap: clamp(2rem, 6vw, 5rem);
+    align-items: start;
+    margin-top: 2rem;
+  }
+
+  .entity-overview.has-video {
+    grid-template-columns: minmax(15rem, 0.75fr) minmax(0, 1.5fr);
+  }
+
+  .relationships-section {
+    margin-top: clamp(3rem, 7vw, 6rem);
+  }
+
+  dl {
+    margin: 0;
+  }
+
+  dl div {
+    display: grid;
+    grid-template-columns: 7rem 1fr;
+    gap: 1rem;
+    border-bottom: 1px solid var(--color-border);
+    padding-block: 0.8rem;
+  }
+
+  dt,
+  .relationship-list span,
+  .relationship-list small {
+    color: var(--color-text-muted);
+    font-family: var(--font-meta);
+    font-size: 0.72rem;
+    text-transform: uppercase;
+  }
+
+  dd {
+    margin: 0;
+  }
+
+  .relationship-list {
+    display: grid;
+    gap: 0.6rem;
+    padding: 0;
+    list-style: none;
+  }
+
+  .relationship-list li {
+    border-bottom: 1px solid var(--color-border);
+    padding: 0.75rem 0;
+  }
+
+  .relationship-list li.is-provisional {
+    border-left: 2px dashed var(--color-gold);
+    padding-inline: 0.75rem;
+    background: color-mix(in srgb, var(--color-gold) 5%, transparent);
+  }
+
+  .relationship-summary {
+    display: grid;
+    grid-template-columns: minmax(8rem, 1fr) 1fr 1fr auto;
+    gap: 1rem;
+    align-items: baseline;
+  }
+
+  .review-status {
+    color: var(--color-gold);
+  }
+
+  .relationship-explanation,
+  .section-note {
+    color: var(--color-text-muted);
+  }
+
+  .relationship-explanation {
+    margin: 0.55rem 0 0;
+    font-size: 0.92rem;
+  }
+
+  .featured-video {
+    border-block: 1px solid var(--color-border);
+    padding-block: 1.5rem;
+  }
+
+  .featured-video-header {
+    display: flex;
+    justify-content: space-between;
+    gap: 1.5rem;
+    align-items: end;
+    margin-bottom: 1.25rem;
+  }
+
+  .featured-video h2,
+  .featured-video-meta p {
+    margin: 0;
+  }
+
+  .featured-video-meta {
+    max-width: 18rem;
+    text-align: right;
+  }
+
+  .featured-video-meta a {
+    display: inline-block;
+    margin-top: 0.35rem;
+    font-family: var(--font-meta);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+  }
+
+  .featured-video .eyebrow {
+    margin-bottom: 0.45rem;
+  }
+
+  .featured-video h2 {
+    margin-top: 0;
+  }
+
+  .video-frame {
+    overflow: hidden;
+    border: 1px solid var(--color-border);
+    border-radius: 3px;
+    background: var(--color-surface);
+    box-shadow: var(--shadow);
+    aspect-ratio: 16 / 9;
+  }
+
+  .video-frame iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  @media (max-width: 48rem) {
+    .entity-overview,
+    .entity-overview.has-video {
+      grid-template-columns: 1fr;
+    }
+
+    .featured-video-header {
+      display: block;
+    }
+
+    .featured-video-meta {
+      max-width: none;
+      margin-top: 1rem;
+      text-align: left;
+    }
+
+    .relationship-summary {
+      grid-template-columns: 1fr;
+      gap: 0.25rem;
+    }
+  }
+</style>

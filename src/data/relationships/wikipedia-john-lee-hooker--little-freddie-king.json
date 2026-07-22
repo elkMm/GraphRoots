@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-john-lee-hooker--little-freddie-king",
+  "slug": "wikipedia-john-lee-hooker--little-freddie-king",
+  "entityAId": "entity:john-lee-hooker",
+  "entityBId": "entity:little-freddie-king",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "The Wikipedia biography for Little Freddie King explicitly describes John Lee Hooker as a musical influence. The claim awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-little-freddie-king"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (little-freddie-king@1340051303:1, little-freddie-king@1340051303:3). Verify the cited page context and an independent source before review."
+}

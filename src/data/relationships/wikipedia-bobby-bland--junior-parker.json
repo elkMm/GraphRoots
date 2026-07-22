@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-bobby-bland--junior-parker",
+  "slug": "wikipedia-bobby-bland--junior-parker",
+  "entityAId": "entity:bobby-bland",
+  "entityBId": "entity:junior-parker",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Bobby Bland and Junior Parker in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-bobby-bland",
+    "source:wikipedia-biography-junior-parker"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bobby-bland@1358696100:4, junior-parker@1327718645:8). Verify the cited page context and an independent source before review."
+}

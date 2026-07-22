@@ -1,0 +1,23 @@
+{
+  "id": "entity:keb-mo",
+  "slug": "keb-mo",
+  "name": "Keb’ Mo’",
+  "aliases": ["Kevin Moore"],
+  "entityType": "artist",
+  "summary": "Singer, songwriter and guitarist whose recordings recast acoustic and country blues materials within a contemporary roots-music vocabulary.",
+  "dateDisplay": "1951 –",
+  "regions": ["California", "United States"],
+  "styles": ["Contemporary blues", "Country blues", "Americana"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:tajmo-official", "source:keb-mo-grammy-interview"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "s9CWCSuc6-A",
+    "title": "Get Together",
+    "sourceUrl": "https://www.youtube.com/watch?v=s9CWCSuc6-A",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

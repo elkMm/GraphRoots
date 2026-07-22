@@ -1,0 +1,18 @@
+{
+  "id": "entity:yardbirds",
+  "slug": "yardbirds",
+  "name": "The Yardbirds",
+  "entityType": "ensemble",
+  "summary": "A proving ground for Clapton, Beck, and Page, translating Chicago and Delta blues into extended, amplified 'rave-up' improvisation.",
+  "dateDisplay": "formed 1963",
+  "regions": ["London"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "yardbirds",
+    "originalEra": "british"
+  }
+}

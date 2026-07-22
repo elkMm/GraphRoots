@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-little-jimmy-king--jimi-hendrix",
+  "slug": "wikipedia-little-jimmy-king--jimi-hendrix",
+  "entityAId": "entity:little-jimmy-king",
+  "entityBId": "entity:jimi-hendrix",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Little Jimmy King and Jimi Hendrix in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-little-jimmy-king"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (little-jimmy-king@1343962053:1). Verify the cited page context and an independent source before review."
+}

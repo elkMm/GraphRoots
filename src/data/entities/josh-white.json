@@ -1,0 +1,25 @@
+{
+  "id": "entity:josh-white",
+  "slug": "josh-white",
+  "name": "Josh White",
+  "entityType": "artist",
+  "summary": "Josh White was a blues singer-songwriter, musician and guitarist.",
+  "dateDisplay": "1914 – 1969",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer-Songwriter", "Musician", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-josh-white",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:school-of-rock-history-blues"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "aTlbPDXHEbQ",
+    "title": "Dink's Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=aTlbPDXHEbQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

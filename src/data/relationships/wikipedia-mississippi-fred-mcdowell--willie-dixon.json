@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-mississippi-fred-mcdowell--willie-dixon",
+  "slug": "wikipedia-mississippi-fred-mcdowell--willie-dixon",
+  "entityAId": "entity:mississippi-fred-mcdowell",
+  "entityBId": "entity:willie-dixon",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Mississippi Fred McDowell and Willie Dixon in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-mississippi-fred-mcdowell"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (mississippi-fred-mcdowell@1355004779:5). Verify the cited page context and an independent source before review."
+}

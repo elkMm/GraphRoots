@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-kelly-joe-phelps--mississippi-fred-mcdowell",
+  "slug": "wikipedia-kelly-joe-phelps--mississippi-fred-mcdowell",
+  "entityAId": "entity:kelly-joe-phelps",
+  "entityBId": "entity:mississippi-fred-mcdowell",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Kelly Joe Phelps and Mississippi Fred McDowell in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-kelly-joe-phelps"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (kelly-joe-phelps@1210708823:3). Verify the cited page context and an independent source before review."
+}

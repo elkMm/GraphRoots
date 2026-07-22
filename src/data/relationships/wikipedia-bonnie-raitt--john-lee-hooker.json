@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-bonnie-raitt--john-lee-hooker",
+  "slug": "wikipedia-bonnie-raitt--john-lee-hooker",
+  "entityAId": "entity:bonnie-raitt",
+  "entityBId": "entity:john-lee-hooker",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Bonnie Raitt and John Lee Hooker in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-bonnie-raitt",
+    "source:wikipedia-biography-john-lee-hooker"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bonnie-raitt@1362043608:23, john-lee-hooker@1361650263:14). Verify the cited page context and an independent source before review."
+}

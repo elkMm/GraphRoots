@@ -1,0 +1,14 @@
+---
+import type { GetStaticPaths } from "astro";
+import EntityPage from "../../components/content/EntityPage.astro";
+import { loadCorpus } from "../../domain/corpus/load-corpus";
+import { buildEntityPageEntries } from "../../domain/pages/entity-page-data";
+
+export const getStaticPaths = (async () =>
+  buildEntityPageEntries(
+    await loadCorpus(),
+    "artist",
+  )) satisfies GetStaticPaths;
+---
+
+<EntityPage {...Astro.props} />

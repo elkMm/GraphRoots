@@ -1,0 +1,24 @@
+{
+  "id": "entity:champion-jack-dupree",
+  "slug": "champion-jack-dupree",
+  "name": "Champion Jack Dupree",
+  "entityType": "artist",
+  "summary": "Champion Jack Dupree was a blues pianist, jazz musician and singer.",
+  "dateDisplay": "1910 – 1992",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Pianist", "Jazz Musician", "Singer", "Composer"],
+  "instruments": ["Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-champion-jack-dupree",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "1aabAlwV2Sw",
+    "title": "Champion Jack Dupree - Vietnam Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=1aabAlwV2Sw",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

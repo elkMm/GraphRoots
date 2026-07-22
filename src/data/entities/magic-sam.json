@@ -1,0 +1,24 @@
+{
+  "id": "entity:magic-sam",
+  "slug": "magic-sam",
+  "name": "Magic Sam",
+  "entityType": "artist",
+  "summary": "Magic Sam was a blues singer and guitarist.",
+  "dateDisplay": "1937 – 1969",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Guitarist"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-magic-sam",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "SvzPNBDt7Eo",
+    "title": "All Of Your Love",
+    "sourceUrl": "https://www.youtube.com/watch?v=SvzPNBDt7Eo",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "entity:victoria-spivey",
+  "slug": "victoria-spivey",
+  "name": "Victoria Spivey",
+  "entityType": "artist",
+  "summary": "Texas singer, pianist, songwriter, bandleader and label owner whose work bridged classic blues recording, postwar performance and the blues revival.",
+  "dateDisplay": "1906 – 1976",
+  "regions": ["Texas", "New York"],
+  "styles": ["Classic blues", "Vaudeville blues"],
+  "roles": ["Singer", "Songwriter", "Pianist", "Bandleader", "Label owner"],
+  "instruments": ["Piano"],
+  "sourceIds": ["source:victoria-spivey-blues-foundation"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "IY1-7YpYGKY",
+    "title": "Black Snake Swing",
+    "sourceUrl": "https://www.youtube.com/watch?v=IY1-7YpYGKY",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

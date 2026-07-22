@@ -1,0 +1,23 @@
+{
+  "id": "entity:kirk-fletcher",
+  "slug": "kirk-fletcher",
+  "name": "Kirk Fletcher",
+  "entityType": "artist",
+  "summary": "Kirk Fletcher is a blues guitarist and musician.",
+  "dateDisplay": "1975 –",
+  "regions": ["United States"],
+  "styles": ["Blues", "Rhythm And Blues"],
+  "roles": ["Guitarist", "Musician"],
+  "sourceIds": [
+    "source:encyclopedia-kirk-fletcher",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "yD2fLIWQLw0",
+    "title": "You Went Back On Your Word",
+    "sourceUrl": "https://www.youtube.com/watch?v=yD2fLIWQLw0",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

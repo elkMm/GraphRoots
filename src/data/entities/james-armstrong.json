@@ -1,0 +1,24 @@
+{
+  "id": "entity:james-armstrong",
+  "slug": "james-armstrong",
+  "name": "James Armstrong",
+  "entityType": "artist",
+  "summary": "James Armstrong is a blues singer and songwriter.",
+  "dateDisplay": "1957 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Songwriter"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-james-armstrong",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "AYzbf_ene70",
+    "title": "Young Man With The Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=AYzbf_ene70",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

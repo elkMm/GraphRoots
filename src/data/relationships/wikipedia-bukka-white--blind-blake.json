@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-bukka-white--blind-blake",
+  "slug": "wikipedia-bukka-white--blind-blake",
+  "entityAId": "entity:bukka-white",
+  "entityBId": "entity:blind-blake",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Bukka White and Blind Blake in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-bukka-white"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bukka-white@1344582282:14). Verify the cited page context and an independent source before review."
+}

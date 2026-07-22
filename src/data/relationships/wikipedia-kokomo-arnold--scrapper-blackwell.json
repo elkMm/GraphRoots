@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-kokomo-arnold--scrapper-blackwell",
+  "slug": "wikipedia-kokomo-arnold--scrapper-blackwell",
+  "entityAId": "entity:kokomo-arnold",
+  "entityBId": "entity:scrapper-blackwell",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Kokomo Arnold and Scrapper Blackwell in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-kokomo-arnold",
+    "source:wikipedia-biography-scrapper-blackwell"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (kokomo-arnold@1352436093:1, scrapper-blackwell@1362398671:4). Verify the cited page context and an independent source before review."
+}

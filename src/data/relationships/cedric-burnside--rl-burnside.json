@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:009",
+  "slug": "cedric-burnside--rl-burnside",
+  "entityAId": "entity:cedric-burnside",
+  "entityBId": "entity:rl-burnside",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "directly_documented",
+  "explanation": "Cedric Burnside's official biography records that he went on the road at thirteen as drummer for his grandfather R.L. Burnside.",
+  "citationIds": ["source:cedric-burnside-official-bio"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

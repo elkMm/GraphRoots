@@ -1,0 +1,24 @@
+{
+  "id": "entity:luther-johnson",
+  "slug": "luther-johnson",
+  "name": "Luther Johnson",
+  "entityType": "artist",
+  "summary": "Luther Johnson was a blues singer-songwriter, musician and singer.",
+  "dateDisplay": "1939 – 2022",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer-Songwriter", "Musician", "Singer"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-luther-johnson",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "yBQy7qc90nU",
+    "title": "Luther Johnson (Live in 1973 - France)",
+    "sourceUrl": "https://www.youtube.com/watch?v=yBQy7qc90nU",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

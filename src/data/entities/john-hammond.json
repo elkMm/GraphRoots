@@ -1,0 +1,26 @@
+{
+  "id": "entity:john-hammond",
+  "slug": "john-hammond",
+  "name": "John Hammond",
+  "aliases": ["John P. Hammond"],
+  "entityType": "artist",
+  "summary": "New York singer, guitarist and harmonica player who sustained a six-decade career interpreting country and acoustic blues repertoire.",
+  "dateDisplay": "1942 – 2026",
+  "regions": ["New York", "United States"],
+  "styles": ["Acoustic blues", "Country blues"],
+  "roles": ["Singer", "Guitarist", "Harmonica player"],
+  "instruments": ["Guitar", "Harmonica"],
+  "sourceIds": [
+    "source:john-hammond-blues-foundation",
+    "source:john-hammond-official"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "uPd1-rMFnmk",
+    "title": "You Don’t Love Me",
+    "sourceUrl": "https://www.youtube.com/watch?v=uPd1-rMFnmk",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

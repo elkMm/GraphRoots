@@ -1,0 +1,372 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { loadCorpus } from "../domain/corpus/load-corpus";
+
+const corpus = await loadCorpus();
+---
+
+<BaseLayout
+  title="Methodology"
+  description="How GraphRoots defines relationships, assigns direction, evaluates evidence, represents disagreement, and reviews its evolving corpus."
+  canonicalPath="/methodology"
+>
+  <article class="shell methodology">
+    <header class="reading">
+      <p class="eyebrow">Methodology · Corpus {corpus.metadata.version}</p>
+      <h1>Every arrow is a claim.</h1>
+      <p class="lede">
+        GraphRoots treats musical transmission as heterogeneous,
+        evidence-dependent, and open to revision. Mentorship, membership,
+        performance, adaptation, shared context, and historical comparison are
+        distinct relationships and are not treated as interchangeable forms of
+        influence.
+      </p>
+    </header>
+
+    <div class="method-grid">
+      <aside>
+        <nav aria-label="Methodology sections">
+          <a href="#scope">Scope</a>
+          <a href="#qualification">Qualification</a>
+          <a href="#direction">Direction</a>
+          <a href="#evidence">Evidence</a>
+          <a href="#sources">Sources</a>
+          <a href="#disagreement">Disagreement</a>
+          <a href="#limits">Limits</a>
+          <a href="#review">Review</a>
+          <a href="#releases">Releases</a>
+        </nav>
+      </aside>
+
+      <div class="reading prose">
+        <section id="scope">
+          <h2>Scope and unit of record</h2>
+          <p>
+            GraphRoots is a curated and versioned knowledge graph of musical
+            transmission. Its entities may include artists, ensembles,
+            traditions, recordings, compositions, places, scenes, institutions,
+            events, and revival movements.
+          </p>
+          <p>
+            Each relationship is an atomic proposition connecting two entities.
+            It records one specific claim that can be expressed in plain
+            language, supported by citations, and reviewed independently from
+            other relationships.
+          </p>
+        </section>
+
+        <section id="qualification">
+          <h2>What qualifies</h2>
+          <p>
+            A relationship qualifies for the reviewed corpus when its meaning
+            can be represented by a controlled relationship type, its endpoints
+            are clearly identified, and its supporting evidence and limitations
+            can be described.
+          </p>
+          <p>
+            GraphRoots does not treat <code>influenced</code> as a sufficient relationship
+            type in the reviewed corpus. A claim should instead identify the mechanism
+            involved, such as mentorship, collaboration, adaptation, performance,
+            repertoire transmission, institutional association, migration, revival,
+            or documented stylistic influence.
+          </p>
+          <p>
+            Legacy untyped links and explicit artist co-mentions found in a
+            cited biography may appear temporarily as dashed provisional
+            pathways while they await classification, corroboration, or removal.
+            A co-mention shows that one artist's biography places the other in
+            its account; it does not by itself establish influence or causation.
+            Provisional paths are excluded from the reviewed public dataset.
+          </p>
+        </section>
+
+        <section id="direction">
+          <h2>How direction works</h2>
+          <p>
+            Direction follows the meaning of the relationship predicate. In
+            <code>A mentored B</code>, A is the mentor and B is the person
+            mentored. In <code>A member_of B</code>, A is the member and B is
+            the ensemble. Predicate direction does not necessarily imply
+            causation or historical importance.
+          </p>
+          <p>
+            Symmetric relationships, such as a shared scene or reciprocal
+            collaboration, are stored and displayed without an arbitrary causal
+            direction. They are not rendered as one-way influence arrows.
+          </p>
+          <p>
+            Untyped provisional records use neutral endpoints and an
+            <code>undetermined</code> orientation. They appear without arrows, and
+            visitors can switch from the default exploratory graph to a reviewed-only
+            view.
+          </p>
+          <p>
+            The complete GraphRoots knowledge graph may contain cycles. The
+            historical transmission DAG is a derived analytical projection
+            containing only relationships that are both asymmetric and
+            temporally ordered. Membership, symmetric association, reciprocal
+            collaboration, and retrospective revival are excluded from that
+            projection unless a separate directed transmission claim is
+            documented.
+          </p>
+        </section>
+
+        <section id="evidence">
+          <h2>Evidence categories</h2>
+          <dl>
+            <div>
+              <dt>Directly documented</dt>
+              <dd>
+                Supported by direct testimony, correspondence, interviews,
+                recording documentation, contractual records, contemporary
+                reporting, or other primary or near-primary evidence.
+              </dd>
+            </div>
+            <div>
+              <dt>Historically corroborated</dt>
+              <dd>
+                Supported by multiple credible and substantially independent
+                historical sources, even when direct testimony does not survive.
+              </dd>
+            </div>
+            <div>
+              <dt>Contextual or inferential</dt>
+              <dd>
+                Supported by repertoire, chronology, geography, institutional
+                association, shared performance context, or another indirect
+                line of evidence that warrants a qualified connection.
+              </dd>
+            </div>
+            <div>
+              <dt>Interpretive or debated</dt>
+              <dd>
+                Represents a plausible interpretation, disputed attribution, or
+                non-continuous historical comparison whose uncertainty is part
+                of the record.
+              </dd>
+            </div>
+          </dl>
+          <p>
+            These categories describe the basis and strength of support. They
+            are not calibrated numerical probabilities, and they should not be
+            converted mechanically into certainty scores.
+          </p>
+          <p>
+            Evidence category, relationship type, editorial review status, and
+            dispute status are recorded separately.
+          </p>
+        </section>
+
+        <section id="sources">
+          <h2>Sources and citation policy</h2>
+          <p>
+            Every reviewed public relationship must cite at least one
+            identifiable source. Citations should include page numbers, archival
+            identifiers, recording details, interview dates, or timecodes
+            whenever these are available.
+          </p>
+          <p>
+            Primary sources are preferred for direct historical claims, but they
+            are not treated as automatically complete or impartial. Secondary
+            scholarship is evaluated for its methods, proximity to the events,
+            and dependence on earlier accounts.
+          </p>
+          <p>
+            Several publications repeating the same unsupported account do not
+            constitute independent corroboration. When sources conflict, the
+            disagreement and the basis of each interpretation are recorded
+            rather than silently resolved.
+          </p>
+          <p>
+            A linked artist mention in an English Wikipedia biography may
+            support a provisional discovery path when GraphRoots records the
+            exact page revision and paragraph locator. That single source is a
+            discovery aid, not independent corroboration, and cannot make the
+            relationship reviewed without further editorial assessment.
+          </p>
+        </section>
+
+        <section id="disagreement">
+          <h2>Disagreement</h2>
+          <p>
+            A disputed relationship may remain public when the disagreement is
+            historically meaningful, adequately sourced, and clearly described.
+            Disputed records use distinct styling, carry a visible notice, and
+            avoid language that implies established causation.
+          </p>
+          <p>
+            Dispute status does not mean that a record has escaped review. A
+            relationship may be both reviewed and disputed when the editorial
+            conclusion is that a documented disagreement should remain visible.
+          </p>
+        </section>
+
+        <section id="limits">
+          <h2>Limits and bias</h2>
+          <p>
+            GraphRoots is not a complete or authoritative genealogy of the
+            blues. The corpus inherits archival, commercial, geographic, and
+            institutional biases, including unequal documentation produced by
+            segregation, exclusion from recording industries, unequal access to
+            distribution, and the later formation of musical canons.
+          </p>
+          <p>
+            Recorded and commercially successful musicians are often easier to
+            document than local performers, informal teachers, audiences,
+            communities, and collective traditions. The platform therefore
+            represents surviving and reviewed evidence, not the full historical
+            reality of musical transmission.
+          </p>
+          <p>
+            The absence of an edge means only that the current release does not
+            contain a sufficiently defined and supported relationship. It does
+            not establish that no historical connection existed.
+          </p>
+          <p>
+            Connection count, path position, centrality, and other graph
+            measures describe the current corpus. They are not measures of
+            artistic value, originality, cultural importance, or historical
+            worth.
+          </p>
+        </section>
+
+        <section id="review">
+          <h2>Review and correction</h2>
+          <p>
+            Editorial review status is independent from evidence category and
+            dispute status.
+          </p>
+          <dl>
+            <div>
+              <dt>Draft</dt>
+              <dd>
+                An internal record under development. Draft records are not
+                included in the public graph or public downloads.
+              </dd>
+            </div>
+            <div>
+              <dt>Provisional</dt>
+              <dd>
+                A partially reviewed record that may appear as a clearly styled
+                exploratory pathway. It is excluded from the reviewed dataset,
+                public relationship exports, and analytical projections.
+              </dd>
+            </div>
+            <div>
+              <dt>Reviewed</dt>
+              <dd>
+                A record whose type, endpoints, wording, evidence, citations,
+                and notices have passed editorial review.
+              </dd>
+            </div>
+            <div>
+              <dt>Withdrawn</dt>
+              <dd>
+                A previously considered or published claim that is no longer
+                supported. Its withdrawal remains documented in the changelog,
+                but the relationship is excluded from the active graph.
+              </dd>
+            </div>
+          </dl>
+          <p>
+            Reviewed records may also be marked as disputed when the
+            disagreement itself has been examined and documented. Records
+            requiring substantive correction return to provisional status until
+            the necessary review is complete.
+          </p>
+        </section>
+
+        <section id="releases">
+          <h2>Releases and reproducibility</h2>
+          <p>
+            The corpus has its own version number, independent from the
+            application version. Each public release records additions,
+            corrections, reclassifications, disputes, and withdrawals in a
+            dedicated changelog.
+          </p>
+          <p>
+            Before release, automated validation checks entity references,
+            relationship types, duplicate records, citation requirements,
+            temporal consistency, and publication status. Public exports are
+            generated from the same reviewed corpus used to build the website.
+          </p>
+        </section>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .methodology {
+    padding-block: clamp(3rem, 8vw, 7rem);
+  }
+
+  .method-grid {
+    display: grid;
+    grid-template-columns: 12rem minmax(0, 1fr);
+    gap: clamp(2rem, 7vw, 7rem);
+    margin-top: 3rem;
+  }
+
+  .methodology aside nav {
+    position: sticky;
+    top: calc(var(--site-header-height, 0rem) + 2rem);
+    display: grid;
+    gap: 0.7rem;
+    font-family: var(--font-meta);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+  }
+
+  .methodology aside a {
+    line-height: 1.3;
+  }
+
+  .prose section {
+    scroll-margin-top: calc(var(--site-header-height, 0rem) + 2rem);
+  }
+
+  .prose section + section {
+    margin-top: clamp(3rem, 7vw, 5rem);
+  }
+
+  code {
+    color: var(--color-gold);
+    font-family: var(--font-meta);
+  }
+
+  dl {
+    margin-block: 1.5rem;
+  }
+
+  dl div {
+    border-bottom: 1px solid var(--color-border);
+    padding-block: 1rem;
+  }
+
+  dl div:first-child {
+    border-top: 1px solid var(--color-border);
+  }
+
+  dt {
+    color: var(--color-gold);
+    font-family: var(--font-meta);
+    font-size: 0.78rem;
+    text-transform: uppercase;
+  }
+
+  dd {
+    margin: 0.35rem 0 0;
+  }
+
+  @media (max-width: 44rem) {
+    .method-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .methodology aside nav {
+      position: static;
+      grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+    }
+  }
+</style>

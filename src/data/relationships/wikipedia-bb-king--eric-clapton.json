@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-bb-king--eric-clapton",
+  "slug": "wikipedia-bb-king--eric-clapton",
+  "entityAId": "entity:bb-king",
+  "entityBId": "entity:eric-clapton",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects B.B. King and Eric Clapton in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-bb-king"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bb-king@1363854621:15, bb-king@1363854621:17, bb-king@1363854621:24). Verify the cited page context and an independent source before review."
+}

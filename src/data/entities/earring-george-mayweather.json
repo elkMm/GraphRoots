@@ -1,0 +1,24 @@
+{
+  "id": "entity:earring-george-mayweather",
+  "slug": "earring-george-mayweather",
+  "name": "Earring George Mayweather",
+  "entityType": "artist",
+  "summary": "Earring George Mayweather was a blues songwriter.",
+  "dateDisplay": "1927 – 1995",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Songwriter"],
+  "instruments": ["Harmonica"],
+  "sourceIds": [
+    "source:encyclopedia-earring-george-mayweather",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "fmPSW7yQANw",
+    "title": "''EARRING'' GEORGE MAYWEATHER (Montgomery County, Alabama, U.S.A) - Feel So Bad",
+    "sourceUrl": "https://www.youtube.com/watch?v=fmPSW7yQANw",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

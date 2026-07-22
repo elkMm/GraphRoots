@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-t-bone-walker--louis-jordan",
+  "slug": "wikipedia-t-bone-walker--louis-jordan",
+  "entityAId": "entity:t-bone-walker",
+  "entityBId": "entity:louis-jordan",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects T-Bone Walker and Louis Jordan in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-t-bone-walker"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (t-bone-walker@1361867072:14). Verify the cited page context and an independent source before review."
+}

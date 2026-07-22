@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:004",
+  "slug": "eric-gales--christone-kingfish-ingram",
+  "entityAId": "entity:eric-gales",
+  "entityBId": "entity:christone-kingfish-ingram",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "directly_documented",
+  "explanation": "In a direct interview, Ingram explains that watching Eric Gales pushed him toward a wider blues-rock vocabulary and specific guitar techniques.",
+  "citationIds": ["source:kingfish-guitar-world-2026"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

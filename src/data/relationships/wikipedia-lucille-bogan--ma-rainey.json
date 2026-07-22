@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-lucille-bogan--ma-rainey",
+  "slug": "wikipedia-lucille-bogan--ma-rainey",
+  "entityAId": "entity:lucille-bogan",
+  "entityBId": "entity:ma-rainey",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Lucille Bogan and Ma Rainey in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-lucille-bogan"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (lucille-bogan@1326357297:1). Verify the cited page context and an independent source before review."
+}

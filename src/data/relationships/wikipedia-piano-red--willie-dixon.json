@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-piano-red--willie-dixon",
+  "slug": "wikipedia-piano-red--willie-dixon",
+  "entityAId": "entity:piano-red",
+  "entityBId": "entity:willie-dixon",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Piano Red and Willie Dixon in the same recording context. The precise session details await independent review.",
+  "citationIds": ["source:wikipedia-biography-piano-red"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (piano-red@1332375373:9). Verify the cited page context and an independent source before review."
+}

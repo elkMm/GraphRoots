@@ -1,0 +1,24 @@
+{
+  "id": "entity:fruteland-jackson",
+  "slug": "fruteland-jackson",
+  "name": "Fruteland Jackson",
+  "entityType": "artist",
+  "summary": "Fruteland Jackson is a blues singer and songwriter.",
+  "dateDisplay": "1953 –",
+  "regions": ["United States"],
+  "styles": ["Blues", "Electric Blues"],
+  "roles": ["Singer", "Songwriter"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-fruteland-jackson",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "ruFkMg4CYuk",
+    "title": "Titanic Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=ruFkMg4CYuk",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

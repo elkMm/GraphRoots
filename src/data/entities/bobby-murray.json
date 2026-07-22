@@ -1,0 +1,24 @@
+{
+  "id": "entity:bobby-murray",
+  "slug": "bobby-murray",
+  "name": "Bobby Murray",
+  "entityType": "artist",
+  "summary": "Bobby Murray was a blues songwriter and guitarist.",
+  "dateDisplay": "1953 – 2026",
+  "regions": ["United States"],
+  "styles": ["Blues", "Electric Blues"],
+  "roles": ["Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-bobby-murray",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "enyMbjiUQkg",
+    "title": "Bobby Murray - Waiting For Mr  Goodfingers",
+    "sourceUrl": "https://www.youtube.com/watch?v=enyMbjiUQkg",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

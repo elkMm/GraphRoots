@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-bonnie-raitt--tommy-johnson",
+  "slug": "wikipedia-bonnie-raitt--tommy-johnson",
+  "entityAId": "entity:bonnie-raitt",
+  "entityBId": "entity:tommy-johnson",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Bonnie Raitt and Tommy Johnson in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-bonnie-raitt",
+    "source:wikipedia-biography-tommy-johnson"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bonnie-raitt@1362043608:42, tommy-johnson@1360586149:9). Verify the cited page context and an independent source before review."
+}

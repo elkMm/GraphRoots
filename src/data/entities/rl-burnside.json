@@ -1,0 +1,22 @@
+{
+  "id": "entity:rl-burnside",
+  "slug": "rl-burnside",
+  "name": "R.L. Burnside",
+  "entityType": "artist",
+  "summary": "Mississippi singer-guitarist whose driving, repetitive grooves became a defining recorded expression of North Mississippi Hill Country blues.",
+  "dateDisplay": "1926 – 2005",
+  "regions": ["North Mississippi", "Mississippi Hill Country"],
+  "styles": ["Hill Country blues", "Electric blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:rl-burnside-blues-foundation"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "kQxl8ljD560",
+    "title": "Someday Baby",
+    "sourceUrl": "https://www.youtube.com/watch?v=kQxl8ljD560",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

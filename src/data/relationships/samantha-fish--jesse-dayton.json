@@ -1,0 +1,17 @@
+{
+  "id": "relationship:research:013",
+  "slug": "samantha-fish--jesse-dayton",
+  "entityAId": "entity:samantha-fish",
+  "entityBId": "entity:jesse-dayton",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "directly_documented",
+  "explanation": "Fish and Dayton co-wrote and recorded the collaborative album Death Wish Blues.",
+  "citationIds": [
+    "source:samantha-fish-official-bio",
+    "source:jesse-dayton-official-bio"
+  ],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

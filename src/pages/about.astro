@@ -1,0 +1,136 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { projectMetadata } from "../config/project";
+import { withBase } from "../domain/base-path";
+
+const methodologyPath = withBase("/methodology");
+const licensePath = withBase("/legal/license");
+---
+
+<BaseLayout
+  title="About"
+  description="About GraphRoots, an independent public project for exploring the people, traditions, recordings, places, and pathways through which music travels."
+  canonicalPath="/about"
+>
+  <article class="shell about-page reading">
+    <p class="eyebrow">{projectMetadata.attribution}</p>
+
+    <h1>About GraphRoots</h1>
+
+    <p class="lede">
+      GraphRoots is an independent public research and visualization project
+      exploring how music travels through artists, traditions, recordings,
+      places, scenes, institutions, technologies, and historical events.
+    </p>
+
+    <h2>Music as a network</h2>
+
+    <p>
+      Musical history does not unfold through a single line of descent.
+      Traditions are transmitted through mentorship, migration, performance,
+      collaboration, recorded sound, adaptation, revival, and shared cultural
+      settings. These relationships overlap, diverge, and sometimes remain
+      uncertain or disputed.
+    </p>
+
+    <p>
+      GraphRoots uses interactive graphs to make these pathways explorable
+      without reducing every connection to a generic claim of influence.
+      Relationship types, supporting evidence, editorial status, and
+      disagreement remain visible wherever the available sources allow.
+    </p>
+
+    <h2>Why begin with the blues?</h2>
+
+    <p>
+      The blues offers a powerful starting point because its history connects
+      African musical traditions, African American life in the American South,
+      migration, recording industries, regional scenes, technological change,
+      transatlantic revival, and worldwide reinterpretation.
+    </p>
+
+    <p>
+      <strong>GraphRoots / Blues: Roots &amp; Branches</strong> is the first collection
+      developed on the platform. It traces selected connections among artists, ensembles,
+      traditions, recordings, places, scenes, and revivals. It is an early, curated
+      release and an evolving research corpus, not a complete genealogy or a final
+      account of blues history.
+    </p>
+
+    <h2>A curated and evolving corpus</h2>
+
+    <p>
+      Every reviewed public relationship represents a specific historical claim.
+      Records are classified, sourced, reviewed, and versioned independently.
+      The absence of a connection does not mean that no historical relationship
+      existed; it means only that the current release does not yet contain a
+      sufficiently defined and supported record.
+    </p>
+
+    <p>
+      The project also acknowledges that surviving archives are uneven.
+      Commercial success, access to recording and distribution, segregation,
+      institutional collecting, and later canon formation all influence which
+      musicians and traditions are easiest to document.
+    </p>
+
+    <p>
+      The principles used to define relationships, assign direction, evaluate
+      evidence, represent disagreement, and prepare public releases are
+      described on the <a href={methodologyPath}>Methodology page</a>.
+    </p>
+
+    <h2>Open project</h2>
+
+    <p>
+      The GraphRoots website and corpus are developed openly. The <a
+        href={projectMetadata.repositoryUrl}
+        >source code, structured data, release history, and documentation</a
+      > are maintained together so that the project can be examined, cited, reused,
+      and improved.
+    </p>
+
+    <p>
+      The software and associated documentation are available under the <a
+        href={licensePath}>MIT License</a
+      >. Third-party media and source materials remain subject to their own
+      rights and terms.
+    </p>
+
+    <h2>Corrections and contributions</h2>
+
+    <p>
+      GraphRoots welcomes well-sourced corrections, clarifications, and
+      proposals for missing relationships. Submissions should identify the
+      relevant record, describe the proposed change, and provide sources that
+      can be independently reviewed.
+    </p>
+
+    <p>
+      <a href={projectMetadata.correctionsUrl}>Open a corpus correction issue</a
+      >
+      in the project repository. Accepted changes are recorded in the corpus changelog
+      and included in a subsequent versioned release.
+    </p>
+
+    <h2>Independence</h2>
+
+    <p>
+      GraphRoots is currently developed as an independent project. It is not a
+      subsidiary, collection, or branded initiative of another organization.
+      Future scholarly, archival, educational, or institutional collaborations
+      may be acknowledged individually without changing that independent
+      identity.
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .about-page {
+    padding-block: clamp(3rem, 8vw, 7rem);
+  }
+
+  .about-page h2 {
+    margin-top: clamp(2.75rem, 6vw, 4.5rem);
+  }
+</style>

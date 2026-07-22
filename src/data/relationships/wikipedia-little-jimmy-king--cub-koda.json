@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-little-jimmy-king--cub-koda",
+  "slug": "wikipedia-little-jimmy-king--cub-koda",
+  "entityAId": "entity:little-jimmy-king",
+  "entityBId": "entity:cub-koda",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Little Jimmy King and Cub Koda in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-little-jimmy-king"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (little-jimmy-king@1343962053:6). Verify the cited page context and an independent source before review."
+}

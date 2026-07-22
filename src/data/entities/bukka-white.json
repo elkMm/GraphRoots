@@ -1,0 +1,24 @@
+{
+  "id": "entity:bukka-white",
+  "slug": "bukka-white",
+  "name": "Bukka White",
+  "entityType": "artist",
+  "summary": "Bukka White was a blues guitarist, pianist and songwriter.",
+  "dateDisplay": "1909 – 1977",
+  "regions": ["United States"],
+  "styles": ["Blues", "Delta Blues", "Country Blues"],
+  "roles": ["Guitarist", "Pianist", "Songwriter", "Singer"],
+  "instruments": ["Guitar", "Piano"],
+  "sourceIds": [
+    "source:encyclopedia-bukka-white",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "KbHtNMyAB7g",
+    "title": "Bukka White - Aberdeen Mississippi Blues (1967) HQ",
+    "sourceUrl": "https://www.youtube.com/watch?v=KbHtNMyAB7g",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

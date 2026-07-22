@@ -1,0 +1,22 @@
+{
+  "id": "entity:sonny-terry",
+  "slug": "sonny-terry",
+  "name": "Sonny Terry",
+  "entityType": "artist",
+  "summary": "Georgia-born singer and harmonica player whose expressive whoops, train effects and rhythmic playing became a defining Piedmont blues sound.",
+  "dateDisplay": "1911 – 1986",
+  "regions": ["Georgia", "North Carolina", "New York"],
+  "styles": ["Piedmont blues", "Country blues"],
+  "roles": ["Singer", "Harmonica player"],
+  "instruments": ["Harmonica"],
+  "sourceIds": ["source:sonny-terry-blues-foundation"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "C5v4hwhV8N8",
+    "title": "Walkin’ My Blues Away",
+    "sourceUrl": "https://www.youtube.com/watch?v=C5v4hwhV8N8",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

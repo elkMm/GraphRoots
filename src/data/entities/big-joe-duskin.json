@@ -1,0 +1,24 @@
+{
+  "id": "entity:big-joe-duskin",
+  "slug": "big-joe-duskin",
+  "name": "Big Joe Duskin",
+  "entityType": "artist",
+  "summary": "Big Joe Duskin was a blues pianist, jazz musician and songwriter.",
+  "dateDisplay": "1921 – 2007",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Pianist", "Jazz Musician", "Songwriter", "Musician"],
+  "instruments": ["Piano"],
+  "sourceIds": [
+    "source:encyclopedia-big-joe-duskin",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "sij4zqsuAmE",
+    "title": "BIG JOE DUSKIN (Birmingham, Alabama, USA) - Big Joe's Boogie Prayer (instr.)",
+    "sourceUrl": "https://www.youtube.com/watch?v=sij4zqsuAmE",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

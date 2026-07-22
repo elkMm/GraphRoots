@@ -1,0 +1,22 @@
+{
+  "id": "entity:blind-willie-johnson",
+  "slug": "blind-willie-johnson",
+  "name": "Blind Willie Johnson",
+  "entityType": "artist",
+  "summary": "Texas gospel-blues singer and slide guitarist whose forceful voice and thirty Columbia recordings joined sacred repertoire with blues technique.",
+  "dateDisplay": "1897 – 1945",
+  "regions": ["Texas"],
+  "styles": ["Gospel blues", "Texas blues", "Slide guitar blues"],
+  "roles": ["Singer", "Guitarist", "Preacher"],
+  "instruments": ["Slide guitar"],
+  "sourceIds": ["source:blind-willie-johnson-tsha"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "ud74hhPqISo",
+    "title": "Dark Was the Night, Cold Was the Ground",
+    "sourceUrl": "https://www.youtube.com/watch?v=ud74hhPqISo",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

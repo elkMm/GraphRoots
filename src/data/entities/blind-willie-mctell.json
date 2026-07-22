@@ -1,0 +1,24 @@
+{
+  "id": "entity:blind-willie-mctell",
+  "slug": "blind-willie-mctell",
+  "name": "Blind Willie McTell",
+  "entityType": "artist",
+  "summary": "Blind Willie McTell was a blues singer-songwriter, musician and songwriter.",
+  "dateDisplay": "1898 – 1959",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer-Songwriter", "Musician", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar", "Harmonica"],
+  "sourceIds": [
+    "source:encyclopedia-blind-willie-mctell",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "sk4Js6Q58h8",
+    "title": "Statesboro Blues (Remastered 2002)",
+    "sourceUrl": "https://www.youtube.com/watch?v=sk4Js6Q58h8",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

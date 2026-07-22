@@ -1,0 +1,24 @@
+{
+  "id": "entity:j-b-lenoir",
+  "slug": "j-b-lenoir",
+  "name": "J. B. Lenoir",
+  "entityType": "artist",
+  "summary": "J. B. Lenoir was a blues guitarist and singer.",
+  "dateDisplay": "1929 – 1967",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Guitarist", "Singer"],
+  "instruments": ["Guitar", "Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-j-b-lenoir",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "TtzIy1YUVXU",
+    "title": "Alabama Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=TtzIy1YUVXU",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

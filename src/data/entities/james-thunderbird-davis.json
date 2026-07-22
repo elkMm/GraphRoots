@@ -1,0 +1,24 @@
+{
+  "id": "entity:james-thunderbird-davis",
+  "slug": "james-thunderbird-davis",
+  "name": "James \"Thunderbird\" Davis",
+  "entityType": "artist",
+  "summary": "James \"Thunderbird\" Davis was a blues singer.",
+  "dateDisplay": "1938 – 1992",
+  "regions": [],
+  "styles": ["Blues"],
+  "roles": ["Singer"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-james-thunderbird-davis",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "VrKzWGwbf2k",
+    "title": "James 'Thunderbird' Davis & Ron Levy   'Checkout Time'",
+    "sourceUrl": "https://www.youtube.com/watch?v=VrKzWGwbf2k",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

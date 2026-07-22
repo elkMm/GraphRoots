@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-etta-baker--kenny-wayne-shepherd",
+  "slug": "wikipedia-etta-baker--kenny-wayne-shepherd",
+  "entityAId": "entity:etta-baker",
+  "entityBId": "entity:kenny-wayne-shepherd",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Etta Baker and Kenny Wayne Shepherd in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-etta-baker",
+    "source:wikipedia-biography-kenny-wayne-shepherd"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (etta-baker@1335722454:5, kenny-wayne-shepherd@1359064895:7). Verify the cited page context and an independent source before review."
+}

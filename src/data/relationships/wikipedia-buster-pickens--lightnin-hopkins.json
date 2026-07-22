@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-buster-pickens--lightnin-hopkins",
+  "slug": "wikipedia-buster-pickens--lightnin-hopkins",
+  "entityAId": "entity:buster-pickens",
+  "entityBId": "entity:lightnin-hopkins",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Buster Pickens and Lightnin’ Hopkins in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-buster-pickens"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (buster-pickens@1315545481:1, buster-pickens@1315545481:5). Verify the cited page context and an independent source before review."
+}

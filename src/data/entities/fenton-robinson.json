@@ -1,0 +1,24 @@
+{
+  "id": "entity:fenton-robinson",
+  "slug": "fenton-robinson",
+  "name": "Fenton Robinson",
+  "entityType": "artist",
+  "summary": "Fenton Robinson was a blues singer, guitarist and jazz guitarist.",
+  "dateDisplay": "1935 – 1997",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Guitarist", "Jazz Guitarist", "Musician"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-fenton-robinson",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "EiGx5xNcBZA",
+    "title": "Fenton Robinson,As the years go passing by",
+    "sourceUrl": "https://www.youtube.com/watch?v=EiGx5xNcBZA",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

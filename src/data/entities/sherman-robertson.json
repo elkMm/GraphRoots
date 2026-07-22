@@ -1,0 +1,24 @@
+{
+  "id": "entity:sherman-robertson",
+  "slug": "sherman-robertson",
+  "name": "Sherman Robertson",
+  "entityType": "artist",
+  "summary": "Sherman Robertson was a blues singer, guitarist and songwriter.",
+  "dateDisplay": "1948 – 2021",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Guitarist", "Songwriter"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-sherman-robertson",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "j-Un7aN-STQ",
+    "title": "Sherman Robertson    ~    Tribute  Live ( Modern Electric Texas Blues )",
+    "sourceUrl": "https://www.youtube.com/watch?v=j-Un7aN-STQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

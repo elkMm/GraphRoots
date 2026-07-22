@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-eric-clapton--jimi-hendrix",
+  "slug": "wikipedia-eric-clapton--jimi-hendrix",
+  "entityAId": "entity:eric-clapton",
+  "entityBId": "entity:jimi-hendrix",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Eric Clapton and Jimi Hendrix in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-eric-clapton",
+    "source:wikipedia-biography-jimi-hendrix"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (eric-clapton@1361262465:14, jimi-hendrix@1364666369:27). Verify the cited page context and an independent source before review."
+}

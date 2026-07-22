@@ -1,0 +1,25 @@
+{
+  "id": "entity:amos-milburn",
+  "slug": "amos-milburn",
+  "name": "Amos Milburn",
+  "entityType": "artist",
+  "summary": "Amos Milburn was a blues singer-songwriter, musician and pianist.",
+  "dateDisplay": "1927 – 1980",
+  "regions": ["United States"],
+  "styles": ["Blues", "Rhythm And Blues"],
+  "roles": ["Singer-Songwriter", "Musician", "Pianist"],
+  "instruments": ["Piano"],
+  "sourceIds": [
+    "source:encyclopedia-amos-milburn",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:carnegie-hall-rhythm-blues"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "xblhB5bgdCo",
+    "title": "Amos Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=xblhB5bgdCo",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

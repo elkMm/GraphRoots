@@ -1,0 +1,24 @@
+{
+  "id": "entity:travis-leonard-blaylock",
+  "slug": "travis-leonard-blaylock",
+  "name": "Travis Leonard Blaylock",
+  "entityType": "artist",
+  "summary": "Travis Leonard Blaylock was a blues singer.",
+  "dateDisplay": "1934 – 1984",
+  "regions": [],
+  "styles": ["Blues"],
+  "roles": ["Singer"],
+  "instruments": ["Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-travis-leonard-blaylock",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "zzqkmMCe4z0",
+    "title": "HARMONICA SLIM [Travis Leonard Blaylock] (Douglassville, Texas, U.S.A) - B1 - That's All Right",
+    "sourceUrl": "https://www.youtube.com/watch?v=zzqkmMCe4z0",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

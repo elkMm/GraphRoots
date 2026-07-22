@@ -1,0 +1,25 @@
+{
+  "id": "entity:charley-patton",
+  "slug": "charley-patton",
+  "name": "Charley Patton",
+  "entityType": "artist",
+  "summary": "Often called the 'Father of the Delta Blues.' His percussive guitar attack, growling voice, and showmanship set the template that nearly every Delta player who followed absorbed directly or secondhand.",
+  "dateDisplay": "c. 1891 – 1934",
+  "regions": ["Dockery Plantation, Mississippi"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "sdytu2e3v6Y",
+    "title": "Pony Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=sdytu2e3v6Y",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "charley_patton",
+    "originalEra": "delta"
+  }
+}

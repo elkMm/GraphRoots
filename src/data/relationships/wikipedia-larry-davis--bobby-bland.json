@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-larry-davis--bobby-bland",
+  "slug": "wikipedia-larry-davis--bobby-bland",
+  "entityAId": "entity:larry-davis",
+  "entityBId": "entity:bobby-bland",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Larry Davis and Bobby Bland in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-larry-davis"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (larry-davis@1360575823:2). Verify the cited page context and an independent source before review."
+}

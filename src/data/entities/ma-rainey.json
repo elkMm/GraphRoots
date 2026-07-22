@@ -1,0 +1,25 @@
+{
+  "id": "entity:ma-rainey",
+  "slug": "ma-rainey",
+  "name": "Ma Rainey",
+  "entityType": "artist",
+  "summary": "The 'Mother of the Blues,' who brought rural blues idiom into vaudeville and mentored Bessie Smith, fusing minstrel-circuit showmanship with blues feeling.",
+  "dateDisplay": "1886 – 1939",
+  "regions": ["Georgia"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "ZeuczIv1p3Y",
+    "title": "See See Rider Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=ZeuczIv1p3Y",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "ma_rainey",
+    "originalEra": "classic"
+  }
+}

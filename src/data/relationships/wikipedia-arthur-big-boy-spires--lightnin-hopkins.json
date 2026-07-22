@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-arthur-big-boy-spires--lightnin-hopkins",
+  "slug": "wikipedia-arthur-big-boy-spires--lightnin-hopkins",
+  "entityAId": "entity:arthur-big-boy-spires",
+  "entityBId": "entity:lightnin-hopkins",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Arthur \"Big Boy\" Spires and Lightnin’ Hopkins in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-arthur-big-boy-spires"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (arthur-big-boy-spires@1320407355:2). Verify the cited page context and an independent source before review."
+}

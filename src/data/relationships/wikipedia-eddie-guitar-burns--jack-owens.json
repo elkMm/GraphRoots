@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-eddie-guitar-burns--jack-owens",
+  "slug": "wikipedia-eddie-guitar-burns--jack-owens",
+  "entityAId": "entity:eddie-guitar-burns",
+  "entityBId": "entity:jack-owens",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Eddie \"Guitar\" Burns and Jack Owens in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-eddie-guitar-burns"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (eddie-guitar-burns@1318202684:7). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entity:george-smith",
+  "slug": "george-smith",
+  "name": "George Smith",
+  "entityType": "artist",
+  "summary": "George Smith was a blues musician.",
+  "dateDisplay": "1924 – 1983",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician"],
+  "instruments": ["Harmonica"],
+  "sourceIds": [
+    "source:encyclopedia-george-smith",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "pp03vjY5OEk",
+    "title": "George ''Harmonica'' Smith     ~    ''Telephone Blues''  Live 1970",
+    "sourceUrl": "https://www.youtube.com/watch?v=pp03vjY5OEk",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

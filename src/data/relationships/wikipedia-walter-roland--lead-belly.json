@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-walter-roland--lead-belly",
+  "slug": "wikipedia-walter-roland--lead-belly",
+  "entityAId": "entity:walter-roland",
+  "entityBId": "entity:lead-belly",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Walter Roland and Lead Belly in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-walter-roland"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (walter-roland@1351014635:10). Verify the cited page context and an independent source before review."
+}

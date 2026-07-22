@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-jimi-hendrix--john-lee-hooker",
+  "slug": "wikipedia-jimi-hendrix--john-lee-hooker",
+  "entityAId": "entity:jimi-hendrix",
+  "entityBId": "entity:john-lee-hooker",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Jimi Hendrix and John Lee Hooker in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-jimi-hendrix"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (jimi-hendrix@1364666369:13). Verify the cited page context and an independent source before review."
+}

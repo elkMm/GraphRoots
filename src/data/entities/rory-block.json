@@ -1,0 +1,23 @@
+{
+  "id": "entity:rory-block",
+  "slug": "rory-block",
+  "name": "Rory Block",
+  "aliases": ["Aurora Block"],
+  "entityType": "artist",
+  "summary": "American blues guitarist and singer recognized for country blues performance and sustained engagement with traditional blues repertoire.",
+  "activeStart": 1964,
+  "dateDisplay": "1949 –",
+  "regions": ["Princeton, New Jersey", "Greenwich Village, New York"],
+  "styles": ["Blues", "Country blues", "Acoustic blues"],
+  "roles": ["Musician", "Singer"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": ["source:encyclopedia-rory-block"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "oVMHmGe69KI",
+    "title": "Cried Like A Baby (Official Video)",
+    "sourceUrl": "https://www.youtube.com/watch?v=oVMHmGe69KI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-howlin-wolf--otis-big-smokey-smothers",
+  "slug": "wikipedia-howlin-wolf--otis-big-smokey-smothers",
+  "entityAId": "entity:howlin-wolf",
+  "entityBId": "entity:otis-big-smokey-smothers",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Howlin' Wolf and Otis \"Big Smokey\" Smothers in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-howlin-wolf",
+    "source:wikipedia-biography-otis-big-smokey-smothers"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (howlin-wolf@1362821397:17, otis-big-smokey-smothers@1319443623:1, otis-big-smokey-smothers@1319443623:11, otis-big-smokey-smothers@1319443623:4). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "entity:laith-al-saadi",
+  "slug": "laith-al-saadi",
+  "name": "Laith Al-Saadi",
+  "entityType": "artist",
+  "summary": "Laith Al-Saadi is a blues singer and singer-songwriter.",
+  "regions": [],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Singer-Songwriter"],
+  "sourceIds": [
+    "source:encyclopedia-laith-al-saadi",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "5i7jqCDnmLQ",
+    "title": "Laith Al-Saadi - Chains",
+    "sourceUrl": "https://www.youtube.com/watch?v=5i7jqCDnmLQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

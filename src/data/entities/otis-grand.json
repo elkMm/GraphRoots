@@ -1,0 +1,24 @@
+{
+  "id": "entity:otis-grand",
+  "slug": "otis-grand",
+  "name": "Otis Grand",
+  "entityType": "artist",
+  "summary": "Otis Grand was a blues songwriter.",
+  "dateDisplay": "1950 – 2023",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Songwriter"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-otis-grand",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "yzOkB_-tB20",
+    "title": "Otis Grand & The Dancekings - Fix Our Love - 1989 Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=yzOkB_-tB20",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

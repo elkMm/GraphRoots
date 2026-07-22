@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-boyd-gilmore--robert-johnson",
+  "slug": "wikipedia-boyd-gilmore--robert-johnson",
+  "entityAId": "entity:boyd-gilmore",
+  "entityBId": "entity:robert-johnson",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Boyd Gilmore and Robert Johnson in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-boyd-gilmore"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (boyd-gilmore@1359834195:1). Verify the cited page context and an independent source before review."
+}

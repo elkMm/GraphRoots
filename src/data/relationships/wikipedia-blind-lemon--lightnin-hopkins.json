@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-blind-lemon--lightnin-hopkins",
+  "slug": "wikipedia-blind-lemon--lightnin-hopkins",
+  "entityAId": "entity:blind-lemon",
+  "entityBId": "entity:lightnin-hopkins",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Blind Lemon Jefferson and Lightnin’ Hopkins in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-blind-lemon",
+    "source:wikipedia-biography-lightnin-hopkins"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (blind-lemon@1361864794:3, lightnin-hopkins@1346615811:3). Verify the cited page context and an independent source before review."
+}

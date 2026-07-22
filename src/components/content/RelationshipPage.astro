@@ -1,0 +1,224 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import {
+  describeDirection,
+  evidenceCategoryLabels,
+  relationshipReviewStatusLabels,
+  relationshipSymbol,
+  relationshipTypeLabels,
+} from "../../domain/relationships";
+import { withBase } from "../../domain/base-path";
+import { getEntityPath, getRelationshipPath } from "../../domain/routes";
+import type { Entity, Relationship, Source } from "../../domain/types";
+
+interface Props {
+  relationship: Relationship;
+  entityA: Entity;
+  entityB: Entity;
+  citations: Source[];
+}
+
+const { relationship, entityA, entityB, citations } = Astro.props;
+const symbol = relationshipSymbol(relationship);
+const title = relationship.title ?? `${entityA.name} ${symbol} ${entityB.name}`;
+const description = relationship.explanation.slice(0, 155);
+const relationshipAriaLabel =
+  relationship.orientation === "directed"
+    ? `From ${entityA.name} to ${entityB.name}`
+    : `Between ${entityA.name} and ${entityB.name}`;
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalPath={getRelationshipPath(relationship.slug)}
+>
+  <article class="shell relationship-page">
+    <header>
+      <p class="eyebrow">GraphRoots / Blues · Relationship</p>
+      <h1>{title}</h1>
+      <div class="relationship-line" aria-label={relationshipAriaLabel}>
+        <a href={withBase(getEntityPath(entityA))}>{entityA.name}</a>
+        <span aria-hidden="true">{symbol}</span>
+        <a href={withBase(getEntityPath(entityB))}>{entityB.name}</a>
+      </div>
+    </header>
+
+    {
+      relationship.disputeStatus === "contested" && (
+        <p class="notice disputed">
+          This reviewed relationship records a documented disagreement or
+          contested interpretation.{" "}
+          {relationship.orientation === "symmetric"
+            ? "The symmetric link does not assert a proven causal lineage."
+            : "Its direction follows the predicate and does not by itself establish causation."}
+        </p>
+      )
+    }
+
+    <div class="relationship-grid">
+      <section aria-labelledby="claim-heading">
+        <h2 id="claim-heading">Why this appears</h2>
+        <p class="lede">{relationship.explanation}</p>
+        <p>{describeDirection(relationship)}</p>
+        <a
+          class="button secondary"
+          href={withBase(`/blues/explore?entity=${entityA.slug}`)}
+          >Inspect in graph</a
+        >
+      </section>
+
+      <aside aria-labelledby="record-heading">
+        <h2 id="record-heading">Record</h2>
+        <dl>
+          <div>
+            <dt>Type</dt><dd>
+              {relationshipTypeLabels[relationship.relationshipType]}
+            </dd>
+          </div>
+          <div>
+            <dt>Orientation</dt><dd>
+              {relationship.orientation}
+            </dd>
+          </div>
+          <div>
+            <dt>Evidence basis</dt><dd>
+              {evidenceCategoryLabels[relationship.evidenceCategory]}
+            </dd>
+          </div>
+          <div>
+            <dt>Review</dt><dd>
+              {relationshipReviewStatusLabels[relationship.reviewStatus]}
+            </dd>
+          </div>
+          <div>
+            <dt>Dispute</dt><dd>
+              {
+                relationship.disputeStatus === "contested"
+                  ? "Contested"
+                  : "None recorded"
+              }
+            </dd>
+          </div>
+          {
+            relationship.dateDisplay && (
+              <div>
+                <>
+                  <dt>Period</dt>
+                  <dd>{relationship.dateDisplay}</dd>
+                </>
+              </div>
+            )
+          }
+          {
+            relationship.lastReviewed && (
+              <div>
+                <>
+                  <dt>Last reviewed</dt>
+                  <dd>{relationship.lastReviewed}</dd>
+                </>
+              </div>
+            )
+          }
+        </dl>
+      </aside>
+    </div>
+
+    <section class="reading" aria-labelledby="citations-heading">
+      <h2 id="citations-heading">Citations</h2>
+      <ol class="citations">
+        {
+          citations.map((citation) => (
+            <li>
+              <cite>{citation.title}</cite>
+              {citation.publisher && ` — ${citation.publisher}`}
+              {citation.locator && ` · ${citation.locator}`}
+              {citation.url && (
+                <>
+                  {" "}
+                  · <a href={citation.url}>Open source</a>
+                </>
+              )}
+              {citation.accessDate && (
+                <small>Accessed {citation.accessDate}</small>
+              )}
+              {citation.note && <p>{citation.note}</p>}
+            </li>
+          ))
+        }
+      </ol>
+    </section>
+
+    {
+      relationship.curatorNote && (
+        <details>
+          <summary>Editorial review note</summary>
+          <p>{relationship.curatorNote}</p>
+        </details>
+      )
+    }
+  </article>
+</BaseLayout>
+
+<style>
+  .relationship-page {
+    padding-block: clamp(3rem, 8vw, 7rem);
+  }
+
+  .relationship-line {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-block: 1.5rem 2rem;
+    font-family: var(--font-meta);
+    font-size: clamp(0.85rem, 2vw, 1rem);
+    text-transform: uppercase;
+  }
+
+  .relationship-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.5fr) minmax(15rem, 0.75fr);
+    gap: clamp(2rem, 6vw, 5rem);
+  }
+
+  dl div {
+    border-bottom: 1px solid var(--color-border);
+    padding-block: 0.75rem;
+  }
+
+  dt {
+    margin-bottom: 0.25rem;
+    color: var(--color-text-muted);
+    font-family: var(--font-meta);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+  }
+
+  dd {
+    margin: 0;
+  }
+
+  .citations small {
+    display: block;
+    color: var(--color-text-muted);
+    font-family: var(--font-meta);
+  }
+
+  details {
+    max-width: var(--reading-width);
+    margin-top: 2rem;
+    border: 1px solid var(--color-border);
+    padding: 1rem;
+  }
+
+  summary {
+    cursor: pointer;
+    font-family: var(--font-meta);
+  }
+
+  @media (max-width: 48rem) {
+    .relationship-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

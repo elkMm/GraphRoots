@@ -1,0 +1,88 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { withBase } from "../../domain/base-path";
+---
+
+<BaseLayout
+  title="Blues / Roots & Branches"
+  description="Explore a curated and evolving network of Blues artists, traditions, scenes, and worldwide branches."
+  canonicalPath="/blues"
+>
+  <section class="shell blues-hero">
+    <p class="eyebrow">GraphRoots / Blues</p>
+    <h1>Roots &amp; Branches</h1>
+    <p class="lede">
+      Trace selected connections among artists, traditions, ensembles, places,
+      scenes, and revivals, and explore how the blues developed through
+      overlapping pathways rather than a single family tree.
+    </p>
+    <p class="notice">
+      This corpus is curated and evolving. Dashed provisional pathways remain
+      visible in the exploratory graph even when their semantic type or sources
+      require further review. A reviewed-only view is always available.
+    </p>
+  </section>
+
+  <section class="shell entry-grid" aria-label="Ways to explore Blues">
+    <article class="card featured">
+      <p class="eyebrow">01 / Explore</p>
+      <h2>Explore the network</h2>
+      <p>
+        Search, filter, zoom, focus, and distinguish reviewed, debated, and
+        provisional pathways.
+      </p>
+      <a class="button" href={withBase("/blues/explore")}>Launch explorer</a>
+    </article>
+    <article class="card">
+      <p class="eyebrow">02 / Follow</p>
+      <h2>Follow a story</h2>
+      <p>
+        Guided stories are a later editorial phase. The architecture now
+        supports stable story paths.
+      </p>
+      <span class="tag">In editorial development</span>
+    </article>
+    <article class="card">
+      <p class="eyebrow">03 / Examine</p>
+      <h2>Examine the evidence</h2>
+      <p>
+        Review what an arrow means, how direction is assigned, and which source
+        supports it.
+      </p>
+      <a href={withBase("/methodology")}>Read the methodology</a>
+    </article>
+  </section>
+</BaseLayout>
+
+<style>
+  .blues-hero {
+    padding-block: clamp(4rem, 10vw, 8rem) 2rem;
+  }
+
+  .blues-hero .notice {
+    max-width: 48rem;
+    margin-top: 2rem;
+  }
+
+  .entry-grid {
+    display: grid;
+    grid-template-columns: 1.35fr 1fr 1fr;
+    gap: 1rem;
+    padding-bottom: 5rem;
+  }
+
+  .entry-grid h2 {
+    margin-top: 0;
+    font-size: 2.3rem;
+  }
+
+  .featured {
+    border-color: var(--color-gold);
+  }
+
+  @media (max-width: 52rem) {
+    .entry-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-richard-hacksaw-harney--blind-lemon",
+  "slug": "wikipedia-richard-hacksaw-harney--blind-lemon",
+  "entityAId": "entity:richard-hacksaw-harney",
+  "entityBId": "entity:blind-lemon",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Richard \"Hacksaw\" Harney and Blind Lemon Jefferson in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-richard-hacksaw-harney"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (richard-hacksaw-harney@1351015412:7). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-blind-lemon--louis-jordan",
+  "slug": "wikipedia-blind-lemon--louis-jordan",
+  "entityAId": "entity:blind-lemon",
+  "entityBId": "entity:louis-jordan",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Blind Lemon Jefferson and Louis Jordan in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-blind-lemon"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (blind-lemon@1361864794:4). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-ry-cooder--rolling-stones",
+  "slug": "wikipedia-ry-cooder--rolling-stones",
+  "entityAId": "entity:ry-cooder",
+  "entityBId": "entity:rolling-stones",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Ry Cooder's Wikipedia biography documents his session work on Rolling Stones recordings from 1968 and 1969. The recording relationship remains provisional pending independent review.",
+  "citationIds": ["source:wikipedia-biography-ry-cooder"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Added from Ry Cooder biography revision 1356634212, career paragraph 9. Verify an independent recording source before review."
+}

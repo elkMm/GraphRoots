@@ -1,0 +1,24 @@
+{
+  "id": "entity:luke-long-gone-miles",
+  "slug": "luke-long-gone-miles",
+  "name": "Luke \"Long Gone\" Miles",
+  "entityType": "artist",
+  "summary": "Luke \"Long Gone\" Miles was a blues singer and songwriter.",
+  "dateDisplay": "1925 – 1987",
+  "regions": ["United States"],
+  "styles": ["Blues", "Texas Blues", "Electric Blues"],
+  "roles": ["Singer", "Songwriter"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-luke-long-gone-miles",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "DLZCnW3rfqE",
+    "title": "Lightnin' Hopkins w/ Luke \"Long Gone\" Miles Prison Blues Come Down On Me (1959)",
+    "sourceUrl": "https://www.youtube.com/watch?v=DLZCnW3rfqE",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

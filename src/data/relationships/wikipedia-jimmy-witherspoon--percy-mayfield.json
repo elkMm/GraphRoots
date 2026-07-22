@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-jimmy-witherspoon--percy-mayfield",
+  "slug": "wikipedia-jimmy-witherspoon--percy-mayfield",
+  "entityAId": "entity:jimmy-witherspoon",
+  "entityBId": "entity:percy-mayfield",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Jimmy Witherspoon and Percy Mayfield in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-jimmy-witherspoon",
+    "source:wikipedia-biography-percy-mayfield"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (jimmy-witherspoon@1355966646:5, percy-mayfield@1364911566:4). Verify the cited page context and an independent source before review."
+}

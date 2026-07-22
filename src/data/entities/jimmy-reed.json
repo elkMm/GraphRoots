@@ -1,0 +1,25 @@
+{
+  "id": "entity:jimmy-reed",
+  "slug": "jimmy-reed",
+  "name": "Jimmy Reed",
+  "entityType": "artist",
+  "summary": "His laid-back shuffle groove was among the most widely learned patterns by both American rock and roll and British beat-group guitarists.",
+  "dateDisplay": "1925 – 1976",
+  "regions": ["Mississippi → Chicago"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "RqHKiIDbHNY",
+    "title": "Big Boss Man",
+    "sourceUrl": "https://www.youtube.com/watch?v=RqHKiIDbHNY",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "jimmy_reed",
+    "originalEra": "chicago"
+  }
+}

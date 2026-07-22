@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-little-freddie-king--champion-jack-dupree",
+  "slug": "wikipedia-little-freddie-king--champion-jack-dupree",
+  "entityAId": "entity:little-freddie-king",
+  "entityBId": "entity:champion-jack-dupree",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Little Freddie King and Champion Jack Dupree in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-little-freddie-king"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (little-freddie-king@1340051303:2). Verify the cited page context and an independent source before review."
+}

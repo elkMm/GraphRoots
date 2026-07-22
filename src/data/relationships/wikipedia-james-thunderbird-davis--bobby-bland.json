@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-james-thunderbird-davis--bobby-bland",
+  "slug": "wikipedia-james-thunderbird-davis--bobby-bland",
+  "entityAId": "entity:james-thunderbird-davis",
+  "entityBId": "entity:bobby-bland",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects James \"Thunderbird\" Davis and Bobby Bland in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-james-thunderbird-davis"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (james-thunderbird-davis@1319396692:3, james-thunderbird-davis@1319396692:4). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-freddie-king--magic-sam",
+  "slug": "wikipedia-freddie-king--magic-sam",
+  "entityAId": "entity:freddie-king",
+  "entityBId": "entity:magic-sam",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Freddie King and Magic Sam in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-freddie-king"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (freddie-king@1358355537:8). Verify the cited page context and an independent source before review."
+}

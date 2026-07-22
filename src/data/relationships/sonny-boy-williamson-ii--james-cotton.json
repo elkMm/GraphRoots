@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:022",
+  "slug": "sonny-boy-williamson-ii--james-cotton",
+  "entityAId": "entity:sonny-boy-williamson-ii",
+  "entityBId": "entity:james-cotton",
+  "relationshipType": "mentored",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Sonny Boy Williamson II took the young James Cotton into his home and taught him harmonica technique and performance practice.",
+  "citationIds": ["source:james-cotton-blues-foundation"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

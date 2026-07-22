@@ -1,0 +1,72 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { loadCorpus } from "../domain/corpus/load-corpus";
+import { getPublicCorpus } from "../domain/corpus/public-records";
+
+const corpus = getPublicCorpus(await loadCorpus());
+---
+
+<BaseLayout
+  title="Sources"
+  description="Bibliographic and archival sources currently referenced by the public GraphRoots Blues corpus."
+  canonicalPath="/sources"
+>
+  <article class="shell sources-page">
+    <header class="reading">
+      <p class="eyebrow">GraphRoots / Blues</p>
+      <h1>Sources</h1>
+      <p class="lede">
+        Sources cited by the current public slice and its published relationship
+        records.
+      </p>
+    </header>
+    <ol class="source-list">
+      {
+        corpus.sources.map((source) => (
+          <li class="card" id={source.id.replaceAll(":", "-")}>
+            <span class="tag">{source.sourceType.replaceAll("_", " ")}</span>
+            <h2>
+              {source.url ? (
+                <a href={source.url}>{source.title}</a>
+              ) : (
+                source.title
+              )}
+            </h2>
+            <p>
+              {[source.authors?.join(", "), source.publisher, source.year]
+                .filter(Boolean)
+                .join(" · ")}
+            </p>
+            {source.locator && <p class="meta">{source.locator}</p>}
+            {source.note && <p>{source.note}</p>}
+          </li>
+        ))
+      }
+    </ol>
+  </article>
+</BaseLayout>
+
+<style>
+  .sources-page {
+    padding-block: clamp(3rem, 8vw, 7rem);
+  }
+
+  .source-list {
+    display: grid;
+    gap: 1rem;
+    max-width: 58rem;
+    margin-top: 3rem;
+    padding: 0;
+    list-style: none;
+  }
+
+  .source-list h2 {
+    margin: 0.7rem 0;
+    font-size: 1.8rem;
+  }
+
+  .meta {
+    color: var(--color-text-muted);
+    font-size: 0.72rem;
+  }
+</style>

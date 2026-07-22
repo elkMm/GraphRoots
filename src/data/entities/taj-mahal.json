@@ -1,0 +1,22 @@
+{
+  "id": "entity:taj-mahal",
+  "slug": "taj-mahal",
+  "name": "Taj Mahal",
+  "entityType": "artist",
+  "summary": "Singer, guitarist and multi-instrumentalist whose career connects country blues with Caribbean, African, Hawaiian and other roots-music traditions.",
+  "dateDisplay": "1942 –",
+  "regions": ["United States", "Global roots traditions"],
+  "styles": ["Country blues", "Roots music", "World music"],
+  "roles": ["Singer", "Songwriter", "Multi-instrumentalist"],
+  "instruments": ["Guitar", "Banjo", "Harmonica"],
+  "sourceIds": ["source:tajmo-official"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "406QVsjYoqM",
+    "title": "New E-Z Rider Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=406QVsjYoqM",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

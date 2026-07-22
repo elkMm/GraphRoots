@@ -1,0 +1,22 @@
+{
+  "id": "entity:sister-rosetta-tharpe",
+  "slug": "sister-rosetta-tharpe",
+  "name": "Sister Rosetta Tharpe",
+  "entityType": "artist",
+  "summary": "Arkansas-born singer-guitarist who brought amplified electric guitar, rhythmic drive and gospel repertoire into popular performance decades before rock and roll's rise.",
+  "dateDisplay": "1915 – 1973",
+  "regions": ["Arkansas", "Chicago, Illinois", "New York"],
+  "styles": ["Gospel", "Rhythm and blues", "Early rock and roll"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Electric guitar"],
+  "sourceIds": ["source:sister-rosetta-smithsonian"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "Y9a49oFalZE",
+    "title": "Didn’t It Rain? (Live, 1964)",
+    "sourceUrl": "https://www.youtube.com/watch?v=Y9a49oFalZE",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

@@ -1,0 +1,262 @@
+---
+import "../styles/global.css";
+import { projectMetadata } from "../config/project";
+import { withBase } from "../domain/base-path";
+
+interface Props {
+  title: string;
+  description: string;
+  canonicalPath?: string;
+  noindex?: boolean;
+}
+
+const {
+  title,
+  description,
+  canonicalPath = Astro.url.pathname,
+  noindex = false,
+} = Astro.props;
+const pageTitle = title === "GraphRoots" ? title : `${title} · GraphRoots`;
+const canonicalUrl = new URL(
+  withBase(canonicalPath),
+  Astro.site ?? Astro.url.origin,
+);
+const socialImage = new URL(
+  withBase("/images/graphroots-social.svg"),
+  Astro.site ?? Astro.url.origin,
+);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
+    <link rel="canonical" href={canonicalUrl} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="GraphRoots" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:image" content={socialImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={socialImage} />
+    <link
+      rel="icon"
+      href={withBase("/icons/graphroots-mark.svg")}
+      type="image/svg+xml"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+    <header class="site-header">
+      <div class="shell header-inner">
+        <a class="brand" href={withBase("/")} aria-label="GraphRoots home">
+          <span>{projectMetadata.name}</span>
+          <small>{projectMetadata.descriptor}</small>
+        </a>
+        <form
+          class="site-search"
+          action={withBase("/blues/explore")}
+          method="get"
+        >
+          <label class="sr-only" for="site-search">Search Blues artists</label>
+          <input
+            id="site-search"
+            type="search"
+            name="query"
+            placeholder="Search Blues artists…"
+            autocomplete="off"
+          />
+          <button type="submit">Search</button>
+        </form>
+        <nav aria-label="Primary navigation">
+          <a href={withBase("/blues")}>Blues</a>
+          <a href={withBase("/blues/explore")}>Explore</a>
+          <a href={withBase("/methodology")}>Methodology</a>
+          <a href={withBase("/data")}>Data</a>
+          <a href={withBase("/about")}>About</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main-content">
+      <slot />
+    </main>
+    <footer>
+      <div class="shell footer-inner">
+        <p>
+          <strong>GraphRoots</strong> is a curated, evolving, and reviewable public
+          corpus.
+        </p>
+        <p>
+          {
+            `Copyright © ${projectMetadata.copyrightYear} ${projectMetadata.legalName}. `
+          }
+          <a href={withBase("/legal/license")}>MIT License</a>{" · "}<a
+            href={withBase("/about")}>About</a
+          >{" · "}<a href={withBase("/sources")}>Sources</a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .site-header {
+    position: relative;
+    z-index: 10;
+    border-bottom: 1px solid var(--color-border);
+    background: rgb(20 16 12 / 92%);
+    backdrop-filter: blur(0.8rem);
+  }
+
+  .header-inner {
+    display: grid;
+    grid-template-columns: auto minmax(13rem, 22rem) auto;
+    align-items: center;
+    gap: 1.25rem;
+    padding-block: 0.85rem;
+  }
+
+  .footer-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.25rem;
+    padding-block: 1rem;
+  }
+
+  .brand {
+    display: grid;
+    color: var(--color-text);
+    font-family: var(--font-display);
+    font-size: 1.3rem;
+    letter-spacing: 0.06em;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+
+  .brand small {
+    color: var(--color-text-muted);
+    font-family: var(--font-meta);
+    font-size: 0.55rem;
+    letter-spacing: 0.04em;
+    text-transform: none;
+  }
+
+  .site-search {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+
+  .site-search input,
+  .site-search button {
+    min-height: 2.35rem;
+    border: 1px solid var(--color-border);
+    border-radius: 2px;
+    background: var(--color-surface-raised);
+    color: var(--color-text);
+    font-family: var(--font-meta);
+    font-size: 0.72rem;
+  }
+
+  .site-search input {
+    min-width: 0;
+    border-right: 0;
+    padding: 0.55rem 0.7rem;
+    outline: 0;
+  }
+
+  .site-search input:focus {
+    border-color: var(--color-gold);
+  }
+
+  .site-search input::placeholder {
+    color: #6b5e4a;
+  }
+
+  .site-search button {
+    padding-inline: 0.75rem;
+    color: var(--color-gold);
+    cursor: pointer;
+    text-transform: uppercase;
+  }
+
+  .site-search button:hover {
+    border-color: var(--color-gold);
+  }
+
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 0.9rem;
+    font-family: var(--font-meta);
+    font-size: 0.72rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  nav a {
+    color: var(--color-text-muted);
+    text-decoration: none;
+  }
+
+  nav a:hover {
+    color: var(--color-gold);
+  }
+
+  main {
+    min-height: 72vh;
+  }
+
+  footer {
+    margin-top: 5rem;
+    border-top: 1px solid var(--color-border);
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+  }
+
+  @media (max-width: 64rem) {
+    .header-inner {
+      grid-template-columns: auto 1fr;
+    }
+
+    .site-search {
+      grid-column: 1 / -1;
+      grid-row: 2;
+    }
+  }
+
+  @media (max-width: 42rem) {
+    .header-inner {
+      grid-template-columns: 1fr;
+    }
+
+    .footer-inner {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+
+    .site-search {
+      grid-column: auto;
+      grid-row: auto;
+    }
+
+    nav {
+      justify-content: flex-start;
+    }
+  }
+</style>

@@ -1,0 +1,24 @@
+{
+  "id": "entity:z-z-hill",
+  "slug": "z-z-hill",
+  "name": "Z. Z. Hill",
+  "entityType": "artist",
+  "summary": "Z. Z. Hill was a blues singer and musician.",
+  "dateDisplay": "1935 – 1984",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Musician"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-z-z-hill",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "lxWXoiGybTA",
+    "title": "ZZ Hill - Down Home Blues (Lyric Video)",
+    "sourceUrl": "https://www.youtube.com/watch?v=lxWXoiGybTA",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

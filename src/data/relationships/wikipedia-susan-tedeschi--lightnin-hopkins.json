@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-susan-tedeschi--lightnin-hopkins",
+  "slug": "wikipedia-susan-tedeschi--lightnin-hopkins",
+  "entityAId": "entity:susan-tedeschi",
+  "entityBId": "entity:lightnin-hopkins",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Susan Tedeschi and Lightnin’ Hopkins in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-susan-tedeschi"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (susan-tedeschi@1358108474:2). Verify the cited page context and an independent source before review."
+}

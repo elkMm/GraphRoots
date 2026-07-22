@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-magic-slim--muddy-waters",
+  "slug": "wikipedia-magic-slim--muddy-waters",
+  "entityAId": "entity:magic-slim",
+  "entityBId": "entity:muddy-waters",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Magic Slim and Muddy Waters in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-magic-slim"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (magic-slim@1360137384:1). Verify the cited page context and an independent source before review."
+}

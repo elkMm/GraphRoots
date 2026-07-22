@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-albert-king--rory-gallagher",
+  "slug": "wikipedia-albert-king--rory-gallagher",
+  "entityAId": "entity:albert-king",
+  "entityBId": "entity:rory-gallagher",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Albert King and Rory Gallagher in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-albert-king",
+    "source:wikipedia-biography-rory-gallagher"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (albert-king@1365415478:16, rory-gallagher@1362494823:62). Verify the cited page context and an independent source before review."
+}

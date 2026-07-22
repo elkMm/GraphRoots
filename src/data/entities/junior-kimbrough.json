@@ -1,0 +1,24 @@
+{
+  "id": "entity:junior-kimbrough",
+  "slug": "junior-kimbrough",
+  "name": "Junior Kimbrough",
+  "entityType": "artist",
+  "summary": "Junior Kimbrough was a blues musician.",
+  "dateDisplay": "1930 – 1998",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-junior-kimbrough",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "xI4EsfWyn9w",
+    "title": "Jr. Blues (Remastered 2022)",
+    "sourceUrl": "https://www.youtube.com/watch?v=xI4EsfWyn9w",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

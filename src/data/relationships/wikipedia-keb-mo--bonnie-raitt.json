@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-keb-mo--bonnie-raitt",
+  "slug": "wikipedia-keb-mo--bonnie-raitt",
+  "entityAId": "entity:keb-mo",
+  "entityBId": "entity:bonnie-raitt",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Keb’ Mo’ and Bonnie Raitt in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-bonnie-raitt",
+    "source:wikipedia-biography-keb-mo"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bonnie-raitt@1362043608:29, bonnie-raitt@1362043608:31, keb-mo@1361007539:22, keb-mo@1361007539:27, keb-mo@1361007539:40, keb-mo@1361007539:54, keb-mo@1361007539:8). Verify the cited page context and an independent source before review."
+}

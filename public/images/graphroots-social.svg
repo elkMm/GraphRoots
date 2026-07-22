@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">GraphRoots / Blues</title>
+  <desc id="desc">A public map of Blues roots and branches</desc>
+  <rect width="1200" height="630" fill="#14100c"/>
+  <circle cx="1020" cy="50" r="390" fill="#1c1610" stroke="#3a2f22"/>
+  <g fill="none" stroke="#4a3d2c" stroke-width="4"><path d="M760 105 940 210l-140 145 230 120"/><path d="m940 210 180-55M800 355l-130 130"/></g>
+  <g fill="#c8963e"><circle cx="760" cy="105" r="14"/><circle cx="940" cy="210" r="22"/><circle cx="800" cy="355" r="17"/></g>
+  <g fill="#8b5a8f"><circle cx="1120" cy="155" r="13"/><circle cx="1030" cy="475" r="18"/></g>
+  <circle cx="670" cy="485" r="12" fill="#2f6b5e"/>
+  <text x="85" y="120" fill="#c8963e" font-family="IBM Plex Mono, monospace" font-size="24" letter-spacing="5">GRAPHROOTS / BLUES</text>
+  <text x="78" y="310" fill="#ede3d3" font-family="Bebas Neue, sans-serif" font-size="112" letter-spacing="2">ROOTS &amp;</text>
+  <text x="78" y="420" fill="#ede3d3" font-family="Bebas Neue, sans-serif" font-size="112" letter-spacing="2">BRANCHES</text>
+  <text x="85" y="505" fill="#a89880" font-family="Lora, Georgia, serif" font-size="28">A public map of Blues roots and branches</text>
+  <text x="85" y="570" fill="#a89880" font-family="IBM Plex Mono, monospace" font-size="18">AN INDEPENDENT PUBLIC RESEARCH PROJECT</text>
+</svg>

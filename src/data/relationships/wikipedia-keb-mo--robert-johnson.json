@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-keb-mo--robert-johnson",
+  "slug": "wikipedia-keb-mo--robert-johnson",
+  "entityAId": "entity:keb-mo",
+  "entityBId": "entity:robert-johnson",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Keb’ Mo’ and Robert Johnson in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-keb-mo",
+    "source:wikipedia-biography-robert-johnson"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (keb-mo@1361007539:6, robert-johnson@1363801381:4, robert-johnson@1363801381:71). Verify the cited page context and an independent source before review."
+}

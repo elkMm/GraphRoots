@@ -1,0 +1,24 @@
+{
+  "id": "entity:chris-thomas-king",
+  "slug": "chris-thomas-king",
+  "name": "Chris Thomas King",
+  "entityType": "artist",
+  "summary": "Chris Thomas King is a blues musician, singer and musician.",
+  "dateDisplay": "1964 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Singer", "Blues Musician", "Guitarist"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-chris-thomas-king",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "laWj4OOGo7c",
+    "title": "Chris Thomas King \"Hard Time Killing Floor Blues\"",
+    "sourceUrl": "https://www.youtube.com/watch?v=laWj4OOGo7c",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

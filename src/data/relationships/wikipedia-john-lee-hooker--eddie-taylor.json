@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-john-lee-hooker--eddie-taylor",
+  "slug": "wikipedia-john-lee-hooker--eddie-taylor",
+  "entityAId": "entity:john-lee-hooker",
+  "entityBId": "entity:eddie-taylor",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places John Lee Hooker and Eddie Taylor in the same recording context. The precise session details await independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-eddie-taylor",
+    "source:wikipedia-biography-john-lee-hooker"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (eddie-taylor@1356601025:3, john-lee-hooker@1361650263:12). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entity:mary-johnson",
+  "slug": "mary-johnson",
+  "name": "Mary Johnson",
+  "entityType": "artist",
+  "summary": "Mary Johnson was a blues singer, musician and songwriter.",
+  "dateDisplay": "1900 – 1970",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Musician", "Songwriter"],
+  "instruments": ["Accordion", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-mary-johnson",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "3LaQJmujIYo",
+    "title": "Mary Johnson, Dawn of day blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=3LaQJmujIYo",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

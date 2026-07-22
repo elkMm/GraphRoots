@@ -1,0 +1,24 @@
+{
+  "id": "entity:johnnie-bassett",
+  "slug": "johnnie-bassett",
+  "name": "Johnnie Bassett",
+  "entityType": "artist",
+  "summary": "Johnnie Bassett was a blues singer, songwriter and guitarist.",
+  "dateDisplay": "1935 – 2012",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist", "Jazz Guitarist"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-johnnie-bassett",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "4fSoiiz3PzE",
+    "title": "Johnnie Bassett - I gave my life to the blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=4fSoiiz3PzE",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

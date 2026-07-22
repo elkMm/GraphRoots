@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-howlin-wolf--jody-williams",
+  "slug": "wikipedia-howlin-wolf--jody-williams",
+  "entityAId": "entity:howlin-wolf",
+  "entityBId": "entity:jody-williams",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Howlin' Wolf and Jody Williams in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-howlin-wolf",
+    "source:wikipedia-biography-jody-williams"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (howlin-wolf@1362821397:17, jody-williams@1325376468:5). Verify the cited page context and an independent source before review."
+}

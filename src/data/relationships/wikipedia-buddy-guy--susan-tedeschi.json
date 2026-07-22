@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-buddy-guy--susan-tedeschi",
+  "slug": "wikipedia-buddy-guy--susan-tedeschi",
+  "entityAId": "entity:buddy-guy",
+  "entityBId": "entity:susan-tedeschi",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "The Wikipedia biography for Susan Tedeschi explicitly describes Buddy Guy as a musical influence. The claim awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-susan-tedeschi"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (susan-tedeschi@1358108474:14, susan-tedeschi@1358108474:6). Verify the cited page context and an independent source before review."
+}

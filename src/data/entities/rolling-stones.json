@@ -1,0 +1,18 @@
+{
+  "id": "entity:rolling-stones",
+  "slug": "rolling-stones",
+  "name": "The Rolling Stones",
+  "entityType": "ensemble",
+  "summary": "Took their name from a Muddy Waters song and built their early sound on covers of Chess Records artists, becoming the most visible ambassadors of Chicago blues in Britain.",
+  "dateDisplay": "formed 1962",
+  "regions": ["London"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "rolling_stones",
+    "originalEra": "british"
+  }
+}

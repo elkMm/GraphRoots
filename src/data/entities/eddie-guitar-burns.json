@@ -1,0 +1,24 @@
+{
+  "id": "entity:eddie-guitar-burns",
+  "slug": "eddie-guitar-burns",
+  "name": "Eddie \"Guitar\" Burns",
+  "entityType": "artist",
+  "summary": "Eddie \"Guitar\" Burns was a blues singer, guitarist and songwriter.",
+  "dateDisplay": "1928 – 2012",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Guitarist", "Songwriter", "Musician"],
+  "instruments": ["Guitar", "Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-eddie-guitar-burns",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "8U7YEyIO8ps",
+    "title": "9  Eddie Guitar Burns - Jinglin Baby - 2nd Degree Burns",
+    "sourceUrl": "https://www.youtube.com/watch?v=8U7YEyIO8ps",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entity:floyd-dixon",
+  "slug": "floyd-dixon",
+  "name": "Floyd Dixon",
+  "entityType": "artist",
+  "summary": "Floyd Dixon was a blues musician, pianist and singer.",
+  "dateDisplay": "1929 – 2006",
+  "regions": ["United States"],
+  "styles": ["Blues", "Rhythm And Blues"],
+  "roles": ["Musician", "Pianist", "Singer", "Songwriter"],
+  "instruments": ["Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-floyd-dixon",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "TVJiLpgpNN8",
+    "title": "Floyd Dixon Alarm Clock Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=TVJiLpgpNN8",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

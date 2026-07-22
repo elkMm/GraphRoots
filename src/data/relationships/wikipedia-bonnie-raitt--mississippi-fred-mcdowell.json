@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-bonnie-raitt--mississippi-fred-mcdowell",
+  "slug": "wikipedia-bonnie-raitt--mississippi-fred-mcdowell",
+  "entityAId": "entity:bonnie-raitt",
+  "entityBId": "entity:mississippi-fred-mcdowell",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Bonnie Raitt and Mississippi Fred McDowell in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-bonnie-raitt",
+    "source:wikipedia-biography-mississippi-fred-mcdowell"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bonnie-raitt@1362043608:42, bonnie-raitt@1362043608:9, mississippi-fred-mcdowell@1355004779:4, mississippi-fred-mcdowell@1355004779:8). Verify the cited page context and an independent source before review."
+}

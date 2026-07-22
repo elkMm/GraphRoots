@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:034",
+  "slug": "taj-mahal--jontavious-willis",
+  "entityAId": "entity:taj-mahal",
+  "entityBId": "entity:jontavious-willis",
+  "relationshipType": "mentored",
+  "orientation": "directed",
+  "evidenceCategory": "directly_documented",
+  "explanation": "Willis directly describes Taj Mahal becoming his mentor after hearing him perform and bringing him into professional touring contexts.",
+  "citationIds": ["source:jontavious-willis-interview"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

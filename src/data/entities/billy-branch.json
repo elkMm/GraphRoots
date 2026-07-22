@@ -1,0 +1,22 @@
+{
+  "id": "entity:billy-branch",
+  "slug": "billy-branch",
+  "name": "Billy Branch",
+  "entityType": "artist",
+  "summary": "Chicago singer and harmonica player who emerged through the New Generation of Chicago Blues and leads the Sons of Blues.",
+  "dateDisplay": "1951 –",
+  "regions": ["Chicago, Illinois"],
+  "styles": ["Chicago blues", "Electric blues"],
+  "roles": ["Singer", "Harmonica player", "Bandleader"],
+  "instruments": ["Harmonica"],
+  "sourceIds": ["source:billy-branch-official-bio"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "tWgenm80p60",
+    "title": "Red House (with Jamiah Rogers)",
+    "sourceUrl": "https://www.youtube.com/watch?v=tWgenm80p60",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

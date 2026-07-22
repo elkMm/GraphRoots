@@ -1,0 +1,24 @@
+{
+  "id": "entity:ora-alexander",
+  "slug": "ora-alexander",
+  "name": "Ora Alexander",
+  "entityType": "artist",
+  "summary": "Ora Alexander is a blues singer.",
+  "dateDisplay": "1896 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-ora-alexander",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "sCEFHWukT8A",
+    "title": "You've Got To Save That Thing",
+    "sourceUrl": "https://www.youtube.com/watch?v=sCEFHWukT8A",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

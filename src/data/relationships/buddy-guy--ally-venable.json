@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:014",
+  "slug": "buddy-guy--ally-venable",
+  "entityAId": "entity:buddy-guy",
+  "entityBId": "entity:ally-venable",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "directly_documented",
+  "explanation": "Buddy Guy joined Ally Venable for the recorded duet Texas Louisiana on her album Real Gone.",
+  "citationIds": ["source:ally-venable-official-bio"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

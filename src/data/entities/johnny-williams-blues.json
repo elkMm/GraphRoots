@@ -1,0 +1,29 @@
+{
+  "id": "entity:johnny-williams-blues",
+  "slug": "johnny-williams-blues",
+  "name": "Johnny Williams",
+  "aliases": ["Uncle Johnny Williams"],
+  "entityType": "artist",
+  "summary": "American blues guitarist and singer based in Chicago who recorded during the early postwar electric blues period.",
+  "activeStart": 1930,
+  "activeEnd": 1959,
+  "dateDisplay": "1906 – 2006",
+  "regions": [
+    "Chicago, Illinois",
+    "Alexandria, Louisiana",
+    "Houston, Texas",
+    "Belzoni, Mississippi"
+  ],
+  "styles": ["Blues", "Electric blues", "Chicago blues"],
+  "roles": ["Guitarist", "Singer"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": ["source:encyclopedia-johnny-williams-blues"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "Pxt08LD8ruM",
+    "title": "Worried Man Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=Pxt08LD8ruM",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

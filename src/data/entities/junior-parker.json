@@ -1,0 +1,24 @@
+{
+  "id": "entity:junior-parker",
+  "slug": "junior-parker",
+  "name": "Junior Parker",
+  "entityType": "artist",
+  "summary": "Junior Parker was a blues musician, singer and songwriter.",
+  "dateDisplay": "1932 – 1971",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Singer", "Songwriter", "Composer"],
+  "instruments": ["Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-junior-parker",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "TdvlB4BGrKU",
+    "title": "Fussin' and Fightin' Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=TdvlB4BGrKU",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

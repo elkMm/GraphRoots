@@ -1,0 +1,25 @@
+{
+  "id": "entity:elmore-james",
+  "slug": "elmore-james",
+  "name": "Elmore James",
+  "entityType": "artist",
+  "summary": "His slashing slide-guitar arrangement of Robert Johnson's 'Dust My Broom' became one of the most copied riffs in blues and rock.",
+  "dateDisplay": "1918 – 1963",
+  "regions": ["Mississippi → Chicago"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "5jcGY7NbaQw",
+    "title": "Dust My Broom",
+    "sourceUrl": "https://www.youtube.com/watch?v=5jcGY7NbaQw",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "elmore_james",
+    "originalEra": "chicago"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-kokomo-arnold--bumble-bee-slim",
+  "slug": "wikipedia-kokomo-arnold--bumble-bee-slim",
+  "entityAId": "entity:kokomo-arnold",
+  "entityBId": "entity:bumble-bee-slim",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Kokomo Arnold and Bumble Bee Slim in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-kokomo-arnold"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (kokomo-arnold@1352436093:5). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entity:son-seals",
+  "slug": "son-seals",
+  "name": "Son Seals",
+  "entityType": "artist",
+  "summary": "Son Seals was a blues singer, guitarist and composer.",
+  "dateDisplay": "1942 – 2004",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Guitarist", "Composer", "Musician"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-son-seals",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "igQMbYQrfjw",
+    "title": "SON SEALS BLUES BAND - Utrecht, The Netherlands 1979",
+    "sourceUrl": "https://www.youtube.com/watch?v=igQMbYQrfjw",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

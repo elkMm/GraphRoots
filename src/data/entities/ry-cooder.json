@@ -1,0 +1,23 @@
+{
+  "id": "entity:ry-cooder",
+  "slug": "ry-cooder",
+  "name": "Ry Cooder",
+  "aliases": ["Ryland Peter Cooder"],
+  "entityType": "artist",
+  "summary": "American multi-instrumentalist, songwriter, producer, and film composer known for slide guitar, blues, roots music, and international collaborations.",
+  "activeStart": 1967,
+  "dateDisplay": "1947 –",
+  "regions": ["Los Angeles, California", "Santa Monica, California"],
+  "styles": ["Blues", "Americana", "Roots rock", "Folk", "World music"],
+  "roles": ["Musician", "Songwriter", "Record producer", "Film score composer"],
+  "instruments": ["Guitar", "Slide guitar", "Bass", "Mandolin", "Banjo"],
+  "sourceIds": ["source:encyclopedia-ry-cooder"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "HEUIZWyieAk",
+    "title": "The Prodigal Son (Live in studio)",
+    "sourceUrl": "https://www.youtube.com/watch?v=HEUIZWyieAk",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

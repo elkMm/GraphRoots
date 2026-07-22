@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-jack-owens--buddy-guy",
+  "slug": "wikipedia-jack-owens--buddy-guy",
+  "entityAId": "entity:jack-owens",
+  "entityBId": "entity:buddy-guy",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Jack Owens and Buddy Guy in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-jack-owens"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (jack-owens@1320384466:4). Verify the cited page context and an independent source before review."
+}

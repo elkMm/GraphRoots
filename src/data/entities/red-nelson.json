@@ -1,0 +1,24 @@
+{
+  "id": "entity:red-nelson",
+  "slug": "red-nelson",
+  "name": "Red Nelson",
+  "entityType": "artist",
+  "summary": "Red Nelson was a blues singer.",
+  "dateDisplay": "1907 – 1970",
+  "regions": [],
+  "styles": ["Blues"],
+  "roles": ["Singer"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-red-nelson",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "v-So6_EtrTg",
+    "title": "Crying Mother Blues - Red Nelson",
+    "sourceUrl": "https://www.youtube.com/watch?v=v-So6_EtrTg",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

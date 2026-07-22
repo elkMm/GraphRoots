@@ -1,0 +1,24 @@
+{
+  "id": "entity:walter-roland",
+  "slug": "walter-roland",
+  "name": "Walter Roland",
+  "entityType": "artist",
+  "summary": "Walter Roland was a blues singer, jazz musician and pianist.",
+  "dateDisplay": "1902 – 1972",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Jazz Musician", "Pianist", "Songwriter"],
+  "instruments": ["Guitar", "Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-walter-roland",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "x4-8TuRGpz4",
+    "title": "Red Cross Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=x4-8TuRGpz4",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

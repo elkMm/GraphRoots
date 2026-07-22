@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-clara-smith--bessie-smith",
+  "slug": "wikipedia-clara-smith--bessie-smith",
+  "entityAId": "entity:clara-smith",
+  "entityBId": "entity:bessie-smith",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Clara Smith and Bessie Smith in the same recording context. The precise session details await independent review.",
+  "citationIds": ["source:wikipedia-biography-clara-smith"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (clara-smith@1362453988:1, clara-smith@1362453988:4). Verify the cited page context and an independent source before review."
+}

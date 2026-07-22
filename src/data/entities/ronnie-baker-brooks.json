@@ -1,0 +1,25 @@
+{
+  "id": "entity:ronnie-baker-brooks",
+  "slug": "ronnie-baker-brooks",
+  "name": "Ronnie Baker Brooks",
+  "entityType": "artist",
+  "summary": "Ronnie Baker Brooks is a blues singer, songwriter and musician.",
+  "dateDisplay": "1967 –",
+  "regions": ["United States"],
+  "styles": ["Blues", "Chicago Blues"],
+  "roles": ["Singer", "Songwriter", "Musician"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-ronnie-baker-brooks",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:blues-foundation-hall-of-fame"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "jYxym4yxQjE",
+    "title": "The Torch of the Blues (feat. Lonnie Brooks, Eddy \"The Chief\" Clearwater, Jimmy Johnson &...",
+    "sourceUrl": "https://www.youtube.com/watch?v=jYxym4yxQjE",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

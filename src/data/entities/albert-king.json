@@ -1,0 +1,25 @@
+{
+  "id": "entity:albert-king",
+  "slug": "albert-king",
+  "name": "Albert King",
+  "entityType": "artist",
+  "summary": "A left-handed, upside-down guitar attack whose string-bending vocabulary was studied closely by Stevie Ray Vaughan and Eric Clapton.",
+  "dateDisplay": "1923 – 1992",
+  "regions": ["Mississippi → Memphis"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "mEHx5jy50w4",
+    "title": "I'll Play the Blues for You",
+    "sourceUrl": "https://www.youtube.com/watch?v=mEHx5jy50w4",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "albert_king",
+    "originalEra": "chicago"
+  }
+}

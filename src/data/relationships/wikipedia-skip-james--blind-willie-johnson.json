@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-skip-james--blind-willie-johnson",
+  "slug": "wikipedia-skip-james--blind-willie-johnson",
+  "entityAId": "entity:skip-james",
+  "entityBId": "entity:blind-willie-johnson",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Skip James and Blind Willie Johnson in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-skip-james"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (skip-james@1339488119:12). Verify the cited page context and an independent source before review."
+}

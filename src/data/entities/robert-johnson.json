@@ -1,0 +1,25 @@
+{
+  "id": "entity:robert-johnson",
+  "slug": "robert-johnson",
+  "name": "Robert Johnson",
+  "entityType": "artist",
+  "summary": "Recorded only 29 songs, yet his harmonic sophistication and lyrical imagery became the most-cited single influence for the British blues revival a generation later.",
+  "dateDisplay": "1911 – 1938",
+  "regions": ["Mississippi"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "Kxi4XkIVWLQ",
+    "title": "Cross Road Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=Kxi4XkIVWLQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "robert_johnson",
+    "originalEra": "delta"
+  }
+}

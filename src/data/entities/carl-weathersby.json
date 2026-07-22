@@ -1,0 +1,24 @@
+{
+  "id": "entity:carl-weathersby",
+  "slug": "carl-weathersby",
+  "name": "Carl Weathersby",
+  "entityType": "artist",
+  "summary": "Carl Weathersby was a blues musician.",
+  "dateDisplay": "1953 – 2024",
+  "regions": ["United States"],
+  "styles": ["Blues", "Electric Blues"],
+  "roles": ["Musician"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-carl-weathersby",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "3lTR8PfnPB0",
+    "title": "Good Times, Bad Times",
+    "sourceUrl": "https://www.youtube.com/watch?v=3lTR8PfnPB0",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

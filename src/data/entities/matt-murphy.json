@@ -1,0 +1,24 @@
+{
+  "id": "entity:matt-murphy",
+  "slug": "matt-murphy",
+  "name": "Matt Murphy",
+  "entityType": "artist",
+  "summary": "Matt Murphy was a blues musician, guitarist and musician.",
+  "dateDisplay": "1929 – 2018",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Blues Musician", "Guitarist", "Musician"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-matt-murphy",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "dgFd9oN4FQk",
+    "title": "Matt  Murphy - The blues don't bother me (1996)",
+    "sourceUrl": "https://www.youtube.com/watch?v=dgFd9oN4FQk",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

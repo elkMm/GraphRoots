@@ -1,0 +1,18 @@
+{
+  "id": "entity:griot",
+  "slug": "griot",
+  "name": "West African Griot Tradition",
+  "entityType": "tradition",
+  "summary": "Hereditary praise-singers and oral historians (jali/djeli) of the Mande empires who accompanied narrative song on stringed instruments like the kora and ngoni. Scholars such as Alan Lomax and Paul Oliver noted deep aesthetic parallels — solo voice-and-string performance, melisma, and a singer's ambiguous social status — between griots and early blues singers, though a direct unbroken lineage remains debated rather than documented.",
+  "dateDisplay": "c. 1200s – present",
+  "regions": ["Mali, Senegal, Gambia"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "griot",
+    "originalEra": "roots"
+  }
+}

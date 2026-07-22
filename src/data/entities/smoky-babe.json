@@ -1,0 +1,24 @@
+{
+  "id": "entity:smoky-babe",
+  "slug": "smoky-babe",
+  "name": "Smoky Babe",
+  "entityType": "artist",
+  "summary": "Smoky Babe was a blues singer, composer and musician.",
+  "dateDisplay": "1927 – 1975",
+  "regions": ["United States"],
+  "styles": ["Blues", "Louisiana Blues"],
+  "roles": ["Singer", "Composer", "Musician"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-smoky-babe",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "m6YbAlUFnGI",
+    "title": "Goin' Home Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=m6YbAlUFnGI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

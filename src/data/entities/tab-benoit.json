@@ -1,0 +1,24 @@
+{
+  "id": "entity:tab-benoit",
+  "slug": "tab-benoit",
+  "name": "Tab Benoit",
+  "entityType": "artist",
+  "summary": "Tab Benoit is a blues musician and guitarist.",
+  "dateDisplay": "1967 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-tab-benoit",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "CRRUyuDdCzI",
+    "title": "Tab Benoit - Blues So Bad (Official Audio)",
+    "sourceUrl": "https://www.youtube.com/watch?v=CRRUyuDdCzI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

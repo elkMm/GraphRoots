@@ -1,0 +1,238 @@
+:root {
+  color-scheme: dark;
+  --color-bg: #14100c;
+  --color-surface: #1c1610;
+  --color-surface-raised: #241b13;
+  --color-border: #3a2f22;
+  --color-text: #ede3d3;
+  --color-text-muted: #a89880;
+  --color-gold: #c8963e;
+  --color-clay: #a4402f;
+  --color-green: #2f6b5e;
+  --color-blue: #3d6ea5;
+  --color-violet: #8b5a8f;
+  --color-orange: #c1652f;
+  --font-display: "Bebas Neue", sans-serif;
+  --font-editorial: "Lora", Georgia, serif;
+  --font-meta: "IBM Plex Mono", monospace;
+  --content-width: 74rem;
+  --reading-width: 48rem;
+  --shadow: 0 12px 30px rgb(0 0 0 / 45%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-editorial);
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 20rem;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 8% 0%, rgb(200 150 62 / 10%), transparent 28rem),
+    var(--color-bg);
+}
+
+a {
+  color: var(--color-gold);
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  color: var(--color-text);
+}
+
+:focus-visible {
+  outline: 0.18rem solid var(--color-gold);
+  outline-offset: 0.2rem;
+}
+
+::selection {
+  background: var(--color-gold);
+  color: var(--color-bg);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  letter-spacing: 0.025em;
+  line-height: 0.98;
+  text-wrap: balance;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(3rem, 8vw, 7rem);
+  text-transform: uppercase;
+}
+
+h2 {
+  margin-block: 2.5rem 0.8rem;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+}
+
+h3 {
+  margin-block: 1.5rem 0.5rem;
+  font-size: 1.5rem;
+}
+
+p,
+li {
+  line-height: 1.7;
+}
+
+.shell {
+  width: min(calc(100% - 2rem), var(--content-width));
+  margin-inline: auto;
+}
+
+.reading {
+  width: min(100%, var(--reading-width));
+}
+
+.eyebrow,
+.meta,
+.tag {
+  font-family: var(--font-meta);
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.eyebrow {
+  margin: 0 0 0.75rem;
+  color: var(--color-gold);
+  font-size: 0.75rem;
+}
+
+.lede {
+  max-width: 48rem;
+  color: var(--color-text-muted);
+  font-size: clamp(1.15rem, 2vw, 1.45rem);
+}
+
+.button {
+  display: inline-flex;
+  min-height: 2.8rem;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--color-gold);
+  border-radius: 0.15rem;
+  padding: 0.65rem 1rem;
+  background: var(--color-gold);
+  color: var(--color-bg);
+  font-family: var(--font-meta);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.button:hover {
+  background: transparent;
+  color: var(--color-gold);
+}
+
+.button.secondary {
+  background: transparent;
+  color: var(--color-gold);
+}
+
+.button.secondary:hover {
+  background: var(--color-gold);
+  color: var(--color-bg);
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+  gap: 1rem;
+  margin-block: 2rem;
+}
+
+.card {
+  border: 1px solid var(--color-border);
+  border-radius: 0.2rem;
+  padding: clamp(1rem, 3vw, 1.5rem);
+  background:
+    linear-gradient(145deg, rgb(255 255 255 / 2%), transparent),
+    var(--color-surface);
+}
+
+.card > :first-child {
+  margin-top: 0;
+}
+
+.notice {
+  border-inline-start: 0.25rem solid var(--color-gold);
+  padding: 0.85rem 1rem;
+  background: rgb(200 150 62 / 9%);
+  color: var(--color-text-muted);
+}
+
+.notice.disputed {
+  border-color: var(--color-violet);
+  background: rgb(139 90 143 / 12%);
+}
+
+.tag {
+  display: inline-flex;
+  border: 1px solid var(--color-border);
+  border-radius: 99rem;
+  padding: 0.28rem 0.5rem;
+  color: var(--color-text-muted);
+  font-size: 0.66rem;
+}
+
+.stack > * + * {
+  margin-top: 1rem;
+}
+
+.skip-link {
+  position: fixed;
+  z-index: 100;
+  top: 0.5rem;
+  left: 0.5rem;
+  translate: 0 -200%;
+  padding: 0.6rem 0.8rem;
+  background: var(--color-gold);
+  color: var(--color-bg);
+}
+
+.skip-link:focus {
+  translate: 0;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}

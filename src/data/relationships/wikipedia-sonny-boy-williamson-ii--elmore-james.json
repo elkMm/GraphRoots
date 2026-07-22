@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-sonny-boy-williamson-ii--elmore-james",
+  "slug": "wikipedia-sonny-boy-williamson-ii--elmore-james",
+  "entityAId": "entity:sonny-boy-williamson-ii",
+  "entityBId": "entity:elmore-james",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Sonny Boy Williamson II and Elmore James in the same recording context. The precise session details await independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-elmore-james",
+    "source:wikipedia-biography-sonny-boy-williamson-ii"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (elmore-james@1360808639:3, sonny-boy-williamson-ii@1362735340:2, sonny-boy-williamson-ii@1362735340:4). Verify the cited page context and an independent source before review."
+}

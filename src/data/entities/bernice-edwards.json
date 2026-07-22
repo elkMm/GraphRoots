@@ -1,0 +1,24 @@
+{
+  "id": "entity:bernice-edwards",
+  "slug": "bernice-edwards",
+  "name": "Bernice Edwards",
+  "entityType": "artist",
+  "summary": "Bernice Edwards was a blues musician, singer and musician.",
+  "dateDisplay": "1910 – 1969",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Singer", "Blues Musician"],
+  "instruments": ["Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-bernice-edwards",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "39uSqr7hIEY",
+    "title": "Low Down Dirty Shame Blues, Bernice Edwards",
+    "sourceUrl": "https://www.youtube.com/watch?v=39uSqr7hIEY",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

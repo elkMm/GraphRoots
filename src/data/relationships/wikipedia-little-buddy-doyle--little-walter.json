@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-little-buddy-doyle--little-walter",
+  "slug": "wikipedia-little-buddy-doyle--little-walter",
+  "entityAId": "entity:little-buddy-doyle",
+  "entityBId": "entity:little-walter",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Little Buddy Doyle and Little Walter in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-little-buddy-doyle"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (little-buddy-doyle@1288161772:5). Verify the cited page context and an independent source before review."
+}

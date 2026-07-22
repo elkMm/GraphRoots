@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-denny-freeman--stevie-ray-vaughan",
+  "slug": "wikipedia-denny-freeman--stevie-ray-vaughan",
+  "entityAId": "entity:denny-freeman",
+  "entityBId": "entity:stevie-ray-vaughan",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Denny Freeman and Stevie Ray Vaughan in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-denny-freeman"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (denny-freeman@1351022468:1). Verify the cited page context and an independent source before review."
+}

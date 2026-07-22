@@ -1,0 +1,24 @@
+{
+  "id": "entity:dave-peabody",
+  "slug": "dave-peabody",
+  "name": "Dave Peabody",
+  "entityType": "artist",
+  "summary": "Dave Peabody is a blues singer-songwriter, musician and guitarist.",
+  "dateDisplay": "1948 –",
+  "regions": ["United Kingdom"],
+  "styles": ["Blues"],
+  "roles": ["Singer-Songwriter", "Musician", "Guitarist"],
+  "instruments": ["Guitar", "Harmonica"],
+  "sourceIds": [
+    "source:encyclopedia-dave-peabody",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "YptWWR95IMs",
+    "title": "Picture the Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=YptWWR95IMs",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-big-boy-henry--sonny-terry",
+  "slug": "wikipedia-big-boy-henry--sonny-terry",
+  "entityAId": "entity:big-boy-henry",
+  "entityBId": "entity:sonny-terry",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Big Boy Henry and Sonny Terry in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-big-boy-henry"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (big-boy-henry@1334811474:3). Verify the cited page context and an independent source before review."
+}

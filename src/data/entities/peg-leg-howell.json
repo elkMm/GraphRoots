@@ -1,0 +1,24 @@
+{
+  "id": "entity:peg-leg-howell",
+  "slug": "peg-leg-howell",
+  "name": "Peg Leg Howell",
+  "entityType": "artist",
+  "summary": "Peg Leg Howell was a blues musician, songwriter and guitarist.",
+  "dateDisplay": "1888 – 1966",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-peg-leg-howell",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "XNim0t3b-E8",
+    "title": "Peg Leg Howell - Tishamingo Blues -- Original 78 rpm record",
+    "sourceUrl": "https://www.youtube.com/watch?v=XNim0t3b-E8",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

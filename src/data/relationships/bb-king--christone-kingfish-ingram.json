@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:001",
+  "slug": "bb-king--christone-kingfish-ingram",
+  "entityAId": "entity:bb-king",
+  "entityBId": "entity:christone-kingfish-ingram",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Ingram's official biography describes his guitar playing as steeped in B.B. King's tones.",
+  "citationIds": ["source:kingfish-official-bio"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-percy-mayfield--little-richard",
+  "slug": "wikipedia-percy-mayfield--little-richard",
+  "entityAId": "entity:percy-mayfield",
+  "entityBId": "entity:little-richard",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Percy Mayfield and Little Richard in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-percy-mayfield"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (percy-mayfield@1364911566:10). Verify the cited page context and an independent source before review."
+}

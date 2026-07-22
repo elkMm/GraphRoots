@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-fred-mcdowell--bukka-white",
+  "slug": "wikipedia-fred-mcdowell--bukka-white",
+  "entityAId": "entity:fred-mcdowell",
+  "entityBId": "entity:bukka-white",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Fred McDowell and Bukka White in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-fred-mcdowell"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (fred-mcdowell@1355004779:5). Verify the cited page context and an independent source before review."
+}

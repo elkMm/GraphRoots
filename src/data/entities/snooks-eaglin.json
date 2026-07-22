@@ -1,0 +1,24 @@
+{
+  "id": "entity:snooks-eaglin",
+  "slug": "snooks-eaglin",
+  "name": "Snooks Eaglin",
+  "entityType": "artist",
+  "summary": "Snooks Eaglin was a blues guitarist, jazz musician and jazz guitarist.",
+  "dateDisplay": "1936 – 2009",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Guitarist", "Jazz Musician", "Jazz Guitarist", "Musician"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-snooks-eaglin",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "sF9qN9HX8XI",
+    "title": "You Give Me Nothing But The Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=sF9qN9HX8XI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

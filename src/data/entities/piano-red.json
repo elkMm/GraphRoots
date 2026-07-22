@@ -1,0 +1,24 @@
+{
+  "id": "entity:piano-red",
+  "slug": "piano-red",
+  "name": "Piano Red",
+  "entityType": "artist",
+  "summary": "Piano Red was a blues musician, singer and pianist.",
+  "dateDisplay": "1911 – 1985",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Blues Musician", "Singer", "Pianist", "Songwriter"],
+  "instruments": ["Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-piano-red",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "82UK-v5HQMs",
+    "title": "Blues, Blues, Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=82UK-v5HQMs",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

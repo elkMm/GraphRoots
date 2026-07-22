@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-ma-rainey--tampa-red",
+  "slug": "wikipedia-ma-rainey--tampa-red",
+  "entityAId": "entity:ma-rainey",
+  "entityBId": "entity:tampa-red",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Ma Rainey and Tampa Red in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-ma-rainey",
+    "source:wikipedia-biography-tampa-red"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (ma-rainey@1362735029:3, tampa-red@1361824266:15, tampa-red@1361824266:3). Verify the cited page context and an independent source before review."
+}

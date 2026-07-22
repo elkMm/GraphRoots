@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-eddie-taylor--kansas-city-red",
+  "slug": "wikipedia-eddie-taylor--kansas-city-red",
+  "entityAId": "entity:eddie-taylor",
+  "entityBId": "entity:kansas-city-red",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Eddie Taylor and Kansas City Red in the same recording context. The precise session details await independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-eddie-taylor",
+    "source:wikipedia-biography-kansas-city-red"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (eddie-taylor@1356601025:17, eddie-taylor@1356601025:3, kansas-city-red@1323756463:3). Verify the cited page context and an independent source before review."
+}

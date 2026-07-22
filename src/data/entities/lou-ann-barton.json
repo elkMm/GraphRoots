@@ -1,0 +1,24 @@
+{
+  "id": "entity:lou-ann-barton",
+  "slug": "lou-ann-barton",
+  "name": "Lou Ann Barton",
+  "entityType": "artist",
+  "summary": "Lou Ann Barton is a blues musician, singer and songwriter.",
+  "dateDisplay": "1954 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Singer", "Songwriter"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-lou-ann-barton",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "fw5iI4LEbzs",
+    "title": "Lou Ann Barton   Every Little Thing",
+    "sourceUrl": "https://www.youtube.com/watch?v=fw5iI4LEbzs",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

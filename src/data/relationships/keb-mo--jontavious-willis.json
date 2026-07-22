@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:035",
+  "slug": "keb-mo--jontavious-willis",
+  "entityAId": "entity:keb-mo",
+  "entityBId": "entity:jontavious-willis",
+  "relationshipType": "mentored",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Music Maker Foundation identifies Keb’ Mo’ as a major mentor who supported Willis's development and recorded work.",
+  "citationIds": ["source:jontavious-willis-music-maker"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

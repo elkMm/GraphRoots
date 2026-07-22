@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-sonny-terry--ry-cooder",
+  "slug": "wikipedia-sonny-terry--ry-cooder",
+  "entityAId": "entity:sonny-terry",
+  "entityBId": "entity:ry-cooder",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Sonny Terry and Ry Cooder in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-sonny-terry"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (sonny-terry@1339330645:6). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-guy-davis--taj-mahal",
+  "slug": "wikipedia-guy-davis--taj-mahal",
+  "entityAId": "entity:guy-davis",
+  "entityBId": "entity:taj-mahal",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Guy Davis and Taj Mahal in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-guy-davis"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (guy-davis@1361741547:3). Verify the cited page context and an independent source before review."
+}

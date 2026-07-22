@@ -1,0 +1,24 @@
+{
+  "id": "entity:john-jackson",
+  "slug": "john-jackson",
+  "name": "John Jackson",
+  "entityType": "artist",
+  "summary": "John Jackson was a blues guitarist and musician.",
+  "dateDisplay": "1924 – 2002",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Guitarist", "Blues Musician"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-john-jackson",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "BSh6PdBSROc",
+    "title": "Midnight Hour Blues performed by John Jackson",
+    "sourceUrl": "https://www.youtube.com/watch?v=BSh6PdBSROc",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

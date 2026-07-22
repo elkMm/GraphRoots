@@ -1,0 +1,47 @@
+name: Corpus correction
+description: Propose a correction, clarification, or missing GraphRoots relationship.
+title: "Corpus correction: "
+body:
+  - type: dropdown
+    id: record-type
+    attributes:
+      label: Record type
+      options:
+        - Artist or ensemble
+        - Relationship
+        - Tradition, place, recording, or other entity
+        - Source or citation
+        - Other corpus record
+    validations:
+      required: true
+
+  - type: input
+    id: record
+    attributes:
+      label: Record
+      description: Provide the GraphRoots URL, slug, or record ID when available.
+      placeholder: https://elkaioum.github.io/GraphRoots/artists/example-artist
+    validations:
+      required: true
+
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction
+      description: Explain what should change and why.
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Supporting sources
+      description: Include full citations, URLs, page numbers, archive identifiers, or recording timecodes where available.
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Note uncertainty, disagreement, or any limitation reviewers should preserve.

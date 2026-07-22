@@ -1,0 +1,24 @@
+{
+  "id": "entity:isaac-scott",
+  "slug": "isaac-scott",
+  "name": "Isaac Scott",
+  "entityType": "artist",
+  "summary": "Isaac Scott was a blues singer.",
+  "dateDisplay": "1945 – 2001",
+  "regions": [],
+  "styles": ["Blues"],
+  "roles": ["Singer"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-isaac-scott",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "wWDnPQeZ74A",
+    "title": "Listen to the Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=wWDnPQeZ74A",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

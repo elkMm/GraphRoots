@@ -1,0 +1,24 @@
+{
+  "id": "entity:papa-charlie-mccoy",
+  "slug": "papa-charlie-mccoy",
+  "name": "Papa Charlie McCoy",
+  "entityType": "artist",
+  "summary": "Papa Charlie McCoy was a blues musician and guitarist.",
+  "dateDisplay": "1909 – 1950",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Guitarist"],
+  "instruments": ["Guitar", "Mandolin"],
+  "sourceIds": [
+    "source:encyclopedia-papa-charlie-mccoy",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "lR44WrOHUeY",
+    "title": "Papa Charlie McCoy- I've Been Blue Ever Since You Went Away",
+    "sourceUrl": "https://www.youtube.com/watch?v=lR44WrOHUeY",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

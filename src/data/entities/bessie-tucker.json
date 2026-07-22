@@ -1,0 +1,24 @@
+{
+  "id": "entity:bessie-tucker",
+  "slug": "bessie-tucker",
+  "name": "Bessie Tucker",
+  "entityType": "artist",
+  "summary": "Bessie Tucker was a blues singer, songwriter and musician.",
+  "dateDisplay": "1906 – 1933",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Songwriter", "Musician"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-bessie-tucker",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "e8d75R2YMSo",
+    "title": "Key To The Bushes Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=e8d75R2YMSo",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

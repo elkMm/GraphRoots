@@ -1,0 +1,24 @@
+{
+  "id": "entity:sista-monica-parker",
+  "slug": "sista-monica-parker",
+  "name": "Sista Monica Parker",
+  "entityType": "artist",
+  "summary": "Sista Monica Parker was a blues songwriter.",
+  "dateDisplay": "1956 – 2014",
+  "regions": ["United States"],
+  "styles": ["Blues", "Electric Blues"],
+  "roles": ["Songwriter"],
+  "sourceIds": [
+    "source:encyclopedia-sista-monica-parker",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:blues-foundation-hall-of-fame"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "4Qm6YnBLc5s",
+    "title": "Sista Monica Parker - Georgia On My Mind",
+    "sourceUrl": "https://www.youtube.com/watch?v=4Qm6YnBLc5s",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

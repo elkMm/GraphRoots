@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-peetie-wheatstraw--teddy-darby",
+  "slug": "wikipedia-peetie-wheatstraw--teddy-darby",
+  "entityAId": "entity:peetie-wheatstraw",
+  "entityBId": "entity:teddy-darby",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Peetie Wheatstraw and Teddy Darby in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-peetie-wheatstraw",
+    "source:wikipedia-biography-teddy-darby"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (peetie-wheatstraw@1344944140:12, peetie-wheatstraw@1344944140:18, peetie-wheatstraw@1344944140:3, teddy-darby@1326358202:4). Verify the cited page context and an independent source before review."
+}

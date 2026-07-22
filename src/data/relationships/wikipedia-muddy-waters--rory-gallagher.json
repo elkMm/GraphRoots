@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-muddy-waters--rory-gallagher",
+  "slug": "wikipedia-muddy-waters--rory-gallagher",
+  "entityAId": "entity:muddy-waters",
+  "entityBId": "entity:rory-gallagher",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Muddy Waters and Rory Gallagher in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-muddy-waters",
+    "source:wikipedia-biography-rory-gallagher"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (muddy-waters@1358783077:25, rory-gallagher@1362494823:11, rory-gallagher@1362494823:50). Verify the cited page context and an independent source before review."
+}

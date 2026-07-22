@@ -1,0 +1,24 @@
+{
+  "id": "entity:richard-hacksaw-harney",
+  "slug": "richard-hacksaw-harney",
+  "name": "Richard \"Hacksaw\" Harney",
+  "entityType": "artist",
+  "summary": "Richard \"Hacksaw\" Harney was a blues musician.",
+  "dateDisplay": "1902 – 1973",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician"],
+  "instruments": ["Piano"],
+  "sourceIds": [
+    "source:encyclopedia-richard-hacksaw-harney",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "ZHPj6cSxLrQ",
+    "title": "Richard \"Hacksaw\" Harney - Oh Red",
+    "sourceUrl": "https://www.youtube.com/watch?v=ZHPj6cSxLrQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

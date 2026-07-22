@@ -1,0 +1,25 @@
+{
+  "id": "entity:son-house",
+  "slug": "son-house",
+  "name": "Son House",
+  "entityType": "artist",
+  "summary": "A fierce slide guitarist and preacher whose intensity directly mentored Robert Johnson and later re-emerged as a touchstone for the 1960s blues revival.",
+  "dateDisplay": "1902 – 1988",
+  "regions": ["Mississippi"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "NdgrQoZHnNY",
+    "title": "Death Letter Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=NdgrQoZHnNY",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "son_house",
+    "originalEra": "delta"
+  }
+}

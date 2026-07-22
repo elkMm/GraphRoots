@@ -1,0 +1,21 @@
+{
+  "id": "entity:ally-venable",
+  "slug": "ally-venable",
+  "name": "Ally Venable",
+  "entityType": "artist",
+  "summary": "Texas singer-guitarist whose contemporary blues-rock recordings pair original songs with collaborations across the modern electric-blues scene.",
+  "regions": ["Texas"],
+  "styles": ["Contemporary blues", "Blues rock", "Electric blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:ally-venable-official-bio"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "vCM00X-lmbU",
+    "title": "Texas Louisiana (with Buddy Guy)",
+    "sourceUrl": "https://www.youtube.com/watch?v=vCM00X-lmbU",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

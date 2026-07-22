@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-chuck-berry--robert-cray",
+  "slug": "wikipedia-chuck-berry--robert-cray",
+  "entityAId": "entity:chuck-berry",
+  "entityBId": "entity:robert-cray",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Chuck Berry and Robert Cray in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-chuck-berry",
+    "source:wikipedia-biography-robert-cray"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (chuck-berry@1362994128:21, robert-cray@1359099407:5). Verify the cited page context and an independent source before review."
+}

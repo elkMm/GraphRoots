@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-johnny-otis--wynonie-harris",
+  "slug": "wikipedia-johnny-otis--wynonie-harris",
+  "entityAId": "entity:johnny-otis",
+  "entityBId": "entity:wynonie-harris",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Johnny Otis and Wynonie Harris in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-johnny-otis",
+    "source:wikipedia-biography-wynonie-harris"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (johnny-otis@1361464789:5, wynonie-harris@1364857249:14). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "entity:little-jimmy-king",
+  "slug": "little-jimmy-king",
+  "name": "Little Jimmy King",
+  "aliases": ["Manuel Gales"],
+  "entityType": "artist",
+  "summary": "Memphis singer-guitarist whose left-handed, upside-down approach joined modern electric blues with blues-rock intensity and family-based musical exchange.",
+  "dateDisplay": "1964 – 2002",
+  "regions": ["Memphis, Tennessee"],
+  "styles": ["Electric blues", "Blues rock"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:little-jimmy-king-allmusic",
+    "source:eric-gales-ljk-interview-2026"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "PHwF0cwQ_Y4",
+    "title": "Blues Been Good to Me",
+    "sourceUrl": "https://www.youtube.com/watch?v=PHwF0cwQ_Y4",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

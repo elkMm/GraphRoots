@@ -1,0 +1,22 @@
+{
+  "id": "entity:sippie-wallace",
+  "slug": "sippie-wallace",
+  "name": "Sippie Wallace",
+  "entityType": "artist",
+  "summary": "Texas-born singer, pianist and songwriter whose classic-blues recordings and later revival connected the 1920s recording era to new audiences.",
+  "dateDisplay": "1898 – 1986",
+  "regions": ["Texas", "Detroit, Michigan"],
+  "styles": ["Classic blues", "Vaudeville blues"],
+  "roles": ["Singer", "Songwriter", "Pianist"],
+  "instruments": ["Piano"],
+  "sourceIds": ["source:sippie-wallace-blues-foundation"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "Z6bogbflyY0",
+    "title": "Advice Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=Z6bogbflyY0",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entity:blind-john-davis",
+  "slug": "blind-john-davis",
+  "name": "Blind John Davis",
+  "entityType": "artist",
+  "summary": "Blind John Davis was a blues singer, pianist and jazz musician.",
+  "dateDisplay": "1913 – 1985",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Pianist", "Jazz Musician", "Musician"],
+  "instruments": ["Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-blind-john-davis",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "IMwa3Be7k74",
+    "title": "Roots of Blues -- Blind John Davis „ My Own Boogie\"",
+    "sourceUrl": "https://www.youtube.com/watch?v=IMwa3Be7k74",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

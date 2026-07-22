@@ -1,0 +1,24 @@
+{
+  "id": "entity:arthur-big-boy-spires",
+  "slug": "arthur-big-boy-spires",
+  "name": "Arthur \"Big Boy\" Spires",
+  "entityType": "artist",
+  "summary": "Arthur \"Big Boy\" Spires was a blues singer.",
+  "dateDisplay": "1912 – 1990",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-arthur-big-boy-spires",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "HjSj6QovdAk",
+    "title": "2  Arthur Big Boy Spires - Murmur Low - Big Boy Spires, 1966",
+    "sourceUrl": "https://www.youtube.com/watch?v=HjSj6QovdAk",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

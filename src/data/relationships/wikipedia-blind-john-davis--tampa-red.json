@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-blind-john-davis--tampa-red",
+  "slug": "wikipedia-blind-john-davis--tampa-red",
+  "entityAId": "entity:blind-john-davis",
+  "entityBId": "entity:tampa-red",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Blind John Davis and Tampa Red in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-blind-john-davis"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (blind-john-davis@1338513747:3). Verify the cited page context and an independent source before review."
+}

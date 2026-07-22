@@ -1,0 +1,25 @@
+{
+  "id": "entity:ali-farka-toure",
+  "slug": "ali-farka-toure",
+  "name": "Ali Farka Touré",
+  "entityType": "artist",
+  "summary": "A Malian guitarist who, upon first hearing John Lee Hooker, recognized the resemblance to his own region's music — closing the loop between American blues and the West African traditions often cited as its distant ancestor.",
+  "dateDisplay": "1939 – 2006",
+  "regions": ["Niafunké, Mali"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "1PKdK_68r0A",
+    "title": "Kala Djula (with Toumani Diabaté)",
+    "sourceUrl": "https://www.youtube.com/watch?v=1PKdK_68r0A",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "ali_farka_toure",
+    "originalEra": "roots"
+  }
+}

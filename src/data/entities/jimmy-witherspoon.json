@@ -1,0 +1,24 @@
+{
+  "id": "entity:jimmy-witherspoon",
+  "slug": "jimmy-witherspoon",
+  "name": "Jimmy Witherspoon",
+  "entityType": "artist",
+  "summary": "Jimmy Witherspoon was a blues singer, jazz musician and musician.",
+  "dateDisplay": "1920 – 1997",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Jazz Musician", "Musician"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-jimmy-witherspoon",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "NSRhBMMwW6I",
+    "title": "DESTRUCTION BLUES by Jimmy Witherspoon",
+    "sourceUrl": "https://www.youtube.com/watch?v=NSRhBMMwW6I",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

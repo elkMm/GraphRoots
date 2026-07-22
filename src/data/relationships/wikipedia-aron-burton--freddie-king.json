@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-aron-burton--freddie-king",
+  "slug": "wikipedia-aron-burton--freddie-king",
+  "entityAId": "entity:aron-burton",
+  "entityBId": "entity:freddie-king",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Aron Burton and Freddie King in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-aron-burton"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (aron-burton@1337021816:1, aron-burton@1337021816:2). Verify the cited page context and an independent source before review."
+}

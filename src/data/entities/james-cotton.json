@@ -1,0 +1,22 @@
+{
+  "id": "entity:james-cotton",
+  "slug": "james-cotton",
+  "name": "James Cotton",
+  "entityType": "artist",
+  "summary": "Mississippi-born singer and harmonica player whose career linked Sonny Boy Williamson II, Howlin’ Wolf and Muddy Waters to later electric-blues audiences.",
+  "dateDisplay": "1935 – 2017",
+  "regions": ["Mississippi", "Memphis, Tennessee", "Chicago, Illinois"],
+  "styles": ["Chicago blues", "Electric blues"],
+  "roles": ["Singer", "Harmonica player", "Bandleader"],
+  "instruments": ["Harmonica"],
+  "sourceIds": ["source:james-cotton-blues-foundation"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "9iWnkX6opOw",
+    "title": "Fever",
+    "sourceUrl": "https://www.youtube.com/watch?v=9iWnkX6opOw",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

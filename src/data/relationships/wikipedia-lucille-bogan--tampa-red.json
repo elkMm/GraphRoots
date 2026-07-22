@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-lucille-bogan--tampa-red",
+  "slug": "wikipedia-lucille-bogan--tampa-red",
+  "entityAId": "entity:lucille-bogan",
+  "entityBId": "entity:tampa-red",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Lucille Bogan and Tampa Red in the same recording context. The precise session details await independent review.",
+  "citationIds": ["source:wikipedia-biography-lucille-bogan"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (lucille-bogan@1326357297:5). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-johnny-copeland--albert-collins",
+  "slug": "wikipedia-johnny-copeland--albert-collins",
+  "entityAId": "entity:johnny-copeland",
+  "entityBId": "entity:albert-collins",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Johnny Copeland and Albert Collins in the same recording context. The precise session details await independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-albert-collins",
+    "source:wikipedia-biography-johnny-copeland"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (albert-collins@1351440494:13, albert-collins@1351440494:22, albert-collins@1351440494:5, johnny-copeland@1326196446:5). Verify the cited page context and an independent source before review."
+}

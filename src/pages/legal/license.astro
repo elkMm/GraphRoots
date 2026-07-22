@@ -1,0 +1,35 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import licenseText from "../../../LICENSE?raw";
+---
+
+<BaseLayout
+  title="MIT License"
+  description="The MIT License for the GraphRoots software and associated documentation."
+  canonicalPath="/legal/license"
+>
+  <article class="shell license-page reading">
+    <p class="eyebrow">Legal</p>
+    <h1>MIT License</h1>
+    <pre>{licenseText}</pre>
+  </article>
+</BaseLayout>
+
+<style>
+  .license-page {
+    padding-block: clamp(3rem, 8vw, 7rem);
+  }
+
+  pre {
+    margin-top: 2rem;
+    padding: clamp(1rem, 3vw, 2rem);
+    border: 1px solid var(--color-border);
+    background: var(--color-surface-raised);
+    color: var(--color-text-muted);
+    font-family: var(--font-meta);
+    font-size: clamp(0.72rem, 1.5vw, 0.86rem);
+    line-height: 1.7;
+    overflow-wrap: anywhere;
+    white-space: pre-wrap;
+  }
+</style>

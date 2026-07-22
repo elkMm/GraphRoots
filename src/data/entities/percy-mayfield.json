@@ -1,0 +1,23 @@
+{
+  "id": "entity:percy-mayfield",
+  "slug": "percy-mayfield",
+  "name": "Percy Mayfield",
+  "entityType": "artist",
+  "summary": "Percy Mayfield was a blues songwriter, singer and composer.",
+  "dateDisplay": "1920 – 1984",
+  "regions": ["United States"],
+  "styles": ["Blues", "Rhythm And Blues"],
+  "roles": ["Songwriter", "Singer", "Composer", "Musician"],
+  "sourceIds": [
+    "source:encyclopedia-percy-mayfield",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "UJ-iDrkWIYU",
+    "title": "P.M. Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=UJ-iDrkWIYU",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "entity:bb-king",
+  "slug": "bb-king",
+  "name": "B.B. King",
+  "entityType": "artist",
+  "summary": "His vibrato-heavy, vocal-like single-string leads became the most emulated guitar vocabulary in modern blues, reaching Clapton, SRV, and beyond.",
+  "dateDisplay": "1925 – 2015",
+  "regions": ["Mississippi → Memphis"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "SgXSomPE_FY",
+    "title": "The Thrill Is Gone (Crossroads 2010)",
+    "sourceUrl": "https://www.youtube.com/watch?v=SgXSomPE_FY",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "bb_king",
+    "originalEra": "chicago"
+  }
+}

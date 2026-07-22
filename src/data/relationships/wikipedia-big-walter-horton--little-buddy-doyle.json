@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-big-walter-horton--little-buddy-doyle",
+  "slug": "wikipedia-big-walter-horton--little-buddy-doyle",
+  "entityAId": "entity:big-walter-horton",
+  "entityBId": "entity:little-buddy-doyle",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Big Walter Horton and Little Buddy Doyle in the same recording context. The precise session details await independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-big-walter-horton",
+    "source:wikipedia-biography-little-buddy-doyle"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (big-walter-horton@1342055682:22, big-walter-horton@1342055682:4, little-buddy-doyle@1288161772:1, little-buddy-doyle@1288161772:4, little-buddy-doyle@1288161772:5). Verify the cited page context and an independent source before review."
+}

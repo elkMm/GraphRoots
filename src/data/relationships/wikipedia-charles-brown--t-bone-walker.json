@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-charles-brown--t-bone-walker",
+  "slug": "wikipedia-charles-brown--t-bone-walker",
+  "entityAId": "entity:charles-brown",
+  "entityBId": "entity:t-bone-walker",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Charles Brown and T-Bone Walker in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-charles-brown"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (charles-brown@1337203337:5). Verify the cited page context and an independent source before review."
+}

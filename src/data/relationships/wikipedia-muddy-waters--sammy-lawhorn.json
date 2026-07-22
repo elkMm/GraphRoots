@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-muddy-waters--sammy-lawhorn",
+  "slug": "wikipedia-muddy-waters--sammy-lawhorn",
+  "entityAId": "entity:muddy-waters",
+  "entityBId": "entity:sammy-lawhorn",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Muddy Waters and Sammy Lawhorn in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-muddy-waters",
+    "source:wikipedia-biography-sammy-lawhorn"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (muddy-waters@1358783077:25, sammy-lawhorn@1329915025:1, sammy-lawhorn@1329915025:10, sammy-lawhorn@1329915025:4). Verify the cited page context and an independent source before review."
+}

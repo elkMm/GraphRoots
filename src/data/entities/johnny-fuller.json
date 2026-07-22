@@ -1,0 +1,24 @@
+{
+  "id": "entity:johnny-fuller",
+  "slug": "johnny-fuller",
+  "name": "Johnny Fuller",
+  "entityType": "artist",
+  "summary": "Johnny Fuller was a blues singer.",
+  "dateDisplay": "1929 – 1985",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-johnny-fuller",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "UqX3JczP_MI",
+    "title": "Johnny Fuller I Walk All Night (1954)",
+    "sourceUrl": "https://www.youtube.com/watch?v=UqX3JczP_MI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

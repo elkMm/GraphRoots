@@ -1,0 +1,24 @@
+{
+  "id": "entity:lucille-bogan",
+  "slug": "lucille-bogan",
+  "name": "Lucille Bogan",
+  "entityType": "artist",
+  "summary": "Lucille Bogan was a blues singer, songwriter and musician.",
+  "dateDisplay": "1897 – 1948",
+  "regions": ["United States"],
+  "styles": ["Blues", "Delta Blues", "Classic Female Blues"],
+  "roles": ["Singer", "Songwriter", "Musician", "Jazz Singer"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-lucille-bogan",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "z8d4uwZqA7A",
+    "title": "Shave 'Em Dry II",
+    "sourceUrl": "https://www.youtube.com/watch?v=z8d4uwZqA7A",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

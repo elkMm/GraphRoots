@@ -1,0 +1,24 @@
+{
+  "id": "entity:henry-gray",
+  "slug": "henry-gray",
+  "name": "Henry Gray",
+  "entityType": "artist",
+  "summary": "Henry Gray was a blues musician, pianist and musician.",
+  "dateDisplay": "1925 – 2020",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Pianist", "Blues Musician"],
+  "instruments": ["Piano"],
+  "sourceIds": [
+    "source:encyclopedia-henry-gray",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "6p2IR7jQXLQ",
+    "title": "Boogie",
+    "sourceUrl": "https://www.youtube.com/watch?v=6p2IR7jQXLQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entity:moody-jones",
+  "slug": "moody-jones",
+  "name": "Moody Jones",
+  "entityType": "artist",
+  "summary": "Moody Jones was a blues singer.",
+  "dateDisplay": "1908 – 1988",
+  "regions": ["United States"],
+  "styles": ["Blues", "Chicago Blues"],
+  "roles": ["Singer"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-moody-jones",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "PfeoY7utMKM",
+    "title": "Moody Jones - Rough Treatment",
+    "sourceUrl": "https://www.youtube.com/watch?v=PfeoY7utMKM",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

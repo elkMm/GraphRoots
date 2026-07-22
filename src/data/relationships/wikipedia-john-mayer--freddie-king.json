@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-john-mayer--freddie-king",
+  "slug": "wikipedia-john-mayer--freddie-king",
+  "entityAId": "entity:john-mayer",
+  "entityBId": "entity:freddie-king",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects John Mayer and Freddie King in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-john-mayer"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (john-mayer@1365183818:7). Verify the cited page context and an independent source before review."
+}

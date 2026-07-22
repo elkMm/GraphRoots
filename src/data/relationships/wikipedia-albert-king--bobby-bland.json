@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-albert-king--bobby-bland",
+  "slug": "wikipedia-albert-king--bobby-bland",
+  "entityAId": "entity:albert-king",
+  "entityBId": "entity:bobby-bland",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Albert King and Bobby Bland in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-albert-king"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (albert-king@1365415478:21). Verify the cited page context and an independent source before review."
+}

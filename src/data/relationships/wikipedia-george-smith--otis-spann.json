@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-george-smith--otis-spann",
+  "slug": "wikipedia-george-smith--otis-spann",
+  "entityAId": "entity:george-smith",
+  "entityBId": "entity:otis-spann",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects George Smith and Otis Spann in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-george-smith",
+    "source:wikipedia-biography-otis-spann"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (george-smith@1358641283:5, otis-spann@1360080351:6). Verify the cited page context and an independent source before review."
+}

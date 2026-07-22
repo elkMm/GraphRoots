@@ -1,0 +1,25 @@
+{
+  "id": "entity:freddie-king",
+  "slug": "freddie-king",
+  "name": "Freddie King",
+  "entityType": "artist",
+  "summary": "Combined Texas and Chicago styles with instrumental hits that British blues-rock guitarists learned note-for-note.",
+  "dateDisplay": "1934 – 1976",
+  "regions": ["Texas → Chicago"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "sQWeXuyRnDo",
+    "title": "Hide Away",
+    "sourceUrl": "https://www.youtube.com/watch?v=sQWeXuyRnDo",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "freddie_king",
+    "originalEra": "chicago"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-big-mama-thornton--muddy-waters",
+  "slug": "wikipedia-big-mama-thornton--muddy-waters",
+  "entityAId": "entity:big-mama-thornton",
+  "entityBId": "entity:muddy-waters",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Willie Mae “Big Mama” Thornton and Muddy Waters in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-big-mama-thornton"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (big-mama-thornton@1361822656:19, big-mama-thornton@1361822656:22). Verify the cited page context and an independent source before review."
+}

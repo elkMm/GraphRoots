@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "corpusVersion": "0.7.1",
+    "generatedAt": "2026-07-22T19:24:54.796Z",
+    "license": {
+      "id": "NOASSERTION",
+      "name": "No public data license has been asserted yet"
+    },
+    "methodologyUrl": "/methodology"
+  },
+  "descriptions": {
+    "entity": "A person, ensemble, tradition, or other stable object in the corpus.",
+    "relationship": "A typed connection with neutral endpoints, explicit orientation, evidence category, editorial review status, and dispute status.",
+    "source": "A bibliographic or archival reference cited by a public record.",
+    "relationshipReviewStatus": "Only reviewed relationships are public; draft, provisional, and withdrawn records are excluded."
+  }
+}

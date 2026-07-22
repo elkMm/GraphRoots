@@ -1,0 +1,24 @@
+{
+  "id": "entity:rod-piazza",
+  "slug": "rod-piazza",
+  "name": "Rod Piazza",
+  "entityType": "artist",
+  "summary": "Rod Piazza is a blues musician and singer.",
+  "dateDisplay": "1947 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Singer"],
+  "instruments": ["Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-rod-piazza",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "VnlQVYy9z5E",
+    "title": "Tangled With A Woman",
+    "sourceUrl": "https://www.youtube.com/watch?v=VnlQVYy9z5E",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

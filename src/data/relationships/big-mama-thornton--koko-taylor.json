@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:019",
+  "slug": "big-mama-thornton--koko-taylor",
+  "entityAId": "entity:big-mama-thornton",
+  "entityBId": "entity:koko-taylor",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "The Blues Foundation identifies Big Mama Thornton among the strongest influences on Koko Taylor's singing.",
+  "citationIds": ["source:koko-taylor-blues-foundation"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-smokey-hogg--lightnin-hopkins",
+  "slug": "wikipedia-smokey-hogg--lightnin-hopkins",
+  "entityAId": "entity:smokey-hogg",
+  "entityBId": "entity:lightnin-hopkins",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Smokey Hogg and Lightnin’ Hopkins in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-smokey-hogg"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (smokey-hogg@1358523346:10). Verify the cited page context and an independent source before review."
+}

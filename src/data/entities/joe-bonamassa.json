@@ -1,0 +1,22 @@
+{
+  "id": "entity:joe-bonamassa",
+  "slug": "joe-bonamassa",
+  "name": "Joe Bonamassa",
+  "entityType": "artist",
+  "summary": "New York-born singer-guitarist who entered the professional blues circuit as a child and built a long recording and touring career in blues rock.",
+  "dateDisplay": "1977 –",
+  "regions": ["New York", "United States"],
+  "styles": ["Blues rock", "Electric blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:joe-bonamassa-official-bio"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "8zb4HckKSos",
+    "title": "Stop!",
+    "sourceUrl": "https://www.youtube.com/watch?v=8zb4HckKSos",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

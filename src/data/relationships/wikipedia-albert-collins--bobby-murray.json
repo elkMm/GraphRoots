@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-albert-collins--bobby-murray",
+  "slug": "wikipedia-albert-collins--bobby-murray",
+  "entityAId": "entity:albert-collins",
+  "entityBId": "entity:bobby-murray",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "The Wikipedia biography for Bobby Murray explicitly describes Albert Collins as a musical influence. The claim awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-bobby-murray"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bobby-murray@1365154178:2, bobby-murray@1365154178:3). Verify the cited page context and an independent source before review."
+}

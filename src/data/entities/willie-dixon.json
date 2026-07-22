@@ -1,0 +1,25 @@
+{
+  "id": "entity:willie-dixon",
+  "slug": "willie-dixon",
+  "name": "Willie Dixon",
+  "entityType": "artist",
+  "summary": "Chess Records' chief songwriter and bassist, penning standards recorded by Muddy Waters, Howlin' Wolf, and later Cream, Led Zeppelin, and the Rolling Stones.",
+  "dateDisplay": "1915 – 1992",
+  "regions": ["Chicago"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "aSZhM207pPg",
+    "title": "Everyday I Have the Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=aSZhM207pPg",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "willie_dixon",
+    "originalEra": "chicago"
+  }
+}

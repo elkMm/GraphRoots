@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-taj-mahal--john-mayer",
+  "slug": "wikipedia-taj-mahal--john-mayer",
+  "entityAId": "entity:taj-mahal",
+  "entityBId": "entity:john-mayer",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Taj Mahal and John Mayer in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-taj-mahal"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (taj-mahal@1363505672:22). Verify the cited page context and an independent source before review."
+}

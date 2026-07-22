@@ -1,0 +1,24 @@
+{
+  "id": "entity:sam-myers",
+  "slug": "sam-myers",
+  "name": "Sam Myers",
+  "entityType": "artist",
+  "summary": "Sam Myers was a blues musician, songwriter and musician.",
+  "dateDisplay": "1936 – 2006",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Songwriter", "Blues Musician"],
+  "instruments": ["Harmonica"],
+  "sourceIds": [
+    "source:encyclopedia-sam-myers",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "PnXK2OP7V2A",
+    "title": "I Got The Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=PnXK2OP7V2A",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

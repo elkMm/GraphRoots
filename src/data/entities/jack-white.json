@@ -1,0 +1,25 @@
+{
+  "id": "entity:jack-white",
+  "slug": "jack-white",
+  "name": "Jack White",
+  "entityType": "artist",
+  "summary": "Built the White Stripes' sound directly on Son House and Blind Willie McTell, and has actively championed and reissued early blues recordings.",
+  "dateDisplay": "1975 –",
+  "regions": ["Detroit"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "Ozv5moXP3YA",
+    "title": "That’s How I’m Feeling",
+    "sourceUrl": "https://www.youtube.com/watch?v=Ozv5moXP3YA",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "jack_white",
+    "originalEra": "modern"
+  }
+}

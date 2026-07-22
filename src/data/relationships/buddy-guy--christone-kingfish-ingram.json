@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:003",
+  "slug": "buddy-guy--christone-kingfish-ingram",
+  "entityAId": "entity:buddy-guy",
+  "entityBId": "entity:christone-kingfish-ingram",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Ingram's official biography identifies Buddy Guy's guitar vocabulary as a foundation of his own playing.",
+  "citationIds": ["source:kingfish-official-bio"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

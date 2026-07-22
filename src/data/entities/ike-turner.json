@@ -1,0 +1,25 @@
+{
+  "id": "entity:ike-turner",
+  "slug": "ike-turner",
+  "name": "Ike Turner",
+  "entityType": "artist",
+  "summary": "Ike Turner was a blues guitarist, pianist and singer-songwriter.",
+  "dateDisplay": "1931 – 2007",
+  "regions": ["United States"],
+  "styles": ["Blues", "Rhythm And Blues"],
+  "roles": ["Guitarist", "Pianist", "Singer-Songwriter", "Bandleader"],
+  "instruments": ["Guitar", "Piano", "Voice", "Musical Keyboard"],
+  "sourceIds": [
+    "source:encyclopedia-ike-turner",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:carnegie-hall-rhythm-blues"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "f8cFpqjr9qo",
+    "title": "Ike Turner - Gettin Nasty",
+    "sourceUrl": "https://www.youtube.com/watch?v=f8cFpqjr9qo",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

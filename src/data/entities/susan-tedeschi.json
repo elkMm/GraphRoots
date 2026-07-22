@@ -1,0 +1,24 @@
+{
+  "id": "entity:susan-tedeschi",
+  "slug": "susan-tedeschi",
+  "name": "Susan Tedeschi",
+  "entityType": "artist",
+  "summary": "Susan Tedeschi is a blues singer-songwriter, singer and composer.",
+  "dateDisplay": "1970 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer-Songwriter", "Singer", "Composer", "Guitarist"],
+  "instruments": ["Guitar", "Voice", "Harmonica"],
+  "sourceIds": [
+    "source:encyclopedia-susan-tedeschi",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "KaI5w1AwCLA",
+    "title": "Susan Tedeschi - Little By Little (Visualizer)",
+    "sourceUrl": "https://www.youtube.com/watch?v=KaI5w1AwCLA",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-little-richard--johnny-otis",
+  "slug": "wikipedia-little-richard--johnny-otis",
+  "entityAId": "entity:little-richard",
+  "entityBId": "entity:johnny-otis",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Little Richard and Johnny Otis in the same recording context. The precise session details await independent review.",
+  "citationIds": ["source:wikipedia-biography-little-richard"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (little-richard@1365153950:12). Verify the cited page context and an independent source before review."
+}

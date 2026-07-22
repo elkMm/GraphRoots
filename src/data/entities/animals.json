@@ -1,0 +1,18 @@
+{
+  "id": "entity:animals",
+  "slug": "animals",
+  "name": "The Animals",
+  "entityType": "ensemble",
+  "summary": "Translated American blues and R&B (including John Lee Hooker's boogie feel) into hits that reintroduced the material to American radio audiences.",
+  "dateDisplay": "formed 1962",
+  "regions": ["Newcastle"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "animals",
+    "originalEra": "british"
+  }
+}

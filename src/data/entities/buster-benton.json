@@ -1,0 +1,24 @@
+{
+  "id": "entity:buster-benton",
+  "slug": "buster-benton",
+  "name": "Buster Benton",
+  "entityType": "artist",
+  "summary": "Buster Benton was a blues singer and songwriter.",
+  "dateDisplay": "1932 – 1996",
+  "regions": ["United States"],
+  "styles": ["Blues", "Chicago Blues"],
+  "roles": ["Singer", "Songwriter"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-buster-benton",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "tyrOpwsgus8",
+    "title": "Best Blues Songs Of The Buster Benton - Buster Benton Full Album (Official Music Video)",
+    "sourceUrl": "https://www.youtube.com/watch?v=tyrOpwsgus8",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

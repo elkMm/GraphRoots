@@ -1,0 +1,24 @@
+{
+  "id": "entity:otis-big-smokey-smothers",
+  "slug": "otis-big-smokey-smothers",
+  "name": "Otis \"Big Smokey\" Smothers",
+  "entityType": "artist",
+  "summary": "Otis \"Big Smokey\" Smothers was a blues musician, singer and guitarist.",
+  "dateDisplay": "1929 – 1993",
+  "regions": ["United States"],
+  "styles": ["Blues", "Chicago Blues"],
+  "roles": ["Musician", "Singer", "Guitarist", "Songwriter"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-otis-big-smokey-smothers",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "O4LrouNUed0",
+    "title": "10. Otis \"Big Smokey\" Smothers - \"Blind And Dumb Man Blues\" (Official Audio)",
+    "sourceUrl": "https://www.youtube.com/watch?v=O4LrouNUed0",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

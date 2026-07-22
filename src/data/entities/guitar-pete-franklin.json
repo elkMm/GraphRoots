@@ -1,0 +1,24 @@
+{
+  "id": "entity:guitar-pete-franklin",
+  "slug": "guitar-pete-franklin",
+  "name": "Guitar Pete Franklin",
+  "entityType": "artist",
+  "summary": "Guitar Pete Franklin was a blues songwriter, pianist and singer.",
+  "dateDisplay": "1928 – 1975",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Songwriter", "Pianist", "Singer", "Guitarist"],
+  "instruments": ["Guitar", "Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-guitar-pete-franklin",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "x7RfTQxIn2U",
+    "title": "I Got To Find My Baby - Guitar Pete Franklin",
+    "sourceUrl": "https://www.youtube.com/watch?v=x7RfTQxIn2U",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

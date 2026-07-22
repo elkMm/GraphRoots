@@ -1,0 +1,70 @@
+---
+import GraphExplorer from "../../components/graph/GraphExplorer.svelte";
+import { loadCorpus } from "../../domain/corpus/load-corpus";
+import { withBase } from "../../domain/base-path";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const corpus = await loadCorpus();
+const publicRelationshipCount = corpus.relationships.filter(
+  (relationship) => relationship.reviewStatus === "reviewed",
+).length;
+const provisionalRelationshipCount = corpus.relationships.filter(
+  (relationship) => relationship.reviewStatus === "provisional",
+).length;
+---
+
+<BaseLayout
+  title="Roots & Branches Explorer"
+  description="Search, filter, and inspect the GraphRoots Blues network, including clearly marked provisional pathways."
+  canonicalPath="/blues/explore"
+>
+  <header class="explorer-header shell">
+    <div>
+      <p class="eyebrow">GraphRoots / Blues</p>
+      <h1>Roots &amp; Branches</h1>
+    </div>
+    <p>
+      Explore {corpus.entities.length} Blues entities, {publicRelationshipCount}
+      reviewed relationships, and {provisionalRelationshipCount} clearly marked exploratory
+      pathways awaiting classification or source review.
+    </p>
+  </header>
+  <GraphExplorer
+    client:load
+    dataUrl={withBase("/data/generated/graphroots-blues-graph.json")}
+  />
+</BaseLayout>
+
+<style>
+  .explorer-header {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem 2rem;
+    align-items: baseline;
+    padding-block: 0.9rem;
+  }
+
+  .explorer-header h1 {
+    font-size: 24px;
+    white-space: nowrap;
+  }
+
+  .explorer-header p:last-child {
+    max-width: 42rem;
+    margin-block: 0;
+    margin-left: auto;
+    color: var(--color-text-muted);
+    font-size: 0.82rem;
+  }
+
+  @media (max-width: 48rem) {
+    .explorer-header {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+
+    .explorer-header p:last-child {
+      margin-left: 0;
+    }
+  }
+</style>

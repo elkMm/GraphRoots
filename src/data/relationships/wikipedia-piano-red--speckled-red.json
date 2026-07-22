@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-piano-red--speckled-red",
+  "slug": "wikipedia-piano-red--speckled-red",
+  "entityAId": "entity:piano-red",
+  "entityBId": "entity:speckled-red",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Piano Red and Speckled Red in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-piano-red",
+    "source:wikipedia-biography-speckled-red"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (piano-red@1332375373:2, speckled-red@1352438249:2). Verify the cited page context and an independent source before review."
+}

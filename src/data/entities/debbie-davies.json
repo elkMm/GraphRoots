@@ -1,0 +1,24 @@
+{
+  "id": "entity:debbie-davies",
+  "slug": "debbie-davies",
+  "name": "Debbie Davies",
+  "entityType": "artist",
+  "summary": "Debbie Davies is a blues guitarist and musician.",
+  "dateDisplay": "1952 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Guitarist", "Musician"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-debbie-davies",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "YqR_8Dzvs6M",
+    "title": "Blue & Lonesome",
+    "sourceUrl": "https://www.youtube.com/watch?v=YqR_8Dzvs6M",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

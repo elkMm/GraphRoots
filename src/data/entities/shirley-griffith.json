@@ -1,0 +1,24 @@
+{
+  "id": "entity:shirley-griffith",
+  "slug": "shirley-griffith",
+  "name": "Shirley Griffith",
+  "entityType": "artist",
+  "summary": "Shirley Griffith was a blues singer, songwriter and guitarist.",
+  "dateDisplay": "1908 – 1974",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-shirley-griffith",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "cZviMa_9S5Y",
+    "title": "Shirley Griffith - Saturday Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=cZviMa_9S5Y",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

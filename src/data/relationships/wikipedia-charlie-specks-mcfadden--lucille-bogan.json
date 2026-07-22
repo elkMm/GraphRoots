@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-charlie-specks-mcfadden--lucille-bogan",
+  "slug": "wikipedia-charlie-specks-mcfadden--lucille-bogan",
+  "entityAId": "entity:charlie-specks-mcfadden",
+  "entityBId": "entity:lucille-bogan",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Charlie \"Specks\" McFadden and Lucille Bogan in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-charlie-specks-mcfadden",
+    "source:wikipedia-biography-lucille-bogan"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (charlie-specks-mcfadden@1319263435:4, lucille-bogan@1326357297:6). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:037",
+  "slug": "stevie-ray-vaughan--john-mayer",
+  "entityAId": "entity:stevie-ray-vaughan",
+  "entityBId": "entity:john-mayer",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Berklee's profile identifies Stevie Ray Vaughan as the formative model for Mayer's early blues guitar study.",
+  "citationIds": ["source:john-mayer-berklee-profile"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-lonnie-brooks--stevie-ray-vaughan",
+  "slug": "wikipedia-lonnie-brooks--stevie-ray-vaughan",
+  "entityAId": "entity:lonnie-brooks",
+  "entityBId": "entity:stevie-ray-vaughan",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Lonnie Brooks and Stevie Ray Vaughan in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-lonnie-brooks"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (lonnie-brooks@1361873818:12). Verify the cited page context and an independent source before review."
+}

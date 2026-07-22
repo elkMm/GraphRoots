@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-eddie-guitar-burns--lonnie-pitchford",
+  "slug": "wikipedia-eddie-guitar-burns--lonnie-pitchford",
+  "entityAId": "entity:eddie-guitar-burns",
+  "entityBId": "entity:lonnie-pitchford",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Eddie \"Guitar\" Burns and Lonnie Pitchford in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-eddie-guitar-burns"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (eddie-guitar-burns@1318202684:7). Verify the cited page context and an independent source before review."
+}

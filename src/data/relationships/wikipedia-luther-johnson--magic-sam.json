@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-luther-johnson--magic-sam",
+  "slug": "wikipedia-luther-johnson--magic-sam",
+  "entityAId": "entity:luther-johnson",
+  "entityBId": "entity:magic-sam",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Luther Johnson and Magic Sam in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-luther-johnson"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (luther-johnson@1337531682:2). Verify the cited page context and an independent source before review."
+}

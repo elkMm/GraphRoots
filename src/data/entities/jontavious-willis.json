@@ -1,0 +1,22 @@
+{
+  "id": "entity:jontavious-willis",
+  "slug": "jontavious-willis",
+  "name": "Jontavious Willis",
+  "entityType": "artist",
+  "summary": "Georgia singer-guitarist whose work centers acoustic blues storytelling while drawing on Piedmont, Delta, gospel and early recorded-blues traditions.",
+  "dateDisplay": "1996 –",
+  "regions": ["Georgia"],
+  "styles": ["Acoustic blues", "Country blues", "Piedmont blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:jontavious-willis-official-epk"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "W-2dRuP446M",
+    "title": "Low Down Ways",
+    "sourceUrl": "https://www.youtube.com/watch?v=W-2dRuP446M",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-matt-murphy--willie-dixon",
+  "slug": "wikipedia-matt-murphy--willie-dixon",
+  "entityAId": "entity:matt-murphy",
+  "entityBId": "entity:willie-dixon",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Matt Murphy and Willie Dixon in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-matt-murphy"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (matt-murphy@1345090852:4). Verify the cited page context and an independent source before review."
+}

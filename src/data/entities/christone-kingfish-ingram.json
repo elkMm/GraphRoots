@@ -1,0 +1,27 @@
+{
+  "id": "entity:christone-kingfish-ingram",
+  "slug": "christone-kingfish-ingram",
+  "name": "Christone “Kingfish” Ingram",
+  "aliases": ["Kingfish"],
+  "entityType": "artist",
+  "summary": "Clarksdale singer-guitarist who draws on Delta and electric blues while bringing funk, soul, rock, R&B, hip-hop and jazz into a contemporary sound.",
+  "dateDisplay": "1999 –",
+  "regions": ["Mississippi Delta", "Clarksdale, Mississippi"],
+  "styles": ["Contemporary blues", "Electric blues", "Blues rock"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:kingfish-official-bio",
+    "source:city-clarksdale-kingfish",
+    "source:kingfish-grammy-interview"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "QdC99sQRd1s",
+    "title": "662 (Official Video)",
+    "sourceUrl": "https://www.youtube.com/watch?v=QdC99sQRd1s",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

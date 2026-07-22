@@ -1,0 +1,20 @@
+{
+  "id": "relationship:prototype:054",
+  "slug": "skip-james--cream",
+  "entityAId": "entity:skip-james",
+  "entityBId": "entity:cream",
+  "relationshipType": "covered_work_by",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Cream recorded Skip James's I'm So Glad for the group's 1966 debut album, bringing the composition to a much wider audience.",
+  "citationIds": ["source:skip-james-mississippi-encyclopedia"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalRelationshipType": "generic_influence",
+    "originalNote": "covered 'I'm So Glad'"
+  }
+}

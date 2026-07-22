@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-tinsley-ellis--stevie-ray-vaughan",
+  "slug": "wikipedia-tinsley-ellis--stevie-ray-vaughan",
+  "entityAId": "entity:tinsley-ellis",
+  "entityBId": "entity:stevie-ray-vaughan",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Tinsley Ellis and Stevie Ray Vaughan in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-tinsley-ellis"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (tinsley-ellis@1357660848:8). Verify the cited page context and an independent source before review."
+}

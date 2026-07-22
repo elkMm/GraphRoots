@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-tommy-johnson--rory-block",
+  "slug": "wikipedia-tommy-johnson--rory-block",
+  "entityAId": "entity:tommy-johnson",
+  "entityBId": "entity:rory-block",
+  "relationshipType": "covered_work_by",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Rory Block's Wikipedia biography states that her albums included songs written by Tommy Johnson. The relationship remains provisional pending independent review.",
+  "citationIds": ["source:wikipedia-biography-rory-block"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from an explicit linked mention in Wikipedia biography text (rory-block@1320464399:5). Reclassified with originator-to-covering-artist direction; verify an independent source before review."
+}

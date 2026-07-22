@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-sherman-robertson--freddie-king",
+  "slug": "wikipedia-sherman-robertson--freddie-king",
+  "entityAId": "entity:sherman-robertson",
+  "entityBId": "entity:freddie-king",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Sherman Robertson and Freddie King in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-sherman-robertson"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (sherman-robertson@1319553101:2). Verify the cited page context and an independent source before review."
+}

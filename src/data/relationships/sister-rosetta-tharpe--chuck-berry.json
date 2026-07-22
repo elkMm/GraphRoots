@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:020",
+  "slug": "sister-rosetta-tharpe--chuck-berry",
+  "entityAId": "entity:sister-rosetta-tharpe",
+  "entityBId": "entity:chuck-berry",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "The Smithsonian identifies Tharpe's amplified guitar style as an influence on Chuck Berry's later rock-and-roll playing.",
+  "citationIds": ["source:sister-rosetta-smithsonian"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

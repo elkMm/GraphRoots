@@ -1,0 +1,24 @@
+{
+  "id": "entity:george-higgs",
+  "slug": "george-higgs",
+  "name": "George Higgs",
+  "entityType": "artist",
+  "summary": "George Higgs was a blues singer.",
+  "dateDisplay": "1930 – 2013",
+  "regions": [],
+  "styles": ["Blues"],
+  "roles": ["Singer"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-george-higgs",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "Z2I__4bJ3Cg",
+    "title": "Blues Came Falling Down",
+    "sourceUrl": "https://www.youtube.com/watch?v=Z2I__4bJ3Cg",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

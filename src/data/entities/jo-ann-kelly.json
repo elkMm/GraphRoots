@@ -1,0 +1,24 @@
+{
+  "id": "entity:jo-ann-kelly",
+  "slug": "jo-ann-kelly",
+  "name": "Jo Ann Kelly",
+  "entityType": "artist",
+  "summary": "Jo Ann Kelly was a blues singer, guitarist and musician.",
+  "dateDisplay": "1944 – 1990",
+  "regions": ["United Kingdom"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Guitarist", "Musician"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-jo-ann-kelly",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "AqzaoKp5E6M",
+    "title": "Big Boss Man",
+    "sourceUrl": "https://www.youtube.com/watch?v=AqzaoKp5E6M",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

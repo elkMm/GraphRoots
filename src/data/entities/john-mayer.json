@@ -1,0 +1,22 @@
+{
+  "id": "entity:john-mayer",
+  "slug": "john-mayer",
+  "name": "John Mayer",
+  "entityType": "artist",
+  "summary": "Connecticut-born singer, songwriter and guitarist whose career moves between pop songwriting, blues-rock performance and collaborative improvisation.",
+  "dateDisplay": "1977 –",
+  "regions": ["Connecticut", "Atlanta, Georgia", "United States"],
+  "styles": ["Blues rock", "Pop rock", "Contemporary blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist", "Producer"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:john-mayer-berklee-profile"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "EUwynJ-WHGo",
+    "title": "Wild Blue (Official Music Video)",
+    "sourceUrl": "https://www.youtube.com/watch?v=EUwynJ-WHGo",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

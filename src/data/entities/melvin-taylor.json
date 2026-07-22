@@ -1,0 +1,24 @@
+{
+  "id": "entity:melvin-taylor",
+  "slug": "melvin-taylor",
+  "name": "Melvin Taylor",
+  "entityType": "artist",
+  "summary": "Melvin Taylor is a blues musician and jazz guitarist.",
+  "dateDisplay": "1959 –",
+  "regions": ["United States"],
+  "styles": ["Blues", "Electric Blues"],
+  "roles": ["Musician", "Jazz Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-melvin-taylor",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "FAG5-MIaDnw",
+    "title": "Sweet Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=FAG5-MIaDnw",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

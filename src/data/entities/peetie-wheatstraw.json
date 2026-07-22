@@ -1,0 +1,24 @@
+{
+  "id": "entity:peetie-wheatstraw",
+  "slug": "peetie-wheatstraw",
+  "name": "Peetie Wheatstraw",
+  "entityType": "artist",
+  "summary": "Peetie Wheatstraw was a blues musician, singer and pianist.",
+  "dateDisplay": "1902 – 1941",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Singer", "Pianist", "Composer"],
+  "instruments": ["Piano", "Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-peetie-wheatstraw",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "jE4ps_d8K4Q",
+    "title": "More Good Whiskey Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=jE4ps_d8K4Q",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

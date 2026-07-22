@@ -1,0 +1,24 @@
+{
+  "id": "entity:henry-townsend",
+  "slug": "henry-townsend",
+  "name": "Henry Townsend",
+  "entityType": "artist",
+  "summary": "Henry Townsend was a blues singer, pianist and musician.",
+  "dateDisplay": "1909 – 2006",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Pianist", "Blues Musician", "Musician"],
+  "instruments": ["Guitar", "Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-henry-townsend",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "F3JHEZqXilE",
+    "title": "Baby Boy Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=F3JHEZqXilE",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

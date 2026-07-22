@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-son-house--buddy-guy",
+  "slug": "wikipedia-son-house--buddy-guy",
+  "entityAId": "entity:son-house",
+  "entityBId": "entity:buddy-guy",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Son House and Buddy Guy in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-son-house"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (son-house@1363026468:20). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-bo-diddley--little-richard",
+  "slug": "wikipedia-bo-diddley--little-richard",
+  "entityAId": "entity:bo-diddley",
+  "entityBId": "entity:little-richard",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Bo Diddley and Little Richard in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-bo-diddley",
+    "source:wikipedia-biography-little-richard"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bo-diddley@1364112701:12, little-richard@1365153950:29). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entity:lefty-dizz",
+  "slug": "lefty-dizz",
+  "name": "Lefty Dizz",
+  "entityType": "artist",
+  "summary": "Lefty Dizz was a blues singer and guitarist.",
+  "dateDisplay": "1937 – 1993",
+  "regions": ["United States"],
+  "styles": ["Blues", "Chicago Blues"],
+  "roles": ["Singer", "Guitarist"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-lefty-dizz",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "5DK6mpJ_ytI",
+    "title": "Blue Shadows (take 1)",
+    "sourceUrl": "https://www.youtube.com/watch?v=5DK6mpJ_ytI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

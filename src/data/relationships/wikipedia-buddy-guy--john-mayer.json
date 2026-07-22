@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-buddy-guy--john-mayer",
+  "slug": "wikipedia-buddy-guy--john-mayer",
+  "entityAId": "entity:buddy-guy",
+  "entityBId": "entity:john-mayer",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Buddy Guy and John Mayer in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-buddy-guy",
+    "source:wikipedia-biography-john-mayer"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (buddy-guy@1362800245:1, john-mayer@1365183818:16, john-mayer@1365183818:69, john-mayer@1365183818:7). Verify the cited page context and an independent source before review."
+}

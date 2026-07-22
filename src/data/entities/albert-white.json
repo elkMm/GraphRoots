@@ -1,0 +1,24 @@
+{
+  "id": "entity:albert-white",
+  "slug": "albert-white",
+  "name": "Albert White",
+  "entityType": "artist",
+  "summary": "Albert White is a blues musician, guitarist and songwriter.",
+  "dateDisplay": "1942 –",
+  "regions": ["United States"],
+  "styles": ["Blues", "Electric Blues"],
+  "roles": ["Musician", "Guitarist", "Songwriter"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-albert-white",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "cASHemgc81Q",
+    "title": "ALBERT WHITE",
+    "sourceUrl": "https://www.youtube.com/watch?v=cASHemgc81Q",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

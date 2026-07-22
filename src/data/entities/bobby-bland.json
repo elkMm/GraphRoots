@@ -1,0 +1,25 @@
+{
+  "id": "entity:bobby-bland",
+  "slug": "bobby-bland",
+  "name": "Bobby Bland",
+  "entityType": "artist",
+  "summary": "Bobby Bland was a blues singer, musician and musician.",
+  "dateDisplay": "1930 – 2013",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Blues Musician", "Musician"],
+  "instruments": ["Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-bobby-bland",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:school-of-rock-history-blues"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "StdN_CiCNS4",
+    "title": "Bobby Blue Bland   Turn On Your Love Light",
+    "sourceUrl": "https://www.youtube.com/watch?v=StdN_CiCNS4",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

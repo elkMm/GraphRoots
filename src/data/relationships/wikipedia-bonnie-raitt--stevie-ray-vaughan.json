@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-bonnie-raitt--stevie-ray-vaughan",
+  "slug": "wikipedia-bonnie-raitt--stevie-ray-vaughan",
+  "entityAId": "entity:bonnie-raitt",
+  "entityBId": "entity:stevie-ray-vaughan",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Bonnie Raitt and Stevie Ray Vaughan in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-bonnie-raitt",
+    "source:wikipedia-biography-stevie-ray-vaughan"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bonnie-raitt@1362043608:20, bonnie-raitt@1362043608:40, stevie-ray-vaughan@1362769850:57). Verify the cited page context and an independent source before review."
+}

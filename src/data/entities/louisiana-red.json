@@ -1,0 +1,24 @@
+{
+  "id": "entity:louisiana-red",
+  "slug": "louisiana-red",
+  "name": "Louisiana Red",
+  "entityType": "artist",
+  "summary": "Louisiana Red was a blues singer-songwriter, musician and singer.",
+  "dateDisplay": "1932 – 2012",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer-Songwriter", "Musician", "Singer", "Guitarist"],
+  "instruments": ["Guitar", "Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-louisiana-red",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "VKi2aJspaqI",
+    "title": "Louisiana Red - Going Train Blues (Official Audio)",
+    "sourceUrl": "https://www.youtube.com/watch?v=VKi2aJspaqI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

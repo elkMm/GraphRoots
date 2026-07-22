@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:039",
+  "slug": "blind-willie-johnson--led-zeppelin",
+  "entityAId": "entity:blind-willie-johnson",
+  "entityBId": "entity:led-zeppelin",
+  "relationshipType": "covered_work_by",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Led Zeppelin recorded Nobody's Fault but Mine, drawing from the song Blind Willie Johnson first recorded in 1927.",
+  "citationIds": ["source:blind-willie-johnson-pitt-dissertation"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

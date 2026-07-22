@@ -1,0 +1,24 @@
+{
+  "id": "entity:robert-shaw",
+  "slug": "robert-shaw",
+  "name": "Robert Shaw",
+  "entityType": "artist",
+  "summary": "Robert Shaw was a blues pianist and songwriter.",
+  "dateDisplay": "1908 – 1985",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Pianist", "Songwriter"],
+  "instruments": ["Piano"],
+  "sourceIds": [
+    "source:encyclopedia-robert-shaw",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "vQCujerXTYY",
+    "title": "Jump Steady Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=vQCujerXTYY",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

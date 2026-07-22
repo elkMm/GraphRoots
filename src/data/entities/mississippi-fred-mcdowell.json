@@ -1,0 +1,23 @@
+{
+  "id": "entity:mississippi-fred-mcdowell",
+  "slug": "mississippi-fred-mcdowell",
+  "name": "Mississippi Fred McDowell",
+  "aliases": ["Fred McDowell"],
+  "entityType": "artist",
+  "summary": "North Mississippi singer-guitarist whose hypnotic rhythms and bottleneck slide playing carried Hill Country blues from local settings to international audiences.",
+  "dateDisplay": "1904 – 1972",
+  "regions": ["North Mississippi", "Mississippi Hill Country"],
+  "styles": ["Hill Country blues", "Country blues"],
+  "roles": ["Singer", "Guitarist"],
+  "instruments": ["Slide guitar"],
+  "sourceIds": ["source:fred-mcdowell-ms-blues-trail"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "V26E46uj8a4",
+    "title": "Baby Please Don’t Go",
+    "sourceUrl": "https://www.youtube.com/watch?v=V26E46uj8a4",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

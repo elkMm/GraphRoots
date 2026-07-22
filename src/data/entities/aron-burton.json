@@ -1,0 +1,24 @@
+{
+  "id": "entity:aron-burton",
+  "slug": "aron-burton",
+  "name": "Aron Burton",
+  "entityType": "artist",
+  "summary": "Aron Burton was a blues songwriter.",
+  "dateDisplay": "1938 – 2016",
+  "regions": ["United States"],
+  "styles": ["Blues", "Chicago Blues"],
+  "roles": ["Songwriter"],
+  "instruments": ["Guitar", "Voice", "Bass"],
+  "sourceIds": [
+    "source:encyclopedia-aron-burton",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "N--MhJ1LdfE",
+    "title": "Good Idea At The Time",
+    "sourceUrl": "https://www.youtube.com/watch?v=N--MhJ1LdfE",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

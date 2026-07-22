@@ -1,0 +1,24 @@
+{
+  "id": "entity:calvin-frazier",
+  "slug": "calvin-frazier",
+  "name": "Calvin Frazier",
+  "entityType": "artist",
+  "summary": "Calvin Frazier was a blues singer and songwriter.",
+  "dateDisplay": "1915 – 1972",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Songwriter"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-calvin-frazier",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "rJOQEqKCQQc",
+    "title": "Calvin Frazier -  She's A Double Crossing Woman",
+    "sourceUrl": "https://www.youtube.com/watch?v=rJOQEqKCQQc",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

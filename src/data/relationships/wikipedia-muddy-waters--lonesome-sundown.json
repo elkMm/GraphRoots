@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-muddy-waters--lonesome-sundown",
+  "slug": "wikipedia-muddy-waters--lonesome-sundown",
+  "entityAId": "entity:muddy-waters",
+  "entityBId": "entity:lonesome-sundown",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "The Wikipedia biography for Lonesome Sundown explicitly describes Muddy Waters as a musical influence. The claim awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-lonesome-sundown"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (lonesome-sundown@1319428181:2). Verify the cited page context and an independent source before review."
+}

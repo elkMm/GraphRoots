@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-sonny-rodgers--muddy-waters",
+  "slug": "wikipedia-sonny-rodgers--muddy-waters",
+  "entityAId": "entity:sonny-rodgers",
+  "entityBId": "entity:muddy-waters",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Sonny Rodgers and Muddy Waters in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-sonny-rodgers"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (sonny-rodgers@1358975132:2, sonny-rodgers@1358975132:3). Verify the cited page context and an independent source before review."
+}

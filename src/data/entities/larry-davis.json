@@ -1,0 +1,24 @@
+{
+  "id": "entity:larry-davis",
+  "slug": "larry-davis",
+  "name": "Larry Davis",
+  "entityType": "artist",
+  "summary": "Larry Davis was a blues singer, guitarist and songwriter.",
+  "dateDisplay": "1936 – 1994",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Guitarist", "Songwriter", "Musician"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-larry-davis",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "9d3ofd96HKk",
+    "title": "Texas Flood",
+    "sourceUrl": "https://www.youtube.com/watch?v=9d3ofd96HKk",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

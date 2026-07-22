@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-charlie-musselwhite--sonny-boy-williamson-ii",
+  "slug": "wikipedia-charlie-musselwhite--sonny-boy-williamson-ii",
+  "entityAId": "entity:charlie-musselwhite",
+  "entityBId": "entity:sonny-boy-williamson-ii",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Charlie Musselwhite and Sonny Boy Williamson II in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-charlie-musselwhite"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (charlie-musselwhite@1362862151:5). Verify the cited page context and an independent source before review."
+}

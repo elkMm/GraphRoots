@@ -1,0 +1,2421 @@
+{
+  "metadata": {
+    "corpusVersion": "0.7.1",
+    "generatedAt": "2026-07-22T19:24:54.796Z",
+    "license": {
+      "id": "NOASSERTION",
+      "name": "No public data license has been asserted yet"
+    },
+    "methodologyUrl": "/methodology"
+  },
+  "records": [
+    {
+      "id": "source:albert-collins-blues-foundation",
+      "sourceType": "reputable_reference",
+      "title": "Albert Collins",
+      "publisher": "The Blues Foundation",
+      "url": "https://blues.org/blues_hof_inductee/albert-collins/",
+      "accessDate": "2026-07-22",
+      "note": "Blues Hall of Fame biography of the Texas electric blues guitarist."
+    },
+    {
+      "id": "source:ally-venable-official-bio",
+      "sourceType": "reputable_reference",
+      "title": "About Ally Venable",
+      "publisher": "Ally Venable official website",
+      "url": "https://allyvenableband.com/about",
+      "accessDate": "2026-07-22",
+      "note": "Official biography documenting Venable's Texas blues-rock career, guest recordings with Buddy Guy, Joe Bonamassa and Kingfish, and mentorship by Kenny Wayne Shepherd."
+    },
+    {
+      "id": "source:big-mama-thornton-blues-foundation",
+      "sourceType": "reputable_reference",
+      "title": "Willie Mae ‘Big Mama’ Thornton",
+      "publisher": "The Blues Foundation",
+      "url": "https://blues.org/blues_hof_inductee/willie-mae-big-mama-thornton/",
+      "accessDate": "2026-07-22",
+      "note": "Blues Hall of Fame biography of the singer, songwriter, harmonica player and drummer."
+    },
+    {
+      "id": "source:billy-branch-official-bio",
+      "sourceType": "reputable_reference",
+      "title": "Billy Branch and the Sons of Blues Biography",
+      "publisher": "Billy Branch official website",
+      "url": "https://www.billybranch.com/bio-sons-of-blues.html",
+      "accessDate": "2026-07-22",
+      "note": "Official biography documenting Branch's Chicago harmonica career and Willie Dixon's role in discovering and guiding him."
+    },
+    {
+      "id": "source:blind-willie-johnson-pitt-dissertation",
+      "sourceType": "other",
+      "title": "I Believe I’ll Go Back Home: Blindness in Blues and Gospel Race Records",
+      "publisher": "University of Pittsburgh",
+      "year": 2018,
+      "url": "https://d-scholarship.pitt.edu/35233/7/Bagnato%20dissertation%2020180820.pdf",
+      "accessDate": "2026-07-22",
+      "note": "University dissertation discussing later adaptations of Blind Willie Johnson's repertoire, including Led Zeppelin's recording of Nobody's Fault but Mine."
+    },
+    {
+      "id": "source:blind-willie-johnson-tsha",
+      "sourceType": "reputable_reference",
+      "title": "Johnson, ‘Blind Willie’",
+      "authors": [
+        "Peggy Hardman",
+        "Laurie E. Jasinski"
+      ],
+      "publisher": "Texas State Historical Association",
+      "url": "https://www.tshaonline.org/handbook/entries/johnson-blind-willie",
+      "accessDate": "2026-07-22",
+      "note": "Handbook of Texas biography documenting Johnson's gospel-blues career, slide-guitar technique, Columbia sessions, and recorded repertoire."
+    },
+    {
+      "id": "source:blues-foundation-hall-of-fame",
+      "sourceType": "museum_or_library",
+      "title": "Blues Hall of Fame Museum",
+      "publisher": "The Blues Foundation",
+      "url": "https://www.blues.org/hall-of-fame-museum",
+      "accessDate": "2026-07-22",
+      "note": "Institutional page used only where an imported artist was explicitly named in the page content retrieved during the audit."
+    },
+    {
+      "id": "source:brownie-mcghee-blues-foundation",
+      "sourceType": "reputable_reference",
+      "title": "Brownie McGhee",
+      "publisher": "The Blues Foundation",
+      "url": "https://blues.org/blues_hof_inductee/brownie-mcghee/",
+      "accessDate": "2026-07-22",
+      "note": "Blues Hall of Fame biography of the Piedmont guitarist and longtime Sonny Terry collaborator."
+    },
+    {
+      "id": "source:carnegie-hall-rhythm-blues",
+      "sourceType": "museum_or_library",
+      "title": "History of Rhythm & Blues",
+      "authors": [
+        "Portia K. Maultsby"
+      ],
+      "publisher": "Carnegie Hall",
+      "url": "https://timeline.carnegiehall.org/genres/rhythm-blues",
+      "accessDate": "2026-07-22",
+      "note": "Institutional genre history used only for imported artists explicitly named in the article."
+    },
+    {
+      "id": "source:cedric-burnside-official-bio",
+      "sourceType": "reputable_reference",
+      "title": "About Cedric",
+      "publisher": "Cedric Burnside official website",
+      "url": "https://www.cedricburnside.net/aboutcedric",
+      "accessDate": "2026-07-22",
+      "note": "Official biography documenting Burnside's Hill Country work and his teenage years drumming on the road with his grandfather R.L. Burnside."
+    },
+    {
+      "id": "source:city-clarksdale-kingfish",
+      "sourceType": "reputable_reference",
+      "title": "Christone “Kingfish” Ingram",
+      "publisher": "City of Clarksdale, Mississippi",
+      "url": "https://www.cityofclarksdale.org/artists/ingram/",
+      "accessDate": "2026-07-22",
+      "note": "Municipal artist profile documenting Ingram's Clarksdale background and named influences, including Lightnin' Hopkins, Little Jimmy King, Eric Gales, and the three Kings."
+    },
+    {
+      "id": "source:dk-harrell-alligator",
+      "sourceType": "reputable_reference",
+      "title": "D.K. Harrell",
+      "publisher": "Alligator Records",
+      "url": "https://www.alligator.com/artists/DK-Harrell/",
+      "accessDate": "2026-07-22",
+      "note": "Label biography documenting Harrell's Louisiana background and close study of B.B. King's sound, technique, stagecraft and band leadership."
+    },
+    {
+      "id": "source:encyclopedia-albert-white",
+      "sourceType": "reputable_reference",
+      "title": "Albert White",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Albert_White_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q30122995. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-alberta-hunter",
+      "sourceType": "reputable_reference",
+      "title": "Alberta Hunter",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Alberta_Hunter",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q267951. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-alec-seward",
+      "sourceType": "reputable_reference",
+      "title": "Alec Seward",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Alec_Seward",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q4714253. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-amos-milburn",
+      "sourceType": "reputable_reference",
+      "title": "Amos Milburn",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Amos_Milburn",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q474283. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-aron-burton",
+      "sourceType": "reputable_reference",
+      "title": "Aron Burton",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Aron_Burton",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q4795528. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-arthur-big-boy-spires",
+      "sourceType": "reputable_reference",
+      "title": "Arthur \"Big Boy\" Spires",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Arthur_%22Big_Boy%22_Spires",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q4797738. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-bernice-edwards",
+      "sourceType": "reputable_reference",
+      "title": "Bernice Edwards",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Bernice_Edwards",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q19275120. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-bessie-tucker",
+      "sourceType": "reputable_reference",
+      "title": "Bessie Tucker",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Bessie_Tucker",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q3509314. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-big-boy-henry",
+      "sourceType": "reputable_reference",
+      "title": "Big Boy Henry",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Big_Boy_Henry",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q5480989. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-big-joe-duskin",
+      "sourceType": "reputable_reference",
+      "title": "Big Joe Duskin",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Big_Joe_Duskin",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q858962. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-big-joe-williams",
+      "sourceType": "reputable_reference",
+      "title": "Big Joe Williams",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Big_Joe_Williams",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q519289. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-big-john-wrencher",
+      "sourceType": "reputable_reference",
+      "title": "Big John Wrencher",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Big_John_Wrencher",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q858967. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-big-walter-horton",
+      "sourceType": "reputable_reference",
+      "title": "Big Walter Horton",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Big_Walter_Horton",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q859504. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-blind-john-davis",
+      "sourceType": "reputable_reference",
+      "title": "Blind John Davis",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Blind_John_Davis",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1461153. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-blind-mississippi-morris",
+      "sourceType": "reputable_reference",
+      "title": "Blind Mississippi Morris",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Blind_Mississippi_Morris",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q4926591. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-blind-willie-mctell",
+      "sourceType": "reputable_reference",
+      "title": "Blind Willie McTell",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Blind_Willie_McTell",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q181689. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-bob-gaddy",
+      "sourceType": "reputable_reference",
+      "title": "Bob Gaddy",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Bob_Gaddy",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q4932483. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-bob-kirkpatrick",
+      "sourceType": "reputable_reference",
+      "title": "Bob Kirkpatrick",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Bob_Kirkpatrick_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q16095697. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-bob-margolin",
+      "sourceType": "reputable_reference",
+      "title": "Bob Margolin",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Bob_Margolin",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q888095. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-bobby-bland",
+      "sourceType": "reputable_reference",
+      "title": "Bobby Bland",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Bobby_Bland",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q541634. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-bobby-murray",
+      "sourceType": "reputable_reference",
+      "title": "Bobby Murray",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Bobby_Murray_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q4935407. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-bobo-jenkins",
+      "sourceType": "reputable_reference",
+      "title": "Bobo Jenkins",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Bobo_Jenkins",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q4935856. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-boo-boo-davis",
+      "sourceType": "reputable_reference",
+      "title": "Boo Boo Davis",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Boo_Boo_Davis",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q4942730. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-boogie-woogie-red",
+      "sourceType": "reputable_reference",
+      "title": "Boogie Woogie Red",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Boogie_Woogie_Red",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q4942883. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-boyd-gilmore",
+      "sourceType": "reputable_reference",
+      "title": "Boyd Gilmore",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Boyd_Gilmore",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q27881257. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-bukka-white",
+      "sourceType": "reputable_reference",
+      "title": "Bukka White",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Bukka_White",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q918497. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-bumble-bee-slim",
+      "sourceType": "reputable_reference",
+      "title": "Bumble Bee Slim",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Bumble_Bee_Slim",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q707979. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-buster-benton",
+      "sourceType": "reputable_reference",
+      "title": "Buster Benton",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Buster_Benton",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q5002129. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-buster-pickens",
+      "sourceType": "reputable_reference",
+      "title": "Buster Pickens",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Buster_Pickens",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1017765. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-calvin-frazier",
+      "sourceType": "reputable_reference",
+      "title": "Calvin Frazier",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Calvin_Frazier",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q5024390. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-calvin-leavy",
+      "sourceType": "reputable_reference",
+      "title": "Calvin Leavy",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Calvin_Leavy",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q16018825. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-carl-weathersby",
+      "sourceType": "reputable_reference",
+      "title": "Carl Weathersby",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Carl_Weathersby",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q5040939. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-champion-jack-dupree",
+      "sourceType": "reputable_reference",
+      "title": "Champion Jack Dupree",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Champion_Jack_Dupree",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q161805. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-charles-brown",
+      "sourceType": "reputable_reference",
+      "title": "Charles Brown",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Charles_Brown_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q706371. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-charles-caldwell",
+      "sourceType": "reputable_reference",
+      "title": "Charles Caldwell",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Charles_Caldwell_(bluesman)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q5076042. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-charley-lincoln",
+      "sourceType": "reputable_reference",
+      "title": "Charley Lincoln",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Charley_Lincoln",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1631926. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-charlie-musselwhite",
+      "sourceType": "reputable_reference",
+      "title": "Charlie Musselwhite",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Charlie_Musselwhite",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1066965. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-charlie-specks-mcfadden",
+      "sourceType": "reputable_reference",
+      "title": "Charlie \"Specks\" McFadden",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Charlie_%22Specks%22_McFadden",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q19277273. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-chris-thomas-king",
+      "sourceType": "reputable_reference",
+      "title": "Chris Thomas King",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Chris_Thomas_King",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q4382250. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-clara-smith",
+      "sourceType": "reputable_reference",
+      "title": "Clara Smith",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Clara_Smith",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q449277. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-cub-koda",
+      "sourceType": "reputable_reference",
+      "title": "Cub Koda",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Cub_Koda",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q5191919. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-cyril-davies",
+      "sourceType": "reputable_reference",
+      "title": "Cyril Davies",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Cyril_Davies",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q563395. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-dave-peabody",
+      "sourceType": "reputable_reference",
+      "title": "Dave Peabody",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Dave_Peabody",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q15438797. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-debbie-davies",
+      "sourceType": "reputable_reference",
+      "title": "Debbie Davies",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Debbie_Davies",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q433849. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-denny-freeman",
+      "sourceType": "reputable_reference",
+      "title": "Denny Freeman",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Denny_Freeman",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q5259181. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-dexter-allen",
+      "sourceType": "reputable_reference",
+      "title": "Dexter Allen",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Dexter_Allen",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q18719270. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-doctor-clayton",
+      "sourceType": "reputable_reference",
+      "title": "Doctor Clayton",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Doctor_Clayton",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q327836. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-doug-quattlebaum",
+      "sourceType": "reputable_reference",
+      "title": "Doug Quattlebaum",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Doug_Quattlebaum",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q28531018. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-duke-henderson",
+      "sourceType": "reputable_reference",
+      "title": "Duke Henderson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Duke_Henderson",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q3041084. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-earl-king",
+      "sourceType": "reputable_reference",
+      "title": "Earl King",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Earl_King",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q931607. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-earring-george-mayweather",
+      "sourceType": "reputable_reference",
+      "title": "Earring George Mayweather",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Earring_George_Mayweather",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q27178562. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-eddie-boyd",
+      "sourceType": "reputable_reference",
+      "title": "Eddie Boyd",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Eddie_Boyd",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q239357. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-eddie-guitar-burns",
+      "sourceType": "reputable_reference",
+      "title": "Eddie \"Guitar\" Burns",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Eddie_%22Guitar%22_Burns",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1155043. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-eddie-mapp",
+      "sourceType": "reputable_reference",
+      "title": "Eddie Mapp",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Eddie_Mapp",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1282886. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-eddie-taylor",
+      "sourceType": "reputable_reference",
+      "title": "Eddie Taylor",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Eddie_Taylor",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q322383. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-edmonia-henderson",
+      "sourceType": "reputable_reference",
+      "title": "Edmonia Henderson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Edmonia_Henderson",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2691075. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-edna-hicks",
+      "sourceType": "reputable_reference",
+      "title": "Edna Hicks",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Edna_Hicks",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2165172. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-etta-baker",
+      "sourceType": "reputable_reference",
+      "title": "Etta Baker",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Etta_Baker",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q292389. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-fenton-robinson",
+      "sourceType": "reputable_reference",
+      "title": "Fenton Robinson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Fenton_Robinson",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q3068425. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-floyd-dixon",
+      "sourceType": "reputable_reference",
+      "title": "Floyd Dixon",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Floyd_Dixon",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q733611. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-floyd-jones",
+      "sourceType": "reputable_reference",
+      "title": "Floyd Jones",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Floyd_Jones",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q5462460. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-fred-mcdowell",
+      "sourceType": "reputable_reference",
+      "title": "Fred McDowell",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Mississippi_Fred_McDowell",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q964219. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-fruteland-jackson",
+      "sourceType": "reputable_reference",
+      "title": "Fruteland Jackson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Fruteland_Jackson",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q5506531. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-gary-primich",
+      "sourceType": "reputable_reference",
+      "title": "Gary Primich",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Gary_Primich",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q568890. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-george-higgs",
+      "sourceType": "reputable_reference",
+      "title": "George Higgs",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/George_Higgs",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q33082818. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-george-smith",
+      "sourceType": "reputable_reference",
+      "title": "George Smith",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/George_%22Harmonica%22_Smith",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q458486. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-gladys-bentley",
+      "sourceType": "reputable_reference",
+      "title": "Gladys Bentley",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Gladys_Bentley",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q432715. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-good-rockin-charles",
+      "sourceType": "reputable_reference",
+      "title": "Good Rockin' Charles",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Good_Rockin%27_Charles",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q5582902. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-grady-gaines",
+      "sourceType": "reputable_reference",
+      "title": "Grady Gaines",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Grady_Gaines",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q5592120. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-guitar-pete-franklin",
+      "sourceType": "reputable_reference",
+      "title": "Guitar Pete Franklin",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Guitar_Pete_Franklin",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q18151189. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-guitar-slim-jr",
+      "sourceType": "reputable_reference",
+      "title": "Guitar Slim, Jr.",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Guitar_Slim_Jr.",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q5616795. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-guy-davis",
+      "sourceType": "reputable_reference",
+      "title": "Guy Davis",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Guy_Davis_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1557465. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-henry-gray",
+      "sourceType": "reputable_reference",
+      "title": "Henry Gray",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Henry_Gray_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1606801. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-henry-townsend",
+      "sourceType": "reputable_reference",
+      "title": "Henry Townsend",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Henry_Townsend_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1607315. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-hip-linkchain",
+      "sourceType": "reputable_reference",
+      "title": "Hip Linkchain",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Hip_Linkchain",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q12168149. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-ida-cox",
+      "sourceType": "reputable_reference",
+      "title": "Ida Cox",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Ida_Cox",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q508100. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-ike-turner",
+      "sourceType": "reputable_reference",
+      "title": "Ike Turner",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Ike_Turner",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q208871. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-isaac-scott",
+      "sourceType": "reputable_reference",
+      "title": "Isaac Scott",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Isaac_Scott_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q27950859. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-j-b-lenoir",
+      "sourceType": "reputable_reference",
+      "title": "J. B. Lenoir",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/J._B._Lenoir",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1348114. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-j-j-malone",
+      "sourceType": "reputable_reference",
+      "title": "J.J. Malone",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/J.J._Malone",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q3181818. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-jack-owens",
+      "sourceType": "reputable_reference",
+      "title": "Jack Owens (blues singer)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jack_Owens_(blues_singer)",
+      "accessDate": "2026-07-22",
+      "locator": "Revision 1320384466",
+      "note": "Used for the provisional identity, chronology, roles, instruments, styles, and regional profile of this artist. Relationship claims require separate citation records and editorial review."
+    },
+    {
+      "id": "source:encyclopedia-james-armstrong",
+      "sourceType": "reputable_reference",
+      "title": "James Armstrong",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/James_Armstrong_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6128841. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-james-thunderbird-davis",
+      "sourceType": "reputable_reference",
+      "title": "James \"Thunderbird\" Davis",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/James_%22Thunderbird%22_Davis",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q27901801. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-jim-jackson",
+      "sourceType": "reputable_reference",
+      "title": "Jim Jackson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Jim_Jackson_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1689122. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-jimmy-rushing",
+      "sourceType": "reputable_reference",
+      "title": "Jimmy Rushing",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Rushing",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1689431. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-jimmy-witherspoon",
+      "sourceType": "reputable_reference",
+      "title": "Jimmy Witherspoon",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Witherspoon",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1689472. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-jo-ann-kelly",
+      "sourceType": "reputable_reference",
+      "title": "Jo Ann Kelly",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Jo_Ann_Kelly",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q532320. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-jody-williams",
+      "sourceType": "reputable_reference",
+      "title": "Jody Williams",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Jody_Williams_(blues_musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q3179955. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-joe-louis-walker",
+      "sourceType": "reputable_reference",
+      "title": "Joe Louis Walker",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Joe_Louis_Walker",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q596746. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-joe-pullum",
+      "sourceType": "reputable_reference",
+      "title": "Joe Pullum",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Joe_Pullum",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6211898. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-joe-willie-wilkins",
+      "sourceType": "reputable_reference",
+      "title": "Joe Willie Wilkins",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Joe_Willie_Wilkins",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6213014. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-john-jackson",
+      "sourceType": "reputable_reference",
+      "title": "John Jackson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/John_Jackson_(blues_musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q3181815. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-john-littlejohn",
+      "sourceType": "reputable_reference",
+      "title": "John Littlejohn",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/John_Littlejohn",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6244983. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-john-p-hammond",
+      "sourceType": "reputable_reference",
+      "title": "John P. Hammond",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/John_P._Hammond",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1368185. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-johnnie-bassett",
+      "sourceType": "reputable_reference",
+      "title": "Johnnie Bassett",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Johnnie_Bassett",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1341497. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-johnny-fuller",
+      "sourceType": "reputable_reference",
+      "title": "Johnny Fuller",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Johnny_Fuller_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6266709. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-johnny-mars",
+      "sourceType": "reputable_reference",
+      "title": "Johnny Mars",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Johnny_Mars",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1236451. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-johnny-otis",
+      "sourceType": "reputable_reference",
+      "title": "Johnny Otis",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Johnny_Otis",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q726315. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-johnny-williams-blues",
+      "sourceType": "reputable_reference",
+      "title": "Johnny Williams (blues musician)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Johnny_Williams_(blues_musician)",
+      "accessDate": "2026-07-22",
+      "locator": "Revision 1320406839",
+      "note": "Used for the provisional identity, chronology, roles, instruments, styles, and regional profile of this artist. Relationship claims require separate citation records and editorial review."
+    },
+    {
+      "id": "source:encyclopedia-josh-white",
+      "sourceType": "reputable_reference",
+      "title": "Josh White",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Josh_White",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q956275. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-junior-kimbrough",
+      "sourceType": "reputable_reference",
+      "title": "Junior Kimbrough",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Junior_Kimbrough",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1713550. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-junior-parker",
+      "sourceType": "reputable_reference",
+      "title": "Junior Parker",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Junior_Parker",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1398507. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-kansas-city-red",
+      "sourceType": "reputable_reference",
+      "title": "Kansas City Red",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Kansas_City_Red",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q18153813. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-karen-carroll",
+      "sourceType": "reputable_reference",
+      "title": "Karen Carroll",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Karen_Carroll",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6369552. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-katherine-henderson",
+      "sourceType": "reputable_reference",
+      "title": "Katherine Henderson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Katherine_Henderson_(singer)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q18151588. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-kelly-joe-phelps",
+      "sourceType": "reputable_reference",
+      "title": "Kelly Joe Phelps",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Kelly_Joe_Phelps",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q4379541. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-kenny-neal",
+      "sourceType": "reputable_reference",
+      "title": "Kenny Neal",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Kenny_Neal",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1738982. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-kip-anderson",
+      "sourceType": "reputable_reference",
+      "title": "Kip Anderson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Kip_Anderson",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6414561. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-kirk-fletcher",
+      "sourceType": "reputable_reference",
+      "title": "Kirk Fletcher",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Kirk_Fletcher",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q17058495. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-kokomo-arnold",
+      "sourceType": "reputable_reference",
+      "title": "Kokomo Arnold",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Kokomo_Arnold",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1349827. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-l-v-johnson",
+      "sourceType": "reputable_reference",
+      "title": "L.V. Johnson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/L.V._Johnson",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6456323. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-laith-al-saadi",
+      "sourceType": "reputable_reference",
+      "title": "Laith Al-Saadi",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Laith_Al-Saadi",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q136328246. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-larry-davis",
+      "sourceType": "reputable_reference",
+      "title": "Larry Davis",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Larry_Davis_(blues_musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q672541. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-lavelle-white",
+      "sourceType": "reputable_reference",
+      "title": "Lavelle White",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Lavelle_White",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6502488. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-lazy-lester",
+      "sourceType": "reputable_reference",
+      "title": "Lazy Lester",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Lazy_Lester",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1809563. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-lefty-dizz",
+      "sourceType": "reputable_reference",
+      "title": "Lefty Dizz",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Lefty_Dizz",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1425596. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-lil-dave-thompson",
+      "sourceType": "reputable_reference",
+      "title": "Lil' Dave Thompson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Lil%27_Dave_Thompson",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q17466756. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-lil-green",
+      "sourceType": "reputable_reference",
+      "title": "Lil Green",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Lil_Green",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q273172. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-little-brother-montgomery",
+      "sourceType": "reputable_reference",
+      "title": "Little Brother Montgomery",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Little_Brother_Montgomery",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q715915. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-little-buddy-doyle",
+      "sourceType": "reputable_reference",
+      "title": "Little Buddy Doyle",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Little_Buddy_Doyle",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6649358. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-little-freddie-king",
+      "sourceType": "reputable_reference",
+      "title": "Little Freddie King",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Little_Freddie_King",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6650099. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-little-hat-jones",
+      "sourceType": "reputable_reference",
+      "title": "Little Hat Jones",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Little_Hat_Jones",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q210042. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-little-sonny-jones",
+      "sourceType": "reputable_reference",
+      "title": "Little Sonny Jones",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Little_Sonny_Jones",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6652000. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-lonesome-sundown",
+      "sourceType": "reputable_reference",
+      "title": "Lonesome Sundown",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Lonesome_Sundown",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2011936. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-lonnie-brooks",
+      "sourceType": "reputable_reference",
+      "title": "Lonnie Brooks",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Lonnie_Brooks",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1869627. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-lonnie-pitchford",
+      "sourceType": "reputable_reference",
+      "title": "Lonnie Pitchford",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Lonnie_Pitchford",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6674751. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-lonnie-shields",
+      "sourceType": "reputable_reference",
+      "title": "Lonnie Shields",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Lonnie_Shields",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q15832692. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-lou-ann-barton",
+      "sourceType": "reputable_reference",
+      "title": "Lou Ann Barton",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Lou_Ann_Barton",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q546349. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-louis-jordan",
+      "sourceType": "reputable_reference",
+      "title": "Louis Jordan",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Louis_Jordan",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q461011. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-louisiana-red",
+      "sourceType": "reputable_reference",
+      "title": "Louisiana Red",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Louisiana_Red",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q263518. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-lucille-bogan",
+      "sourceType": "reputable_reference",
+      "title": "Lucille Bogan",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Lucille_Bogan",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q526532. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-luke-long-gone-miles",
+      "sourceType": "reputable_reference",
+      "title": "Luke \"Long Gone\" Miles",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Luke_%22Long_Gone%22_Miles",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6701763. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-luther-allison",
+      "sourceType": "reputable_reference",
+      "title": "Luther Allison",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Luther_Allison",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q775131. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-luther-johnson",
+      "sourceType": "reputable_reference",
+      "title": "Luther Johnson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Luther_%22Guitar_Junior%22_Johnson",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1877839. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-luther-tucker",
+      "sourceType": "reputable_reference",
+      "title": "Luther Tucker",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Luther_Tucker",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1877851. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-magic-sam",
+      "sourceType": "reputable_reference",
+      "title": "Magic Sam",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Magic_Sam",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q549960. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-magic-slim",
+      "sourceType": "reputable_reference",
+      "title": "Magic Slim",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Magic_Slim",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1884094. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-mamie-smith",
+      "sourceType": "reputable_reference",
+      "title": "Mamie Smith",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Mamie_Smith",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q274181. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-mance-lipscomb",
+      "sourceType": "reputable_reference",
+      "title": "Mance Lipscomb",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Mance_Lipscomb",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q715345. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-mary-johnson",
+      "sourceType": "reputable_reference",
+      "title": "Mary Johnson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Mary_Johnson_(singer)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6779949. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-matt-murphy",
+      "sourceType": "reputable_reference",
+      "title": "Matt Murphy",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Matt_%22Guitar%22_Murphy",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q137546. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-melvin-taylor",
+      "sourceType": "reputable_reference",
+      "title": "Melvin Taylor",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Melvin_Taylor",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q743232. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-michael-erlewine",
+      "sourceType": "reputable_reference",
+      "title": "Michael Erlewine",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Michael_Erlewine",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q4532507. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-mighty-mo-rodgers",
+      "sourceType": "reputable_reference",
+      "title": "Mighty Mo Rodgers",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Mighty_Mo_Rodgers",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q3312853. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-mike-wheeler",
+      "sourceType": "reputable_reference",
+      "title": "Mike Wheeler",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Mike_Wheeler_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q20687571. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-moody-jones",
+      "sourceType": "reputable_reference",
+      "title": "Moody Jones",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Moody_Jones",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6907224. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-mose-vinson",
+      "sourceType": "reputable_reference",
+      "title": "Mose Vinson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Mose_Vinson",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6915582. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-odessa-harris",
+      "sourceType": "reputable_reference",
+      "title": "Odessa Harris",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Odessa_Harris",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q27673113. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-ora-alexander",
+      "sourceType": "reputable_reference",
+      "title": "Ora Alexander",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Ora_Alexander",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q7099192. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-otis-big-smokey-smothers",
+      "sourceType": "reputable_reference",
+      "title": "Otis \"Big Smokey\" Smothers",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Otis_%22Big_Smokey%22_Smothers",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2295455. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-otis-grand",
+      "sourceType": "reputable_reference",
+      "title": "Otis Grand",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Otis_Grand",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q7108788. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-otis-spann",
+      "sourceType": "reputable_reference",
+      "title": "Otis Spann",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Otis_Spann",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1349079. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-papa-charlie-mccoy",
+      "sourceType": "reputable_reference",
+      "title": "Papa Charlie McCoy",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Papa_Charlie_McCoy",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2050481. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-paul-butterfield",
+      "sourceType": "reputable_reference",
+      "title": "Paul Butterfield",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Paul_Butterfield",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q918576. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-pee-wee-crayton",
+      "sourceType": "reputable_reference",
+      "title": "Pee Wee Crayton",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Pee_Wee_Crayton",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q328662. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-peetie-wheatstraw",
+      "sourceType": "reputable_reference",
+      "title": "Peetie Wheatstraw",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Peetie_Wheatstraw",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q322850. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-peg-leg-howell",
+      "sourceType": "reputable_reference",
+      "title": "Peg Leg Howell",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Peg_Leg_Howell",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q329138. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-percy-mayfield",
+      "sourceType": "reputable_reference",
+      "title": "Percy Mayfield",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Percy_Mayfield",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q322600. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-pete-mayes",
+      "sourceType": "reputable_reference",
+      "title": "Pete Mayes",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Pete_Mayes",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q7172129. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-peter-green",
+      "sourceType": "reputable_reference",
+      "title": "Peter Green",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Peter_Green_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q315408. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-phil-guy",
+      "sourceType": "reputable_reference",
+      "title": "Phil Guy",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Phil_Guy",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q7181945. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-piano-red",
+      "sourceType": "reputable_reference",
+      "title": "Piano Red",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Piano_Red",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2091894. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-pink-anderson",
+      "sourceType": "reputable_reference",
+      "title": "Pink Anderson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Pink_Anderson",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q383926. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-red-nelson",
+      "sourceType": "reputable_reference",
+      "title": "Red Nelson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Red_Nelson_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q27922777. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-reverend-gary-davis",
+      "sourceType": "reputable_reference",
+      "title": "Reverend Gary Davis",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Reverend_Gary_Davis",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q159098. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-richard-hacksaw-harney",
+      "sourceType": "reputable_reference",
+      "title": "Richard \"Hacksaw\" Harney",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Richard_%22Hacksaw%22_Harney",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q19299145. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-rick-franklin",
+      "sourceType": "reputable_reference",
+      "title": "Rick Franklin",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Rick_Franklin",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q30041260. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-robert-curtis-smith",
+      "sourceType": "reputable_reference",
+      "title": "Robert Curtis Smith",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Robert_Curtis_Smith",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q18058280. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-robert-shaw",
+      "sourceType": "reputable_reference",
+      "title": "Robert Shaw",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Robert_Shaw_(blues_musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q7349732. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-rod-piazza",
+      "sourceType": "reputable_reference",
+      "title": "Rod Piazza",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Rod_Piazza",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q458454. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-ronnie-baker-brooks",
+      "sourceType": "reputable_reference",
+      "title": "Ronnie Baker Brooks",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Ronnie_Baker_Brooks",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q7365793. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-roosevelt-sykes",
+      "sourceType": "reputable_reference",
+      "title": "Roosevelt Sykes",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Roosevelt_Sykes",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q322236. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-rory-block",
+      "sourceType": "reputable_reference",
+      "title": "Rory Block",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rory_Block",
+      "accessDate": "2026-07-22",
+      "locator": "Revision 1320464399",
+      "note": "Used for the provisional identity, chronology, roles, instruments, styles, and regional profile of this artist. Relationship claims require separate citation records and editorial review."
+    },
+    {
+      "id": "source:encyclopedia-rory-gallagher",
+      "sourceType": "reputable_reference",
+      "title": "Rory Gallagher",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Rory_Gallagher",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q331922. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-roscoe-shelton",
+      "sourceType": "reputable_reference",
+      "title": "Roscoe Shelton",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Roscoe_Shelton",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q7367531. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-roy-milton",
+      "sourceType": "reputable_reference",
+      "title": "Roy Milton",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Roy_Milton",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q327047. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-ry-cooder",
+      "sourceType": "reputable_reference",
+      "title": "Ry Cooder",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ry_Cooder",
+      "accessDate": "2026-07-22",
+      "locator": "Revision 1356634212",
+      "note": "Used for the provisional identity, chronology, roles, instruments, styles, and regional profile of this artist. Relationship claims require separate citation records and editorial review."
+    },
+    {
+      "id": "source:encyclopedia-sam-myers",
+      "sourceType": "reputable_reference",
+      "title": "Sam Myers",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Sam_Myers",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q725900. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-sammy-lawhorn",
+      "sourceType": "reputable_reference",
+      "title": "Sammy Lawhorn",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Sammy_Lawhorn",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2216522. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-sara-martin",
+      "sourceType": "reputable_reference",
+      "title": "Sara Martin",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Sara_Martin",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q530846. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-scrapper-blackwell",
+      "sourceType": "reputable_reference",
+      "title": "Scrapper Blackwell",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Scrapper_Blackwell",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2164449. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-shakey-jake-harris",
+      "sourceType": "reputable_reference",
+      "title": "Shakey Jake Harris",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Shakey_Jake_Harris",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1548199. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-sherman-robertson",
+      "sourceType": "reputable_reference",
+      "title": "Sherman Robertson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Sherman_Robertson",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q3481963. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-shirley-griffith",
+      "sourceType": "reputable_reference",
+      "title": "Shirley Griffith",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Shirley_Griffith",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q7498760. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-sista-monica-parker",
+      "sourceType": "reputable_reference",
+      "title": "Sista Monica Parker",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Sista_Monica_Parker",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q21997839. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-smokey-hogg",
+      "sourceType": "reputable_reference",
+      "title": "Smokey Hogg",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Smokey_Hogg",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q729697. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-smoky-babe",
+      "sourceType": "reputable_reference",
+      "title": "Smoky Babe",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Smoky_Babe",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q7546132. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-snooks-eaglin",
+      "sourceType": "reputable_reference",
+      "title": "Snooks Eaglin",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Snooks_Eaglin",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2468145. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-son-seals",
+      "sourceType": "reputable_reference",
+      "title": "Son Seals",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Son_Seals",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1514682. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-sonny-rhodes",
+      "sourceType": "reputable_reference",
+      "title": "Sonny Rhodes",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Sonny_Rhodes",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2302312. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-sonny-rodgers",
+      "sourceType": "reputable_reference",
+      "title": "Sonny Rodgers",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Sonny_Rodgers",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q30063031. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-speckled-red",
+      "sourceType": "reputable_reference",
+      "title": "Speckled Red",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Speckled_Red",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1364266. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-st-louis-jimmy-oden",
+      "sourceType": "reputable_reference",
+      "title": "St. Louis Jimmy Oden",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/St._Louis_Jimmy_Oden",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2320344. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-susan-tedeschi",
+      "sourceType": "reputable_reference",
+      "title": "Susan Tedeschi",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Susan_Tedeschi",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q275625. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-sylvester-weaver",
+      "sourceType": "reputable_reference",
+      "title": "Sylvester Weaver",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Sylvester_Weaver_(musician)",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2374143. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-tab-benoit",
+      "sourceType": "reputable_reference",
+      "title": "Tab Benoit",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Tab_Benoit",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2386198. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-tail-dragger-jones",
+      "sourceType": "reputable_reference",
+      "title": "Tail Dragger Jones",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Tail_Dragger_Jones",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2388588. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-tampa-red",
+      "sourceType": "reputable_reference",
+      "title": "Tampa Red",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Tampa_Red",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1345751. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-ted-hawkins",
+      "sourceType": "reputable_reference",
+      "title": "Ted Hawkins",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Ted_Hawkins",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2399786. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-teddy-darby",
+      "sourceType": "reputable_reference",
+      "title": "Teddy Darby",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Teddy_Darby",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q884172. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-teeny-tucker",
+      "sourceType": "reputable_reference",
+      "title": "Teeny Tucker",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Teeny_Tucker",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q22338536. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-terry-garland",
+      "sourceType": "reputable_reference",
+      "title": "Terry Garland",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Terry_Garland",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q7704427. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-terry-harmonica-bean",
+      "sourceType": "reputable_reference",
+      "title": "Terry \"Harmonica\" Bean",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Terry_%22Harmonica%22_Bean",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q18763860. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-thornetta-davis",
+      "sourceType": "reputable_reference",
+      "title": "Thornetta Davis",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Thornetta_Davis",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q7796395. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-tinsley-ellis",
+      "sourceType": "reputable_reference",
+      "title": "Tinsley Ellis",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Tinsley_Ellis",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q3529208. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-titus-turner",
+      "sourceType": "reputable_reference",
+      "title": "Titus Turner",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Titus_Turner",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q7810338. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-travis-leonard-blaylock",
+      "sourceType": "reputable_reference",
+      "title": "Travis Leonard Blaylock",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Harmonica_Slim",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q28445566. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-u-p-wilson",
+      "sourceType": "reputable_reference",
+      "title": "U.P. Wilson",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/U.P._Wilson",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q7862984. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-walter-roland",
+      "sourceType": "reputable_reference",
+      "title": "Walter Roland",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Walter_Roland",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q6077188. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-willie-big-eyes-smith",
+      "sourceType": "reputable_reference",
+      "title": "Willie \"Big Eyes\" Smith",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Willie_%22Big_Eyes%22_Smith",
+      "accessDate": "2026-07-22",
+      "locator": "Revision 1335961739",
+      "note": "Used for the provisional identity, chronology, roles, instruments, styles, and regional profile of this artist. Relationship claims require separate citation records and editorial review."
+    },
+    {
+      "id": "source:encyclopedia-willie-cobbs",
+      "sourceType": "reputable_reference",
+      "title": "Willie Cobbs",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Willie_Cobbs",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q594425. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-woodrow-adams",
+      "sourceType": "reputable_reference",
+      "title": "Woodrow Adams",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Woodrow_Adams",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q20966656. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-wynonie-harris",
+      "sourceType": "reputable_reference",
+      "title": "Wynonie Harris",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Wynonie_Harris",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q326649. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-z-z-hill",
+      "sourceType": "reputable_reference",
+      "title": "Z. Z. Hill",
+      "publisher": "Wikipedia and Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Z._Z._Hill",
+      "accessDate": "2026-07-22",
+      "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q135815. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:eric-clapton-official-about",
+      "sourceType": "reputable_reference",
+      "title": "About Eric Clapton",
+      "publisher": "Eric Clapton official website",
+      "url": "https://ericclapton.com/pages/about",
+      "accessDate": "2026-07-21",
+      "note": "The official biography dates Clapton's Yardbirds membership from October 1963 for an 18-month tenure."
+    },
+    {
+      "id": "source:eric-gales-ljk-interview-2026",
+      "sourceType": "interview",
+      "title": "How Eric Gales enlisted Buddy Guy, Kingfish and Joe Bonamassa to pay tribute to his brother",
+      "publisher": "Guitar World",
+      "year": 2026,
+      "url": "https://www.guitarworld.com/artists/guitarists/eric-gales-a-tribute-to-ljk-interview",
+      "accessDate": "2026-07-22",
+      "note": "Direct interview documenting Little Jimmy King's formative instruction of his younger brother Eric Gales."
+    },
+    {
+      "id": "source:eric-gales-mascot-bio",
+      "sourceType": "reputable_reference",
+      "title": "Eric Gales Biography",
+      "publisher": "Mascot Label Group",
+      "url": "https://www.mascotlabelgroup.com/pages/eric-gales-biography",
+      "accessDate": "2026-07-22",
+      "note": "Label biography covering Gales's Memphis upbringing, upside-down guitar technique, and relationship to his older brother Little Jimmy King."
+    },
+    {
+      "id": "source:fred-mcdowell-ms-blues-trail",
+      "sourceType": "museum_or_library",
+      "title": "Fred McDowell",
+      "publisher": "Mississippi Blues Trail",
+      "url": "https://msbluestrail.org/blues-trail-markers/fred-mcdowell",
+      "accessDate": "2026-07-22",
+      "note": "State heritage marker documenting McDowell's life, slide-guitar style, and formative importance to R.L. Burnside."
+    },
+    {
+      "id": "source:gare-du-nord-official-about",
+      "sourceType": "reputable_reference",
+      "title": "About Gare du Nord",
+      "publisher": "Gare du Nord official website",
+      "url": "https://garedunord.eu/index.php/about/",
+      "accessDate": "2026-07-22",
+      "note": "Official history describing the group's 2001 launch, its jazz-and-blues concept, and Pablo's Blues as a track built around Robert Johnson's Come On in My Kitchen."
+    },
+    {
+      "id": "source:james-cotton-blues-foundation",
+      "sourceType": "reputable_reference",
+      "title": "James Cotton",
+      "publisher": "The Blues Foundation",
+      "url": "https://blues.org/blues_hof_inductee/james-cotton/",
+      "accessDate": "2026-07-22",
+      "note": "Blues Hall of Fame biography documenting Cotton's training with Sonny Boy Williamson II, recording with Howlin’ Wolf, and twelve years in Muddy Waters's band."
+    },
+    {
+      "id": "source:jesse-dayton-official-bio",
+      "sourceType": "reputable_reference",
+      "title": "About Jesse Dayton",
+      "publisher": "Jesse Dayton official website",
+      "url": "https://jessedayton.com/about/",
+      "accessDate": "2026-07-22",
+      "note": "Official biography covering Dayton's Texas roots career and his Death Wish Blues collaboration with Samantha Fish."
+    },
+    {
+      "id": "source:joe-bonamassa-bb-king-interview",
+      "sourceType": "interview",
+      "title": "Joe Bonamassa on the B.B. King Blues Summit 100",
+      "publisher": "MusicRadar",
+      "year": 2026,
+      "url": "https://www.musicradar.com/artists/joe-bonamassa-bb-king-blues-summit-100",
+      "accessDate": "2026-07-22",
+      "note": "Direct interview in which Bonamassa identifies B.B. King as a mentor and describes their long relationship."
+    },
+    {
+      "id": "source:joe-bonamassa-official-bio",
+      "sourceType": "reputable_reference",
+      "title": "Biography",
+      "publisher": "Joe Bonamassa official website",
+      "url": "https://www.joe-bonamassa.com/bio",
+      "accessDate": "2026-07-22",
+      "note": "Official biography documenting Bonamassa's career and his opening performance for B.B. King at age twelve."
+    },
+    {
+      "id": "source:john-hammond-blues-foundation",
+      "sourceType": "reputable_reference",
+      "title": "John Hammond",
+      "publisher": "The Blues Foundation",
+      "url": "https://blues.org/blues_hof_inductee/john-hammond/",
+      "accessDate": "2026-07-22",
+      "note": "Blues Hall of Fame biography documenting Hammond's acoustic blues career and early inspiration from Jimmy Reed."
+    },
+    {
+      "id": "source:john-hammond-official",
+      "sourceType": "reputable_reference",
+      "title": "John Hammond (1942–2026)",
+      "publisher": "John Hammond official website",
+      "url": "https://johnhammond.com/",
+      "accessDate": "2026-07-22",
+      "note": "Official site memorial describing Hammond's six-decade career in acoustic blues."
+    },
+    {
+      "id": "source:john-mayer-berklee-profile",
+      "sourceType": "reputable_reference",
+      "title": "John Mayer",
+      "publisher": "Berklee College of Music",
+      "url": "https://college.berklee.edu/alumni/people/john-mayer",
+      "accessDate": "2026-07-22",
+      "note": "Institutional profile documenting Mayer's 1977 birth, work as a singer-songwriter and guitarist, blues study, and formative encounter with Stevie Ray Vaughan's music."
+    },
+    {
+      "id": "source:johnny-copeland-alligator",
+      "sourceType": "reputable_reference",
+      "title": "Johnny Copeland",
+      "publisher": "Alligator Records",
+      "url": "https://www.alligator.com/artists/Johnny-Copeland/",
+      "accessDate": "2026-07-22",
+      "note": "Label biography of the Texas blues singer-guitarist, including Shemekia Copeland's teenage appearances on his tours."
+    },
+    {
+      "id": "source:jontavious-willis-interview",
+      "sourceType": "interview",
+      "title": "Jontavious Willis Interview",
+      "publisher": "Illinois Blues Coalition",
+      "url": "https://www.ilblues.org/jontavious-willis-interview/",
+      "accessDate": "2026-07-22",
+      "note": "Direct interview in which Willis describes Taj Mahal becoming a mentor and introducing him to Keb’ Mo’."
+    },
+    {
+      "id": "source:jontavious-willis-music-maker",
+      "sourceType": "reputable_reference",
+      "title": "The Torch Burns Bright: A Visit with Jontavious Willis",
+      "publisher": "Music Maker Foundation",
+      "url": "https://archive.musicmaker.org/the-torch-burns-bright-a-visit-with-24-year-old-jontavious-willis/",
+      "accessDate": "2026-07-22",
+      "note": "Nonprofit profile describing Taj Mahal taking Willis under his wing and Keb’ Mo’ serving as another major mentor."
+    },
+    {
+      "id": "source:jontavious-willis-official-epk",
+      "sourceType": "reputable_reference",
+      "title": "Electronic Press Kit",
+      "publisher": "Jontavious Willis official website",
+      "url": "https://jontaviouswillis.com/epk/",
+      "accessDate": "2026-07-22",
+      "note": "Official artist profile describing Willis's Georgia background, acoustic blues repertoire, and work with Taj Mahal and Keb’ Mo’."
+    },
+    {
+      "id": "source:keb-mo-grammy-interview",
+      "sourceType": "interview",
+      "title": "Keb’ Mo’ reflects on his journey and Grammy nomination",
+      "publisher": "Recording Academy",
+      "year": 2018,
+      "url": "https://www.grammy.com/news/feature-keb-mo-reflects-journey-his-2018-grammy-nomination/",
+      "accessDate": "2026-07-22",
+      "note": "Direct interview in which Keb’ Mo’ identifies Taj Mahal as his most important mentor."
+    },
+    {
+      "id": "source:kenny-wayne-shepherd-official-bio",
+      "sourceType": "reputable_reference",
+      "title": "Kenny Wayne Shepherd Band Bios",
+      "publisher": "Kenny Wayne Shepherd official website",
+      "url": "https://www.kennywayneshepherd.net/band",
+      "accessDate": "2026-07-22",
+      "note": "Official biography documenting Shepherd's 1977 North Louisiana birth and modern blues career."
+    },
+    {
+      "id": "source:kingfish-grammy-interview",
+      "sourceType": "interview",
+      "title": "Fresh off his Grammy win for 662, young bluesman Christone ‘Kingfish’ Ingram is just getting started",
+      "publisher": "Recording Academy",
+      "year": 2022,
+      "url": "https://www.grammy.com/news/christone-kingfish-ingram-662-blues-young-guitarist-interview/",
+      "accessDate": "2026-07-22",
+      "note": "Recording Academy interview embedding the official music video for 662."
+    },
+    {
+      "id": "source:kingfish-guitar-world-2026",
+      "sourceType": "interview",
+      "title": "Christone ‘Kingfish’ Ingram has learned from the masters on his road to becoming a modern-day blues great",
+      "publisher": "Guitar World",
+      "year": 2026,
+      "url": "https://www.guitarworld.com/artists/guitarists/christone-kingfish-ingram-hard-road-learning-from-eric-gales",
+      "accessDate": "2026-07-22",
+      "note": "Direct interview in which Ingram explains how Eric Gales expanded his blues-rock vocabulary."
+    },
+    {
+      "id": "source:kingfish-official-bio",
+      "sourceType": "reputable_reference",
+      "title": "Biography",
+      "publisher": "Christone “Kingfish” Ingram official website",
+      "url": "https://www.christonekingfishingram.com/bio",
+      "accessDate": "2026-07-22",
+      "note": "Official biography describing Ingram's Clarksdale roots, modern blues fusion, and guitar vocabulary shaped by B.B. King, Albert King, and Buddy Guy."
+    },
+    {
+      "id": "source:koko-taylor-blues-foundation",
+      "sourceType": "reputable_reference",
+      "title": "Koko Taylor",
+      "publisher": "The Blues Foundation",
+      "url": "https://blues.org/blues_hof_inductee/koko-taylor/",
+      "accessDate": "2026-07-22",
+      "note": "Blues Hall of Fame biography identifying Bessie Smith and Big Mama Thornton among Taylor's strongest vocal influences."
+    },
+    {
+      "id": "source:lightnin-hopkins-blues-foundation",
+      "sourceType": "reputable_reference",
+      "title": "Lightnin’ Hopkins",
+      "publisher": "The Blues Foundation",
+      "url": "https://blues.org/blues_hof_inductee/lightnin-hopkins/",
+      "accessDate": "2026-07-22",
+      "note": "Blues Hall of Fame biography of the influential Texas country blues singer-guitarist."
+    },
+    {
+      "id": "source:little-jimmy-king-allmusic",
+      "sourceType": "reputable_reference",
+      "title": "Little Jimmy King Biography",
+      "publisher": "AllMusic",
+      "url": "https://www.allmusic.com/artist/little-jimmy-king-mn0000263681",
+      "accessDate": "2026-07-22",
+      "note": "Reference biography of the Memphis-based left-handed guitarist and his recordings with Eric and Eugene Gales."
+    },
+    {
+      "id": "source:loc-songs-america-blues",
+      "sourceType": "museum_or_library",
+      "title": "Blues",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/collections/songs-of-america/articles-and-essays/musical-styles/popular-songs-of-the-day/blues/",
+      "accessDate": "2026-07-21",
+      "note": "The Library of Congress overview identifies Son House as having taught Muddy Waters."
+    },
+    {
+      "id": "source:rl-burnside-blues-foundation",
+      "sourceType": "reputable_reference",
+      "title": "R.L. Burnside",
+      "publisher": "The Blues Foundation",
+      "url": "https://blues.org/blues_hof_inductee/r-l-burnside/",
+      "accessDate": "2026-07-22",
+      "note": "Blues Hall of Fame biography documenting Burnside's North Mississippi Hill Country career and Fred McDowell's influence."
+    },
+    {
+      "id": "source:robert-cray-blues-foundation",
+      "sourceType": "reputable_reference",
+      "title": "Robert Cray",
+      "publisher": "The Blues Foundation",
+      "url": "https://blues.org/blues_hof_inductee/robert-cray/",
+      "accessDate": "2026-07-22",
+      "note": "Blues Hall of Fame biography documenting Cray's career and the Showdown! album with Albert Collins and Johnny Copeland."
+    },
+    {
+      "id": "source:samantha-fish-official-bio",
+      "sourceType": "reputable_reference",
+      "title": "About Samantha Fish",
+      "publisher": "Samantha Fish official website",
+      "url": "https://samanthafish.com/about/",
+      "accessDate": "2026-07-22",
+      "note": "Official biography covering Fish's contemporary blues career and the Death Wish Blues album with Jesse Dayton."
+    },
+    {
+      "id": "source:school-of-rock-history-blues",
+      "sourceType": "reputable_reference",
+      "title": "History of Blues Music",
+      "authors": [
+        "Aidan Curran"
+      ],
+      "publisher": "School of Rock",
+      "url": "https://www.schoolofrock.com/resources/music-education/history-of-blues-music",
+      "accessDate": "2026-07-22",
+      "note": "Educational overview used only for artists explicitly named in its regional and historical sections."
+    },
+    {
+      "id": "source:shemekia-copeland-knkx-interview",
+      "sourceType": "interview",
+      "title": "Shemekia Copeland speaks out on new Done Come Too Far album",
+      "publisher": "KNKX Public Radio",
+      "year": 2022,
+      "url": "https://www.knkx.org/blues/2022-10-18/shemekia-copeland-speaks-out-on-new-done-come-too-far-album",
+      "accessDate": "2026-07-22",
+      "note": "Direct interview in which Copeland describes touring with and learning from her father Johnny Copeland."
+    },
+    {
+      "id": "source:shemekia-copeland-official-bio",
+      "sourceType": "reputable_reference",
+      "title": "Biography",
+      "publisher": "Shemekia Copeland official website",
+      "url": "https://www.shemekiacopeland.com/bio",
+      "accessDate": "2026-07-22",
+      "note": "Official biography covering Copeland's Harlem upbringing and early stage appearances with her father Johnny Copeland."
+    },
+    {
+      "id": "source:sippie-wallace-blues-foundation",
+      "sourceType": "reputable_reference",
+      "title": "Sippie Wallace",
+      "publisher": "The Blues Foundation",
+      "url": "https://blues.org/blues_hof_inductee/sippie-wallace/",
+      "accessDate": "2026-07-22",
+      "note": "Blues Hall of Fame biography documenting Victoria Spivey's encouragement of Wallace's return and Bonnie Raitt's later role in renewing attention to her work."
+    },
+    {
+      "id": "source:sister-rosetta-smithsonian",
+      "sourceType": "museum_or_library",
+      "title": "Sister Rosetta Tharpe: Gospel’s first electric guitar star",
+      "publisher": "Smithsonian Institution",
+      "url": "https://www.si.edu/collections/snapshot/sister-rosetta-tharpe-gospel-electric-guitar-driven-rock-n-roll",
+      "accessDate": "2026-07-22",
+      "note": "Smithsonian collection essay documenting Tharpe's electric-guitar legacy and influence on Chuck Berry and Little Richard."
+    },
+    {
+      "id": "source:skip-james-mississippi-encyclopedia",
+      "sourceType": "reputable_reference",
+      "title": "Skip James",
+      "publisher": "Mississippi Encyclopedia",
+      "url": "https://mississippiencyclopedia.org/entries/skip-james/",
+      "accessDate": "2026-07-22",
+      "note": "Scholarly state encyclopedia entry documenting James's Bentonia style, 1960s rediscovery, and Cream's later recording of I'm So Glad."
+    },
+    {
+      "id": "source:smithsonian-before-the-blues",
+      "sourceType": "museum_or_library",
+      "title": "Before the Blues: From Africa to the United States",
+      "publisher": "Smithsonian Folkways Recordings",
+      "url": "https://folkways.si.edu/lesson/before-the-blues/from-africa-to-the-united-states",
+      "accessDate": "2026-07-21",
+      "note": "Supports a broad historical connection between West African traditions and field hollers, but not a direct unbroken lineage or the record's specific timbral comparison."
+    },
+    {
+      "id": "source:sonny-terry-blues-foundation",
+      "sourceType": "reputable_reference",
+      "title": "Sonny Terry",
+      "publisher": "The Blues Foundation",
+      "url": "https://blues.org/blues_hof_inductee/sonny-terry/",
+      "accessDate": "2026-07-22",
+      "note": "Blues Hall of Fame biography documenting Terry's long recording partnership with Brownie McGhee and sessions with Lightnin’ Hopkins."
+    },
+    {
+      "id": "source:tajmo-official",
+      "sourceType": "reputable_reference",
+      "title": "TajMo",
+      "publisher": "Keb’ Mo’ official website",
+      "url": "https://kebmo.com/tajmo/",
+      "accessDate": "2026-07-22",
+      "note": "Official project page and artist biographies documenting Taj Mahal and Keb’ Mo’s recorded collaboration."
+    },
+    {
+      "id": "source:victoria-spivey-blues-foundation",
+      "sourceType": "reputable_reference",
+      "title": "Blues Hall of Fame 2020 inductees named",
+      "publisher": "The Blues Foundation",
+      "year": 2019,
+      "url": "https://blues.org/news-blues-hall-of-fame-2020-inductees-named-bettye-layette-syl-johnson-victoria-spivey-eddie-boyd-george-smith-billy-branch-ralph-peer/",
+      "accessDate": "2026-07-22",
+      "note": "Blues Foundation biography summary of singer, pianist, songwriter, bandleader and label owner Victoria Spivey."
+    },
+    {
+      "id": "source:wikipedia-list-blues-musicians-discovery",
+      "sourceType": "reputable_reference",
+      "title": "List of blues musicians",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_blues_musicians",
+      "accessDate": "2026-07-22",
+      "note": "Discovery and blues-classification roster containing 462 table entries when audited. It does not establish biographies, dates, or relationships; imported candidates require an individual profile source."
+    }
+  ]
+}

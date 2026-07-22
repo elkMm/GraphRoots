@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-james-cotton--kenny-neal",
+  "slug": "wikipedia-james-cotton--kenny-neal",
+  "entityAId": "entity:james-cotton",
+  "entityBId": "entity:kenny-neal",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects James Cotton and Kenny Neal in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-james-cotton"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (james-cotton@1351139698:14). Verify the cited page context and an independent source before review."
+}

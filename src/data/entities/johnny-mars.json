@@ -1,0 +1,24 @@
+{
+  "id": "entity:johnny-mars",
+  "slug": "johnny-mars",
+  "name": "Johnny Mars",
+  "entityType": "artist",
+  "summary": "Johnny Mars is a blues musician, singer and singer-songwriter.",
+  "dateDisplay": "1942 –",
+  "regions": ["United States"],
+  "styles": ["Blues", "Electric Blues", "Rhythm And Blues"],
+  "roles": ["Musician", "Singer", "Singer-Songwriter"],
+  "instruments": ["Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-johnny-mars",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "Ox6xIEQhA9s",
+    "title": "Johnny Mars - Blues From Mars - 1972 - My Dream (Blues In My Sleep) - Dimitris Lesini Greece",
+    "sourceUrl": "https://www.youtube.com/watch?v=Ox6xIEQhA9s",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

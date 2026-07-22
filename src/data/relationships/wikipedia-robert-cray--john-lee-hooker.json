@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-robert-cray--john-lee-hooker",
+  "slug": "wikipedia-robert-cray--john-lee-hooker",
+  "entityAId": "entity:robert-cray",
+  "entityBId": "entity:john-lee-hooker",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Robert Cray and John Lee Hooker in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-robert-cray"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (robert-cray@1359099407:7). Verify the cited page context and an independent source before review."
+}

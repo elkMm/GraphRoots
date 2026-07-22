@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:032",
+  "slug": "lightnin-hopkins--christone-kingfish-ingram",
+  "entityAId": "entity:lightnin-hopkins",
+  "entityBId": "entity:christone-kingfish-ingram",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "The City of Clarksdale artist profile lists Lightnin’ Hopkins among Ingram's named blues influences.",
+  "citationIds": ["source:city-clarksdale-kingfish"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

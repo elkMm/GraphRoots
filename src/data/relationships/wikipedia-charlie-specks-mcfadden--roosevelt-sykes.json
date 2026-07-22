@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-charlie-specks-mcfadden--roosevelt-sykes",
+  "slug": "wikipedia-charlie-specks-mcfadden--roosevelt-sykes",
+  "entityAId": "entity:charlie-specks-mcfadden",
+  "entityBId": "entity:roosevelt-sykes",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Charlie \"Specks\" McFadden and Roosevelt Sykes in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-charlie-specks-mcfadden",
+    "source:wikipedia-biography-roosevelt-sykes"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (charlie-specks-mcfadden@1319263435:1, charlie-specks-mcfadden@1319263435:4, roosevelt-sykes@1323752244:4). Verify the cited page context and an independent source before review."
+}

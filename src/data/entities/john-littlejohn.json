@@ -1,0 +1,24 @@
+{
+  "id": "entity:john-littlejohn",
+  "slug": "john-littlejohn",
+  "name": "John Littlejohn",
+  "entityType": "artist",
+  "summary": "John Littlejohn was a blues musician.",
+  "dateDisplay": "1931 – 1994",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-john-littlejohn",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "SLx8CIEJ37o",
+    "title": "John Littlejohn ~ ''Been Around The World''(Modern Electric Chicago Blues 1968)",
+    "sourceUrl": "https://www.youtube.com/watch?v=SLx8CIEJ37o",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

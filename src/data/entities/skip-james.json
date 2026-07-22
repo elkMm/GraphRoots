@@ -1,0 +1,31 @@
+{
+  "id": "entity:skip-james",
+  "slug": "skip-james",
+  "name": "Skip James",
+  "entityType": "artist",
+  "summary": "Developed an eerie minor-key, open-tuning style distinct from the Patton lineage; rediscovered in the 1960s and covered by Cream.",
+  "dateDisplay": "1902 – 1969",
+  "regions": ["Bentonia, Mississippi"],
+  "styles": ["Bentonia blues", "Delta blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist", "Pianist"],
+  "instruments": ["Guitar", "Piano"],
+  "sourceIds": [
+    "source:prototype-migration",
+    "source:skip-james-mississippi-encyclopedia"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "mYALBzfY5QY",
+    "title": "Hard Time Killing Floor Blues (Live, 1967)",
+    "sourceUrl": "https://www.youtube.com/watch?v=mYALBzfY5QY",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "skip_james",
+    "originalEra": "delta"
+  }
+}

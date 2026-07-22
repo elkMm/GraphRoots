@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-luther-tucker--freddie-king",
+  "slug": "wikipedia-luther-tucker--freddie-king",
+  "entityAId": "entity:luther-tucker",
+  "entityBId": "entity:freddie-king",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Luther Tucker and Freddie King in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-luther-tucker"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (luther-tucker@1358489878:3, luther-tucker@1358489878:6). Verify the cited page context and an independent source before review."
+}

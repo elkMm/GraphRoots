@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-ry-cooder--taj-mahal",
+  "slug": "wikipedia-ry-cooder--taj-mahal",
+  "entityAId": "entity:ry-cooder",
+  "entityBId": "entity:taj-mahal",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Ry Cooder and Taj Mahal in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-ry-cooder",
+    "source:wikipedia-biography-taj-mahal"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (ry-cooder@1356634212:2, ry-cooder@1356634212:8, taj-mahal@1363505672:8). Verify the cited page context and an independent source before review."
+}

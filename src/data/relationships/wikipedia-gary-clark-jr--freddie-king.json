@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-gary-clark-jr--freddie-king",
+  "slug": "wikipedia-gary-clark-jr--freddie-king",
+  "entityAId": "entity:gary-clark-jr",
+  "entityBId": "entity:freddie-king",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Gary Clark Jr. and Freddie King in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-gary-clark-jr"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (gary-clark-jr@1356860196:22). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "relationship:prototype:023",
+  "slug": "son-house--muddy-waters",
+  "entityAId": "entity:son-house",
+  "entityBId": "entity:muddy-waters",
+  "relationshipType": "mentored",
+  "orientation": "directed",
+  "evidenceCategory": "directly_documented",
+  "title": "Son House taught Muddy Waters",
+  "explanation": "The Library of Congress identifies Son House as having taught the young McKinley Morganfield, later known as Muddy Waters.",
+  "citationIds": ["source:loc-songs-america-blues"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-21",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalRelationshipType": "generic_influence",
+    "originalNote": "direct early influence, Library of Congress recordings"
+  }
+}

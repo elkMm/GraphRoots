@@ -1,0 +1,17 @@
+{
+  "id": "relationship:research:033",
+  "slug": "mississippi-fred-mcdowell--rl-burnside",
+  "entityAId": "entity:mississippi-fred-mcdowell",
+  "entityBId": "entity:rl-burnside",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Mississippi heritage and Blues Foundation sources identify McDowell's guitar playing as formative to Burnside's Hill Country style.",
+  "citationIds": [
+    "source:fred-mcdowell-ms-blues-trail",
+    "source:rl-burnside-blues-foundation"
+  ],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

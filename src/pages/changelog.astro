@@ -1,0 +1,75 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Changelog"
+  description="Application and Blues corpus release notes for GraphRoots."
+  canonicalPath="/changelog"
+>
+  <article class="shell changelog-page reading">
+    <p class="eyebrow">Release notes · 2026-07-22</p>
+    <h1>Changelog</h1>
+    <section id="application">
+      <h2>Application 0.5.0</h2>
+      <ul>
+        <li>
+          Added a reproducible biography crawl and validated import pipeline for
+          provisional artist connections.
+        </li>
+        <li>
+          Expanded the exploratory graph from 117 to 1,181 pathways while
+          keeping the 43 reviewed relationships unchanged.
+        </li>
+        <li>
+          Preserved each provisional edge's specific explanation and direction
+          rather than replacing it with generic graph copy.
+        </li>
+      </ul>
+    </section>
+    <section id="corpus">
+      <h2>Blues corpus 0.7.1</h2>
+      <ul>
+        <li>
+          Added Ry Cooder and Rory Block with checked videos, profile sources,
+          and revision-pinned biography citations.
+        </li>
+        <li>
+          Added 15 provisional pathways, giving Cooder 10 graph relationships
+          and Block 5.
+        </li>
+        <li>
+          Rechecked Joe Bonamassa's 12 existing relationships and refined the
+          provisional Eric Clapton influence classification.
+        </li>
+      </ul>
+    </section>
+    <section id="previous-release">
+      <h2>Previous application release 0.4.3</h2>
+      <p>
+        Added the MIT License, About navigation item, and creator copyright in
+        the global footer.
+      </p>
+    </section>
+    <p>
+      Repository details are maintained in <code>CHANGELOG.md</code> and <code
+        >CORPUS_CHANGELOG.md</code
+      >.
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .changelog-page {
+    padding-block: clamp(3rem, 8vw, 7rem);
+  }
+
+  section {
+    scroll-margin-top: 2rem;
+  }
+
+  code {
+    color: var(--color-gold);
+    font-family: var(--font-meta);
+  }
+</style>

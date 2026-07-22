@@ -1,0 +1,22 @@
+{
+  "id": "entity:kenny-wayne-shepherd",
+  "slug": "kenny-wayne-shepherd",
+  "name": "Kenny Wayne Shepherd",
+  "entityType": "artist",
+  "summary": "Louisiana-born guitarist and bandleader whose recordings helped carry electric blues and blues rock into mainstream rock audiences from the 1990s onward.",
+  "dateDisplay": "1977 –",
+  "regions": ["Louisiana", "United States"],
+  "styles": ["Blues rock", "Electric blues"],
+  "roles": ["Guitarist", "Songwriter", "Bandleader"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:kenny-wayne-shepherd-official-bio"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "AKAqD2XG_XE",
+    "title": "Blue on Black",
+    "sourceUrl": "https://www.youtube.com/watch?v=AKAqD2XG_XE",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

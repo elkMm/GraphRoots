@@ -1,0 +1,24 @@
+{
+  "id": "entity:lavelle-white",
+  "slug": "lavelle-white",
+  "name": "Lavelle White",
+  "entityType": "artist",
+  "summary": "Lavelle White is a blues singer, songwriter and musician.",
+  "dateDisplay": "1929 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Songwriter", "Musician"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-lavelle-white",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "c08TQlEWK5E",
+    "title": "Into the Mystic You Don't Need No Wings with Lavelle White",
+    "sourceUrl": "https://www.youtube.com/watch?v=c08TQlEWK5E",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

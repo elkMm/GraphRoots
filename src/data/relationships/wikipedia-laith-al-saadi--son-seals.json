@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-laith-al-saadi--son-seals",
+  "slug": "wikipedia-laith-al-saadi--son-seals",
+  "entityAId": "entity:laith-al-saadi",
+  "entityBId": "entity:son-seals",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Laith Al-Saadi and Son Seals in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-laith-al-saadi"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (laith-al-saadi@1353689262:5). Verify the cited page context and an independent source before review."
+}

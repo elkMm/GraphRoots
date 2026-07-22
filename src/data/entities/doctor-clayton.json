@@ -1,0 +1,24 @@
+{
+  "id": "entity:doctor-clayton",
+  "slug": "doctor-clayton",
+  "name": "Doctor Clayton",
+  "entityType": "artist",
+  "summary": "Doctor Clayton was a blues musician, singer and pianist.",
+  "dateDisplay": "1898 – 1947",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Singer", "Pianist", "Songwriter"],
+  "instruments": ["Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-doctor-clayton",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "kgzPQ8w37EI",
+    "title": "Back Door Man Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=kgzPQ8w37EI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

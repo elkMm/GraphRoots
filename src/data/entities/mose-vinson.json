@@ -1,0 +1,24 @@
+{
+  "id": "entity:mose-vinson",
+  "slug": "mose-vinson",
+  "name": "Mose Vinson",
+  "entityType": "artist",
+  "summary": "Mose Vinson was a blues singer, jazz musician and pianist.",
+  "dateDisplay": "1917 – 2002",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Jazz Musician", "Pianist", "Composer"],
+  "instruments": ["Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-mose-vinson",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "QvodEveZdGU",
+    "title": "My Father Was a Gambler… Gambler Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=QvodEveZdGU",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,166 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { loadCorpus } from "../domain/corpus/load-corpus";
+import { validateCorpus } from "../domain/corpus/validate-corpus";
+import { withBase } from "../domain/base-path";
+
+const corpus = await loadCorpus();
+const report = validateCorpus(corpus);
+const downloads = [
+  ["Entities (JSON)", "graphroots-blues-entities.json"],
+  ["Entities (CSV)", "graphroots-blues-entities.csv"],
+  ["Relationships (JSON)", "graphroots-blues-relationships.json"],
+  ["Relationships (CSV)", "graphroots-blues-relationships.csv"],
+  ["Sources (JSON)", "graphroots-blues-sources.json"],
+  ["Schema notes (JSON)", "graphroots-blues-schema.json"],
+];
+---
+
+<BaseLayout
+  title="Public Data"
+  description="Download the versioned GraphRoots Blues corpus and review its schema, validation status, and license state."
+  canonicalPath="/data"
+>
+  <article class="shell data-page">
+    <header class="reading">
+      <p class="eyebrow">Public corpus · v{corpus.metadata.version}</p>
+      <h1>Inspect the data.</h1>
+      <p class="lede">
+        Download the current reviewed slice in machine-readable formats. Draft,
+        provisional, and withdrawn relationships, internal provenance, and
+        curator notes are excluded.
+      </p>
+    </header>
+
+    <section class="stats" aria-label="Corpus statistics">
+      <div><strong>{report.counts.entities}</strong><span>Entities</span></div>
+      <div>
+        <strong>{report.counts.publicRelationships}</strong><span
+          >Public relationships</span
+        >
+      </div>
+      <div>
+        <strong>{report.citationCoverage.percentage}%</strong><span
+          >Citation coverage</span
+        >
+      </div>
+      <div>
+        <strong>{report.unresolvedWarnings}</strong><span
+          >Editorial warnings</span
+        >
+      </div>
+    </section>
+
+    <section>
+      <h2>Downloads</h2>
+      <div class="downloads">
+        {
+          downloads.map(([label, filename]) => (
+            <a
+              class="card"
+              href={withBase(`/data/generated/${filename}`)}
+              download
+            >
+              <>
+                <span>{label}</span>
+                <small>{filename}</small>
+              </>
+            </a>
+          ))
+        }
+      </div>
+    </section>
+
+    <section class="reading">
+      <h2>Release notes</h2>
+      <dl>
+        <div><dt>Corpus version</dt><dd>{corpus.metadata.version}</dd></div>
+        <div><dt>Last updated</dt><dd>{corpus.metadata.lastUpdated}</dd></div>
+        <div><dt>License</dt><dd>{corpus.metadata.license.name}</dd></div>
+        <div>
+          <dt>Methodology</dt><dd>
+            <a href={withBase(corpus.metadata.methodologyPath)}
+              >Read the methodology</a
+            >
+          </dd>
+        </div>
+      </dl>
+      <p class="notice">
+        No public data license has been asserted yet. Downloads are provided for
+        inspection, not as an implied permission grant. Citation guidance will
+        be finalized with the license decision.
+      </p>
+      <p>
+        See the <a href={withBase("/changelog")}
+          >application and corpus changelog</a
+        >.
+      </p>
+    </section>
+  </article>
+</BaseLayout>
+
+<style>
+  .data-page {
+    padding-block: clamp(3rem, 8vw, 7rem);
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    margin-block: 3rem;
+    border: 1px solid var(--color-border);
+    background: var(--color-border);
+  }
+
+  .stats div {
+    display: grid;
+    gap: 0.35rem;
+    padding: 1rem;
+    background: var(--color-surface);
+  }
+
+  .stats strong {
+    color: var(--color-gold);
+    font-family: var(--font-display);
+    font-size: 2.3rem;
+  }
+
+  .stats span,
+  .downloads small,
+  dt {
+    color: var(--color-text-muted);
+    font-family: var(--font-meta);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+  }
+
+  .downloads {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    gap: 0.75rem;
+  }
+
+  .downloads a {
+    display: grid;
+    gap: 0.4rem;
+    text-decoration: none;
+  }
+
+  dl div {
+    display: grid;
+    grid-template-columns: 10rem 1fr;
+    border-bottom: 1px solid var(--color-border);
+    padding-block: 0.75rem;
+  }
+
+  dd {
+    margin: 0;
+  }
+
+  @media (max-width: 46rem) {
+    .stats {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+</style>

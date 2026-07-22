@@ -1,0 +1,22 @@
+{
+  "id": "entity:johnny-copeland",
+  "slug": "johnny-copeland",
+  "name": "Johnny Copeland",
+  "entityType": "artist",
+  "summary": "Louisiana-born singer-guitarist associated with the Texas blues scene whose forceful vocals and electric guitar anchored a decades-long recording career.",
+  "dateDisplay": "1937 – 1997",
+  "regions": ["Louisiana", "Houston, Texas"],
+  "styles": ["Texas blues", "Electric blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:johnny-copeland-alligator"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "p2cGCT5q3y4",
+    "title": "Old Man Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=p2cGCT5q3y4",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

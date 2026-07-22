@@ -1,0 +1,24 @@
+{
+  "id": "entity:buster-pickens",
+  "slug": "buster-pickens",
+  "name": "Buster Pickens",
+  "entityType": "artist",
+  "summary": "Buster Pickens was a blues musician and pianist.",
+  "dateDisplay": "1916 – 1964",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Pianist"],
+  "instruments": ["Piano"],
+  "sourceIds": [
+    "source:encyclopedia-buster-pickens",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "T3Dz_ejo_8o",
+    "title": "Backdoor Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=T3Dz_ejo_8o",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

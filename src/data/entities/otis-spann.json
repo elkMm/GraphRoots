@@ -1,0 +1,24 @@
+{
+  "id": "entity:otis-spann",
+  "slug": "otis-spann",
+  "name": "Otis Spann",
+  "entityType": "artist",
+  "summary": "Otis Spann was a blues musician and pianist.",
+  "dateDisplay": "1930 – 1970",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Pianist"],
+  "instruments": ["Piano"],
+  "sourceIds": [
+    "source:encyclopedia-otis-spann",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "5bXn88MxFvg",
+    "title": "Otis Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=5bXn88MxFvg",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

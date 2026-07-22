@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-charlie-musselwhite--koko-taylor",
+  "slug": "wikipedia-charlie-musselwhite--koko-taylor",
+  "entityAId": "entity:charlie-musselwhite",
+  "entityBId": "entity:koko-taylor",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Charlie Musselwhite and Koko Taylor in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-charlie-musselwhite"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (charlie-musselwhite@1362862151:12). Verify the cited page context and an independent source before review."
+}

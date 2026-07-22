@@ -1,0 +1,25 @@
+{
+  "id": "entity:buddy-guy",
+  "slug": "buddy-guy",
+  "name": "Buddy Guy",
+  "entityType": "artist",
+  "summary": "His explosive, distorted guitar tone bridged 1950s Chicago blues and 1960s rock, cited directly by Clapton and Hendrix as an inspiration.",
+  "dateDisplay": "1936 –",
+  "regions": ["Louisiana → Chicago"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "QUKC-RHuJhQ",
+    "title": "Damn Right, I've Got the Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=QUKC-RHuJhQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "buddy_guy",
+    "originalEra": "chicago"
+  }
+}

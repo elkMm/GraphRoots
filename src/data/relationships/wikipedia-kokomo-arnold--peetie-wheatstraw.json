@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-kokomo-arnold--peetie-wheatstraw",
+  "slug": "wikipedia-kokomo-arnold--peetie-wheatstraw",
+  "entityAId": "entity:kokomo-arnold",
+  "entityBId": "entity:peetie-wheatstraw",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Kokomo Arnold and Peetie Wheatstraw in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-kokomo-arnold",
+    "source:wikipedia-biography-peetie-wheatstraw"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (kokomo-arnold@1352436093:5, peetie-wheatstraw@1344944140:14, peetie-wheatstraw@1344944140:16). Verify the cited page context and an independent source before review."
+}

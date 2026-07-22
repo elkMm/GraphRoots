@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-reverend-gary-davis--rory-block",
+  "slug": "wikipedia-reverend-gary-davis--rory-block",
+  "entityAId": "entity:reverend-gary-davis",
+  "entityBId": "entity:rory-block",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Reverend Gary Davis and Rory Block in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-reverend-gary-davis",
+    "source:wikipedia-biography-rory-block"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (reverend-gary-davis@1365243256:2, rory-block@1320464399:3). Verify the cited page context and an independent source before review."
+}

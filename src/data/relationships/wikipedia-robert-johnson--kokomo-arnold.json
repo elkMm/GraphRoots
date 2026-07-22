@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-robert-johnson--kokomo-arnold",
+  "slug": "wikipedia-robert-johnson--kokomo-arnold",
+  "entityAId": "entity:robert-johnson",
+  "entityBId": "entity:kokomo-arnold",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Robert Johnson and Kokomo Arnold in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-robert-johnson"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (robert-johnson@1363801381:49, robert-johnson@1363801381:60). Verify the cited page context and an independent source before review."
+}

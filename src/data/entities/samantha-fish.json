@@ -1,0 +1,21 @@
+{
+  "id": "entity:samantha-fish",
+  "slug": "samantha-fish",
+  "name": "Samantha Fish",
+  "entityType": "artist",
+  "summary": "Kansas City singer-guitarist whose contemporary work moves between electric blues, roots rock, soul and collaborative songwriting.",
+  "regions": ["Kansas City, Missouri", "United States"],
+  "styles": ["Contemporary blues", "Blues rock", "Roots rock"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:samantha-fish-official-bio"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "CS82q-dnQvg",
+    "title": "Kill or Be Kind",
+    "sourceUrl": "https://www.youtube.com/watch?v=CS82q-dnQvg",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

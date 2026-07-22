@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-guitar-slim-jr--stevie-ray-vaughan",
+  "slug": "wikipedia-guitar-slim-jr--stevie-ray-vaughan",
+  "entityAId": "entity:guitar-slim-jr",
+  "entityBId": "entity:stevie-ray-vaughan",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Guitar Slim, Jr. and Stevie Ray Vaughan in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-guitar-slim-jr"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (guitar-slim-jr@1319283465:4). Verify the cited page context and an independent source before review."
+}

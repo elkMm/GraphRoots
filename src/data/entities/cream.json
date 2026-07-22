@@ -1,0 +1,18 @@
+{
+  "id": "entity:cream",
+  "slug": "cream",
+  "name": "Cream",
+  "entityType": "ensemble",
+  "summary": "Stretched Delta and Chicago blues forms into extended power-trio improvisation, covering Skip James and Robert Johnson for mass rock audiences.",
+  "dateDisplay": "1966 – 1968",
+  "regions": ["London"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "cream",
+    "originalEra": "british"
+  }
+}

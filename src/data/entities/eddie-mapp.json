@@ -1,0 +1,24 @@
+{
+  "id": "entity:eddie-mapp",
+  "slug": "eddie-mapp",
+  "name": "Eddie Mapp",
+  "entityType": "artist",
+  "summary": "Eddie Mapp was a blues musician, songwriter and composer.",
+  "dateDisplay": "1910 – 1931",
+  "regions": ["United States"],
+  "styles": ["Blues", "Country Blues"],
+  "roles": ["Musician", "Songwriter", "Composer", "Blues Musician"],
+  "instruments": ["Harmonica"],
+  "sourceIds": [
+    "source:encyclopedia-eddie-mapp",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "eSxtK9vOuzE",
+    "title": "Eddie Mapp [Gear Box ‎– Dj Guitar Vol.1]",
+    "sourceUrl": "https://www.youtube.com/watch?v=eSxtK9vOuzE",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

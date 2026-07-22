@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-jody-williams--willie-dixon",
+  "slug": "wikipedia-jody-williams--willie-dixon",
+  "entityAId": "entity:jody-williams",
+  "entityBId": "entity:willie-dixon",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Jody Williams and Willie Dixon in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-jody-williams"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (jody-williams@1325376468:8). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:015",
+  "slug": "joe-bonamassa--ally-venable",
+  "entityAId": "entity:joe-bonamassa",
+  "entityBId": "entity:ally-venable",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "directly_documented",
+  "explanation": "Joe Bonamassa appears as a guest guitarist and vocalist on Ally Venable's recorded track Broken and Blue.",
+  "citationIds": ["source:ally-venable-official-bio"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

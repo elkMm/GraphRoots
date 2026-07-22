@@ -1,0 +1,24 @@
+{
+  "id": "entity:charley-lincoln",
+  "slug": "charley-lincoln",
+  "name": "Charley Lincoln",
+  "entityType": "artist",
+  "summary": "Charley Lincoln was a blues musician, singer and guitarist.",
+  "dateDisplay": "1900 – 1963",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Singer", "Guitarist"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-charley-lincoln",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "NLqXfiJGG8M",
+    "title": "Depot Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=NLqXfiJGG8M",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

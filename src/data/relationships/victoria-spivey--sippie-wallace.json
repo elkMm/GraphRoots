@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:026",
+  "slug": "victoria-spivey--sippie-wallace",
+  "entityAId": "entity:victoria-spivey",
+  "entityBId": "entity:sippie-wallace",
+  "relationshipType": "revived_or_reintroduced",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Victoria Spivey encouraged Wallace's mid-1960s return to blues recording and public performance.",
+  "citationIds": ["source:sippie-wallace-blues-foundation"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

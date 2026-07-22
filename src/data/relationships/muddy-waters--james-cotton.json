@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:024",
+  "slug": "muddy-waters--james-cotton",
+  "entityAId": "entity:muddy-waters",
+  "entityBId": "entity:james-cotton",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Muddy Waters hired James Cotton in 1954, and Cotton remained a performing member of Waters's band for twelve years.",
+  "citationIds": ["source:james-cotton-blues-foundation"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

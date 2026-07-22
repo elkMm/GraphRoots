@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-pete-mayes--junior-parker",
+  "slug": "wikipedia-pete-mayes--junior-parker",
+  "entityAId": "entity:pete-mayes",
+  "entityBId": "entity:junior-parker",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Pete Mayes and Junior Parker in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-pete-mayes"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (pete-mayes@1319447883:5). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-junior-kimbrough--john-lee-hooker",
+  "slug": "wikipedia-junior-kimbrough--john-lee-hooker",
+  "entityAId": "entity:junior-kimbrough",
+  "entityBId": "entity:john-lee-hooker",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Junior Kimbrough and John Lee Hooker in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-junior-kimbrough"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (junior-kimbrough@1346023449:3). Verify the cited page context and an independent source before review."
+}

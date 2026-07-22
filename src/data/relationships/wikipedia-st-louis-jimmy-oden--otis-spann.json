@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-st-louis-jimmy-oden--otis-spann",
+  "slug": "wikipedia-st-louis-jimmy-oden--otis-spann",
+  "entityAId": "entity:st-louis-jimmy-oden",
+  "entityBId": "entity:otis-spann",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects St. Louis Jimmy Oden and Otis Spann in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-st-louis-jimmy-oden"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (st-louis-jimmy-oden@1323760535:5, st-louis-jimmy-oden@1323760535:7). Verify the cited page context and an independent source before review."
+}

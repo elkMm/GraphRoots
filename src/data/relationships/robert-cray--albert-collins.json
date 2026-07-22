@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:027",
+  "slug": "robert-cray--albert-collins",
+  "entityAId": "entity:robert-cray",
+  "entityBId": "entity:albert-collins",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "directly_documented",
+  "explanation": "Robert Cray and Albert Collins recorded together on the collaborative 1985 album Showdown!.",
+  "citationIds": ["source:robert-cray-blues-foundation"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

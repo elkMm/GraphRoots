@@ -1,0 +1,24 @@
+{
+  "id": "entity:bobo-jenkins",
+  "slug": "bobo-jenkins",
+  "name": "Bobo Jenkins",
+  "entityType": "artist",
+  "summary": "Bobo Jenkins was a blues singer and songwriter.",
+  "dateDisplay": "1916 – 1984",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Songwriter"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-bobo-jenkins",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "cnvJyhekf4s",
+    "title": "Bobo Jenkins     ~    ''Watergate Blues''  1974",
+    "sourceUrl": "https://www.youtube.com/watch?v=cnvJyhekf4s",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

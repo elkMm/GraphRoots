@@ -1,0 +1,22 @@
+{
+  "id": "entity:lightnin-hopkins",
+  "slug": "lightnin-hopkins",
+  "name": "Lightnin’ Hopkins",
+  "entityType": "artist",
+  "summary": "Texas singer-guitarist whose conversational vocals, improvised narratives and distinctive rhythmic guitar made him a central postwar country-blues recording artist.",
+  "dateDisplay": "1912 – 1982",
+  "regions": ["Texas", "Houston, Texas"],
+  "styles": ["Texas blues", "Country blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:lightnin-hopkins-blues-foundation"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "s9NGj_LHI_M",
+    "title": "Mojo Hand",
+    "sourceUrl": "https://www.youtube.com/watch?v=s9NGj_LHI_M",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

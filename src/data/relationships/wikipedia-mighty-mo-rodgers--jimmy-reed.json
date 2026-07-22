@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-mighty-mo-rodgers--jimmy-reed",
+  "slug": "wikipedia-mighty-mo-rodgers--jimmy-reed",
+  "entityAId": "entity:mighty-mo-rodgers",
+  "entityBId": "entity:jimmy-reed",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Mighty Mo Rodgers and Jimmy Reed in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-mighty-mo-rodgers"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (mighty-mo-rodgers@1351022593:1). Verify the cited page context and an independent source before review."
+}

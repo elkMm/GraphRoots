@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-magic-sam--charlie-musselwhite",
+  "slug": "wikipedia-magic-sam--charlie-musselwhite",
+  "entityAId": "entity:magic-sam",
+  "entityBId": "entity:charlie-musselwhite",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Magic Sam and Charlie Musselwhite in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-magic-sam"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (magic-sam@1354132911:4). Verify the cited page context and an independent source before review."
+}

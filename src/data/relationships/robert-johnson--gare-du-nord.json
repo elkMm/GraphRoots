@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:038",
+  "slug": "robert-johnson--gare-du-nord",
+  "entityAId": "entity:robert-johnson",
+  "entityBId": "entity:gare-du-nord",
+  "relationshipType": "covered_work_by",
+  "orientation": "directed",
+  "evidenceCategory": "directly_documented",
+  "explanation": "Gare du Nord's official history states that Pablo's Blues was built around Robert Johnson's Come On in My Kitchen.",
+  "citationIds": ["source:gare-du-nord-official-about"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

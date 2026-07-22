@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-larry-davis--albert-king",
+  "slug": "wikipedia-larry-davis--albert-king",
+  "entityAId": "entity:larry-davis",
+  "entityBId": "entity:albert-king",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Larry Davis and Albert King in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-larry-davis"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (larry-davis@1360575823:2). Verify the cited page context and an independent source before review."
+}

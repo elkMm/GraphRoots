@@ -1,0 +1,24 @@
+{
+  "id": "entity:tampa-red",
+  "slug": "tampa-red",
+  "name": "Tampa Red",
+  "entityType": "artist",
+  "summary": "Tampa Red was a blues musician, pianist and guitarist.",
+  "dateDisplay": "1904 – 1981",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Pianist", "Guitarist", "Singer-Songwriter"],
+  "instruments": ["Guitar", "Piano"],
+  "sourceIds": [
+    "source:encyclopedia-tampa-red",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "KUcEzwAAzk0",
+    "title": "Dying Mercy Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=KUcEzwAAzk0",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

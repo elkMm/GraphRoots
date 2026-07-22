@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-sammy-lawhorn--james-cotton",
+  "slug": "wikipedia-sammy-lawhorn--james-cotton",
+  "entityAId": "entity:sammy-lawhorn",
+  "entityBId": "entity:james-cotton",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Sammy Lawhorn and James Cotton in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-sammy-lawhorn"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (sammy-lawhorn@1329915025:1, sammy-lawhorn@1329915025:6, sammy-lawhorn@1329915025:9). Verify the cited page context and an independent source before review."
+}

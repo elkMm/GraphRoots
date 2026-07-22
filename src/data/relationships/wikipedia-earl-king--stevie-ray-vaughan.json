@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-earl-king--stevie-ray-vaughan",
+  "slug": "wikipedia-earl-king--stevie-ray-vaughan",
+  "entityAId": "entity:earl-king",
+  "entityBId": "entity:stevie-ray-vaughan",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Earl King and Stevie Ray Vaughan in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-earl-king"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (earl-king@1364028096:1, earl-king@1364028096:5). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "entity:pee-wee-crayton",
+  "slug": "pee-wee-crayton",
+  "name": "Pee Wee Crayton",
+  "entityType": "artist",
+  "summary": "Pee Wee Crayton was a blues singer, guitarist and composer.",
+  "dateDisplay": "1914 – 1985",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Guitarist", "Composer", "Blues Musician"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-pee-wee-crayton",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:blues-foundation-hall-of-fame"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "h9rbwWLn4Qk",
+    "title": "Blues After Hours (Remastered)",
+    "sourceUrl": "https://www.youtube.com/watch?v=h9rbwWLn4Qk",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

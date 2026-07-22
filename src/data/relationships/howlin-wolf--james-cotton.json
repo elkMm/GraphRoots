@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:023",
+  "slug": "howlin-wolf--james-cotton",
+  "entityAId": "entity:howlin-wolf",
+  "entityBId": "entity:james-cotton",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "directly_documented",
+  "explanation": "James Cotton played harmonica on a 1952 Howlin’ Wolf recording for Chess, directly documenting their studio collaboration.",
+  "citationIds": ["source:james-cotton-blues-foundation"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

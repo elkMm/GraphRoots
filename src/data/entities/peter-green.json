@@ -1,0 +1,24 @@
+{
+  "id": "entity:peter-green",
+  "slug": "peter-green",
+  "name": "Peter Green",
+  "entityType": "artist",
+  "summary": "Peter Green was a blues guitarist, songwriter and singer.",
+  "dateDisplay": "1946 – 2020",
+  "regions": ["United Kingdom"],
+  "styles": ["Blues", "Blues Rock"],
+  "roles": ["Guitarist", "Songwriter", "Singer", "Singer-Songwriter"],
+  "instruments": ["Guitar", "Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-peter-green",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "QcqYSLTSAcE",
+    "title": "Apostle",
+    "sourceUrl": "https://www.youtube.com/watch?v=QcqYSLTSAcE",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

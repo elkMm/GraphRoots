@@ -1,0 +1,24 @@
+{
+  "id": "entity:cub-koda",
+  "slug": "cub-koda",
+  "name": "Cub Koda",
+  "entityType": "artist",
+  "summary": "Cub Koda was a blues songwriter, guitarist and musician.",
+  "dateDisplay": "1948 – 2000",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Songwriter", "Guitarist", "Musician"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-cub-koda",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "EczliJE6jB4",
+    "title": "somebody changed the lock",
+    "sourceUrl": "https://www.youtube.com/watch?v=EczliJE6jB4",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-reverend-gary-davis--sonny-terry",
+  "slug": "wikipedia-reverend-gary-davis--sonny-terry",
+  "entityAId": "entity:reverend-gary-davis",
+  "entityBId": "entity:sonny-terry",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Reverend Gary Davis and Sonny Terry in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-reverend-gary-davis"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (reverend-gary-davis@1365243256:15, reverend-gary-davis@1365243256:20). Verify the cited page context and an independent source before review."
+}

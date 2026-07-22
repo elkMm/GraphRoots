@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-denny-freeman--buddy-guy",
+  "slug": "wikipedia-denny-freeman--buddy-guy",
+  "entityAId": "entity:denny-freeman",
+  "entityBId": "entity:buddy-guy",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Denny Freeman and Buddy Guy in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-denny-freeman"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (denny-freeman@1351022468:3). Verify the cited page context and an independent source before review."
+}

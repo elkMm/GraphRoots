@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-big-mama-thornton--memphis-minnie",
+  "slug": "wikipedia-big-mama-thornton--memphis-minnie",
+  "entityAId": "entity:big-mama-thornton",
+  "entityBId": "entity:memphis-minnie",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Willie Mae “Big Mama” Thornton and Memphis Minnie in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-big-mama-thornton",
+    "source:wikipedia-biography-memphis-minnie"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (big-mama-thornton@1361822656:6, memphis-minnie@1364207836:20). Verify the cited page context and an independent source before review."
+}

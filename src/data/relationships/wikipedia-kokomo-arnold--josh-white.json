@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-kokomo-arnold--josh-white",
+  "slug": "wikipedia-kokomo-arnold--josh-white",
+  "entityAId": "entity:kokomo-arnold",
+  "entityBId": "entity:josh-white",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Kokomo Arnold and Josh White in the same recording context. The precise session details await independent review.",
+  "citationIds": ["source:wikipedia-biography-kokomo-arnold"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (kokomo-arnold@1352436093:6). Verify the cited page context and an independent source before review."
+}

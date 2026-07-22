@@ -1,0 +1,21 @@
+{
+  "id": "entity:shemekia-copeland",
+  "slug": "shemekia-copeland",
+  "name": "Shemekia Copeland",
+  "entityType": "artist",
+  "summary": "Harlem-born singer whose contemporary blues work joins commanding vocals with songs engaging American roots traditions and present-day social concerns.",
+  "dateDisplay": "1979 –",
+  "regions": ["Harlem, New York", "United States"],
+  "styles": ["Contemporary blues", "Soul blues", "Americana"],
+  "roles": ["Singer"],
+  "sourceIds": ["source:shemekia-copeland-official-bio"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "_QeNxdCGUwo",
+    "title": "Married to the Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=_QeNxdCGUwo",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

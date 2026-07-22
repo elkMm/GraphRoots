@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-little-freddie-king--bo-diddley",
+  "slug": "wikipedia-little-freddie-king--bo-diddley",
+  "entityAId": "entity:little-freddie-king",
+  "entityBId": "entity:bo-diddley",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Little Freddie King and Bo Diddley in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-little-freddie-king"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (little-freddie-king@1340051303:3). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-bumble-bee-slim--memphis-minnie",
+  "slug": "wikipedia-bumble-bee-slim--memphis-minnie",
+  "entityAId": "entity:bumble-bee-slim",
+  "entityBId": "entity:memphis-minnie",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Bumble Bee Slim and Memphis Minnie in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-bumble-bee-slim"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bumble-bee-slim@1325035292:3). Verify the cited page context and an independent source before review."
+}

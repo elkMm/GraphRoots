@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-big-walter-horton--floyd-jones",
+  "slug": "wikipedia-big-walter-horton--floyd-jones",
+  "entityAId": "entity:big-walter-horton",
+  "entityBId": "entity:floyd-jones",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Big Walter Horton and Floyd Jones in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-big-walter-horton",
+    "source:wikipedia-biography-floyd-jones"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (big-walter-horton@1342055682:10, floyd-jones@1326187699:7). Verify the cited page context and an independent source before review."
+}

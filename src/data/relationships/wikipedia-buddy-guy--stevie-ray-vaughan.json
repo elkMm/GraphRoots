@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-buddy-guy--stevie-ray-vaughan",
+  "slug": "wikipedia-buddy-guy--stevie-ray-vaughan",
+  "entityAId": "entity:buddy-guy",
+  "entityBId": "entity:stevie-ray-vaughan",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Buddy Guy and Stevie Ray Vaughan in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-buddy-guy",
+    "source:wikipedia-biography-stevie-ray-vaughan"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (buddy-guy@1362800245:1, buddy-guy@1362800245:22, stevie-ray-vaughan@1362769850:15, stevie-ray-vaughan@1362769850:29, stevie-ray-vaughan@1362769850:57, stevie-ray-vaughan@1362769850:59). Verify the cited page context and an independent source before review."
+}

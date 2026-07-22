@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-travis-leonard-blaylock--percy-mayfield",
+  "slug": "wikipedia-travis-leonard-blaylock--percy-mayfield",
+  "entityAId": "entity:travis-leonard-blaylock",
+  "entityBId": "entity:percy-mayfield",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Travis Leonard Blaylock and Percy Mayfield in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-travis-leonard-blaylock"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (travis-leonard-blaylock@1319284434:1, travis-leonard-blaylock@1319284434:4). Verify the cited page context and an independent source before review."
+}

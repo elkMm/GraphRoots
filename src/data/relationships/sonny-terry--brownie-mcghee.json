@@ -1,0 +1,17 @@
+{
+  "id": "relationship:research:029",
+  "slug": "sonny-terry--brownie-mcghee",
+  "entityAId": "entity:sonny-terry",
+  "entityBId": "entity:brownie-mcghee",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Sonny Terry and Brownie McGhee maintained a decades-long partnership across recordings, concerts, radio, stage and film work.",
+  "citationIds": [
+    "source:sonny-terry-blues-foundation",
+    "source:brownie-mcghee-blues-foundation"
+  ],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

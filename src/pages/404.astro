@@ -1,0 +1,40 @@
+---
+import { withBase } from "../domain/base-path";
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Page not found"
+  description="The requested GraphRoots page could not be found."
+  canonicalPath="/404"
+  noindex
+>
+  <article class="shell not-found reading">
+    <p class="eyebrow">404 · Lost pathway</p>
+    <h1>That connection is not here.</h1>
+    <p class="lede">
+      The address may have changed, or the record may not be part of the current
+      public release.
+    </p>
+    <div class="actions">
+      <a class="button" href={withBase("/")}>Return home</a>
+      <a class="button secondary" href={withBase("/blues/explore")}
+        >Open the network</a
+      >
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .not-found {
+    min-height: 58vh;
+    padding-block: clamp(5rem, 14vw, 10rem);
+  }
+
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    margin-top: 2rem;
+  }
+</style>

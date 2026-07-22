@@ -1,0 +1,22 @@
+{
+  "id": "entity:robert-cray",
+  "slug": "robert-cray",
+  "name": "Robert Cray",
+  "entityType": "artist",
+  "summary": "Georgia-born singer-guitarist whose polished electric blues, soul phrasing and songwriting reached broad audiences from the 1980s onward.",
+  "dateDisplay": "1953 –",
+  "regions": ["Georgia", "Pacific Northwest", "United States"],
+  "styles": ["Electric blues", "Soul blues", "Contemporary blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:robert-cray-blues-foundation"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "jP2EvSNHqh0",
+    "title": "Right Next Door",
+    "sourceUrl": "https://www.youtube.com/watch?v=jP2EvSNHqh0",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:031",
+  "slug": "jimmy-reed--john-hammond",
+  "entityAId": "entity:jimmy-reed",
+  "entityBId": "entity:john-hammond",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "The Blues Foundation biography identifies hearing Jimmy Reed as a formative inspiration in Hammond's turn toward blues performance.",
+  "citationIds": ["source:john-hammond-blues-foundation"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

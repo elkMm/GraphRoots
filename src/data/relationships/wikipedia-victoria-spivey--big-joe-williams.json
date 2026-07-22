@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-victoria-spivey--big-joe-williams",
+  "slug": "wikipedia-victoria-spivey--big-joe-williams",
+  "entityAId": "entity:victoria-spivey",
+  "entityBId": "entity:big-joe-williams",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Victoria Spivey and Big Joe Williams in the same recording context. The precise session details await independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-big-joe-williams",
+    "source:wikipedia-biography-victoria-spivey"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (big-joe-williams@1345893041:7, victoria-spivey@1337538840:14). Verify the cited page context and an independent source before review."
+}

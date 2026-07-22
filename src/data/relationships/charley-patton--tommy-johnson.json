@@ -1,0 +1,20 @@
+{
+  "id": "relationship:prototype:014",
+  "slug": "charley-patton--tommy-johnson",
+  "entityAId": "entity:charley-patton",
+  "entityBId": "entity:tommy-johnson",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "interpretive_or_debated",
+  "explanation": "Prototype note retained for editorial review: “regional style.”",
+  "citationIds": [],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "The prototype supplied a generic directed influence link. Semantic type and evidence remain unassessed.",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalRelationshipType": "generic_influence",
+    "originalNote": "regional style"
+  }
+}

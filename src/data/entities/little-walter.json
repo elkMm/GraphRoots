@@ -1,0 +1,25 @@
+{
+  "id": "entity:little-walter",
+  "slug": "little-walter",
+  "name": "Little Walter",
+  "entityType": "artist",
+  "summary": "Revolutionized amplified blues harmonica, turning it into a lead instrument and shaping every electric harp player after him.",
+  "dateDisplay": "1930 – 1968",
+  "regions": ["Louisiana → Chicago"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "dkbfvLYxgXc",
+    "title": "My Babe",
+    "sourceUrl": "https://www.youtube.com/watch?v=dkbfvLYxgXc",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "little_walter",
+    "originalEra": "chicago"
+  }
+}

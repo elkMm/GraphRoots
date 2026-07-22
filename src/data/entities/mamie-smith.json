@@ -1,0 +1,25 @@
+{
+  "id": "entity:mamie-smith",
+  "slug": "mamie-smith",
+  "name": "Mamie Smith",
+  "entityType": "artist",
+  "summary": "Mamie Smith was a blues singer, bandleader and jazz musician.",
+  "dateDisplay": "1883 – 1946",
+  "regions": ["United States"],
+  "styles": ["Blues", "Classic Female Blues"],
+  "roles": ["Singer", "Bandleader", "Jazz Musician", "Pianist"],
+  "instruments": ["Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-mamie-smith",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:school-of-rock-history-blues"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "qaz4Ziw_CfQ",
+    "title": "Mamie Smith - Crazy Blues (1920)",
+    "sourceUrl": "https://www.youtube.com/watch?v=qaz4Ziw_CfQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

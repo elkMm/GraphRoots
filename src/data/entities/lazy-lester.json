@@ -1,0 +1,24 @@
+{
+  "id": "entity:lazy-lester",
+  "slug": "lazy-lester",
+  "name": "Lazy Lester",
+  "entityType": "artist",
+  "summary": "Lazy Lester was a blues musician, singer and songwriter.",
+  "dateDisplay": "1933 – 2018",
+  "regions": ["United States"],
+  "styles": ["Blues", "Swamp Blues"],
+  "roles": ["Musician", "Singer", "Songwriter", "Multi-Instrumentalist"],
+  "instruments": ["Guitar", "Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-lazy-lester",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "riI0pThe41U",
+    "title": "Courtroom Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=riI0pThe41U",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

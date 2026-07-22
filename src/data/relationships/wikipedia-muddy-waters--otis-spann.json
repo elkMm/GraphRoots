@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-muddy-waters--otis-spann",
+  "slug": "wikipedia-muddy-waters--otis-spann",
+  "entityAId": "entity:muddy-waters",
+  "entityBId": "entity:otis-spann",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Muddy Waters and Otis Spann in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-muddy-waters",
+    "source:wikipedia-biography-otis-spann"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (muddy-waters@1358783077:12, muddy-waters@1358783077:3, otis-spann@1360080351:4). Verify the cited page context and an independent source before review."
+}

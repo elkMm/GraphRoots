@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-brownie-mcghee--champion-jack-dupree",
+  "slug": "wikipedia-brownie-mcghee--champion-jack-dupree",
+  "entityAId": "entity:brownie-mcghee",
+  "entityBId": "entity:champion-jack-dupree",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Brownie McGhee and Champion Jack Dupree in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-brownie-mcghee"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (brownie-mcghee@1321286331:5). Verify the cited page context and an independent source before review."
+}

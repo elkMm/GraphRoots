@@ -1,0 +1,23 @@
+{
+  "id": "entity:dexter-allen",
+  "slug": "dexter-allen",
+  "name": "Dexter Allen",
+  "entityType": "artist",
+  "summary": "Dexter Allen is a blues singer and guitarist.",
+  "dateDisplay": "1970 –",
+  "regions": [],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Guitarist"],
+  "sourceIds": [
+    "source:encyclopedia-dexter-allen",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "msDhBkTE-y8",
+    "title": "Put Your Bluez On Me",
+    "sourceUrl": "https://www.youtube.com/watch?v=msDhBkTE-y8",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entity:charlie-musselwhite",
+  "slug": "charlie-musselwhite",
+  "name": "Charlie Musselwhite",
+  "entityType": "artist",
+  "summary": "Charlie Musselwhite is a blues musician, bandleader and singer.",
+  "dateDisplay": "1944 –",
+  "regions": ["United States"],
+  "styles": ["Blues", "Blues Rock", "Country Blues"],
+  "roles": ["Musician", "Bandleader", "Singer", "Songwriter"],
+  "instruments": ["Harmonica", "Guitar", "Voice", "Harp"],
+  "sourceIds": [
+    "source:encyclopedia-charlie-musselwhite",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "ltYPkrYY5d4",
+    "title": "Ben Harper, Charlie Musselwhite - I'm In I'm Out And I'm Gone",
+    "sourceUrl": "https://www.youtube.com/watch?v=ltYPkrYY5d4",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "entity:brownie-mcghee",
+  "slug": "brownie-mcghee",
+  "name": "Brownie McGhee",
+  "entityType": "artist",
+  "summary": "Tennessee-born singer-guitarist whose Piedmont blues career included a decades-long recording and performance partnership with Sonny Terry.",
+  "dateDisplay": "1915 – 1996",
+  "regions": ["Tennessee", "North Carolina", "New York"],
+  "styles": ["Piedmont blues", "Country blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:brownie-mcghee-blues-foundation"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "X5CbhXaQtKc",
+    "title": "Better Day",
+    "sourceUrl": "https://www.youtube.com/watch?v=X5CbhXaQtKc",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

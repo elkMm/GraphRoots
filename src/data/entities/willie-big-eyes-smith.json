@@ -1,0 +1,24 @@
+{
+  "id": "entity:willie-big-eyes-smith",
+  "slug": "willie-big-eyes-smith",
+  "name": "Willie \"Big Eyes\" Smith",
+  "aliases": ["Willie Lee Smith"],
+  "entityType": "artist",
+  "summary": "American electric blues vocalist, harmonica player, drummer, bandleader, and composer associated with Chicago blues.",
+  "activeStart": 1954,
+  "activeEnd": 2011,
+  "dateDisplay": "1936 – 2011",
+  "regions": ["Chicago, Illinois", "Helena, Arkansas"],
+  "styles": ["Electric blues", "Chicago blues"],
+  "roles": ["Singer", "Musician", "Bandleader", "Composer"],
+  "instruments": ["Harmonica", "Drums", "Voice"],
+  "sourceIds": ["source:encyclopedia-willie-big-eyes-smith"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "2cJ7krFYflY",
+    "title": "Hoodoo Man Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=2cJ7krFYflY",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

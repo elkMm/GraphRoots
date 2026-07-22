@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:012",
+  "slug": "willie-dixon--billy-branch",
+  "entityAId": "entity:willie-dixon",
+  "entityBId": "entity:billy-branch",
+  "relationshipType": "mentored",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Branch's official biography credits Willie Dixon with discovering him and drawing him into the New Generation of Chicago Blues.",
+  "citationIds": ["source:billy-branch-official-bio"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

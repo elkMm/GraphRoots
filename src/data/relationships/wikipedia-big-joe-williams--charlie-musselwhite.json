@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-big-joe-williams--charlie-musselwhite",
+  "slug": "wikipedia-big-joe-williams--charlie-musselwhite",
+  "entityAId": "entity:big-joe-williams",
+  "entityBId": "entity:charlie-musselwhite",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Big Joe Williams and Charlie Musselwhite in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-big-joe-williams",
+    "source:wikipedia-biography-charlie-musselwhite"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (big-joe-williams@1345893041:11, charlie-musselwhite@1362862151:5). Verify the cited page context and an independent source before review."
+}

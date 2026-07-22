@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-robert-cray--ted-hawkins",
+  "slug": "wikipedia-robert-cray--ted-hawkins",
+  "entityAId": "entity:robert-cray",
+  "entityBId": "entity:ted-hawkins",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Robert Cray and Ted Hawkins in the same recording context. The precise session details await independent review.",
+  "citationIds": ["source:wikipedia-biography-robert-cray"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (robert-cray@1359099407:5). Verify the cited page context and an independent source before review."
+}

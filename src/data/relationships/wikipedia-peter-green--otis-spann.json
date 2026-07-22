@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-peter-green--otis-spann",
+  "slug": "wikipedia-peter-green--otis-spann",
+  "entityAId": "entity:peter-green",
+  "entityBId": "entity:otis-spann",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Peter Green and Otis Spann in the same recording context. The precise session details await independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-otis-spann",
+    "source:wikipedia-biography-peter-green"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (otis-spann@1360080351:6, peter-green@1349687750:10). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:006",
+  "slug": "little-jimmy-king--eric-gales",
+  "entityAId": "entity:little-jimmy-king",
+  "entityBId": "entity:eric-gales",
+  "relationshipType": "mentored",
+  "orientation": "directed",
+  "evidenceCategory": "directly_documented",
+  "explanation": "Eric Gales credits his older brother Little Jimmy King with showing him the musical foundations that started his guitar development.",
+  "citationIds": ["source:eric-gales-ljk-interview-2026"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

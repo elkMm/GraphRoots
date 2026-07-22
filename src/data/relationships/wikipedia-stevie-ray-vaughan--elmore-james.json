@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-stevie-ray-vaughan--elmore-james",
+  "slug": "wikipedia-stevie-ray-vaughan--elmore-james",
+  "entityAId": "entity:stevie-ray-vaughan",
+  "entityBId": "entity:elmore-james",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Stevie Ray Vaughan and Elmore James in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-stevie-ray-vaughan"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (stevie-ray-vaughan@1362769850:37). Verify the cited page context and an independent source before review."
+}

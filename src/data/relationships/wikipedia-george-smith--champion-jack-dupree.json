@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-george-smith--champion-jack-dupree",
+  "slug": "wikipedia-george-smith--champion-jack-dupree",
+  "entityAId": "entity:george-smith",
+  "entityBId": "entity:champion-jack-dupree",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places George Smith and Champion Jack Dupree in the same recording context. The precise session details await independent review.",
+  "citationIds": ["source:wikipedia-biography-george-smith"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (george-smith@1358641283:3). Verify the cited page context and an independent source before review."
+}

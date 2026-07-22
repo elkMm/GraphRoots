@@ -1,0 +1,24 @@
+{
+  "id": "entity:jack-owens",
+  "slug": "jack-owens",
+  "name": "Jack Owens",
+  "aliases": ["L. F. Nelson"],
+  "entityType": "artist",
+  "summary": "American blues singer, guitarist, and songwriter associated with the Bentonia tradition in Mississippi.",
+  "activeStart": 1970,
+  "activeEnd": 1997,
+  "dateDisplay": "1904 – 1997",
+  "regions": ["Bentonia, Mississippi", "Mississippi Delta"],
+  "styles": ["Delta blues", "Bentonia blues", "Country blues"],
+  "roles": ["Musician", "Songwriter"],
+  "instruments": ["Voice", "Guitar", "Piano", "Fife", "Fiddle"],
+  "sourceIds": ["source:encyclopedia-jack-owens"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "NcpU1SQtt44",
+    "title": "Jack Owens & Bud Spires: Catfish Blues (1978)",
+    "sourceUrl": "https://www.youtube.com/watch?v=NcpU1SQtt44",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

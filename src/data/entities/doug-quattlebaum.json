@@ -1,0 +1,24 @@
+{
+  "id": "entity:doug-quattlebaum",
+  "slug": "doug-quattlebaum",
+  "name": "Doug Quattlebaum",
+  "entityType": "artist",
+  "summary": "Doug Quattlebaum was a blues singer.",
+  "dateDisplay": "1929 – 1996",
+  "regions": [],
+  "styles": ["Blues"],
+  "roles": ["Singer"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-doug-quattlebaum",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "2IFj2SEjo48",
+    "title": "Come Back, Baby",
+    "sourceUrl": "https://www.youtube.com/watch?v=2IFj2SEjo48",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

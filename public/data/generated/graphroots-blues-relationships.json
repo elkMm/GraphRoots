@@ -1,0 +1,712 @@
+{
+  "metadata": {
+    "corpusVersion": "0.7.1",
+    "generatedAt": "2026-07-22T19:24:54.796Z",
+    "license": {
+      "id": "NOASSERTION",
+      "name": "No public data license has been asserted yet"
+    },
+    "methodologyUrl": "/methodology"
+  },
+  "records": [
+    {
+      "id": "relationship:research:002",
+      "slug": "albert-king--christone-kingfish-ingram",
+      "entityAId": "entity:albert-king",
+      "entityBId": "entity:christone-kingfish-ingram",
+      "relationshipType": "influenced_style",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Ingram's official biography names Albert King as one of the guitarists whose tones shaped his playing.",
+      "citationIds": [
+        "source:kingfish-official-bio"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:001",
+      "slug": "bb-king--christone-kingfish-ingram",
+      "entityAId": "entity:bb-king",
+      "entityBId": "entity:christone-kingfish-ingram",
+      "relationshipType": "influenced_style",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Ingram's official biography describes his guitar playing as steeped in B.B. King's tones.",
+      "citationIds": [
+        "source:kingfish-official-bio"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:036",
+      "slug": "bb-king--dk-harrell",
+      "entityAId": "entity:bb-king",
+      "entityBId": "entity:dk-harrell",
+      "relationshipType": "influenced_style",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Harrell's label biography documents his close study of B.B. King's tone, phrasing, stagecraft and band leadership.",
+      "citationIds": [
+        "source:dk-harrell-alligator"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:007",
+      "slug": "bb-king--joe-bonamassa",
+      "entityAId": "entity:bb-king",
+      "entityBId": "entity:joe-bonamassa",
+      "relationshipType": "mentored",
+      "orientation": "directed",
+      "evidenceCategory": "directly_documented",
+      "explanation": "Bonamassa directly identifies B.B. King as a mentor and traces their relationship to his childhood opening performance for King.",
+      "citationIds": [
+        "source:joe-bonamassa-bb-king-interview",
+        "source:joe-bonamassa-official-bio"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:018",
+      "slug": "bessie-smith--koko-taylor",
+      "entityAId": "entity:bessie-smith",
+      "entityBId": "entity:koko-taylor",
+      "relationshipType": "influenced_style",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "The Blues Foundation identifies Bessie Smith among the strongest influences on Koko Taylor's singing.",
+      "citationIds": [
+        "source:koko-taylor-blues-foundation"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:019",
+      "slug": "big-mama-thornton--koko-taylor",
+      "entityAId": "entity:big-mama-thornton",
+      "entityBId": "entity:koko-taylor",
+      "relationshipType": "influenced_style",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "The Blues Foundation identifies Big Mama Thornton among the strongest influences on Koko Taylor's singing.",
+      "citationIds": [
+        "source:koko-taylor-blues-foundation"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:039",
+      "slug": "blind-willie-johnson--led-zeppelin",
+      "entityAId": "entity:blind-willie-johnson",
+      "entityBId": "entity:led-zeppelin",
+      "relationshipType": "covered_work_by",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Led Zeppelin recorded Nobody's Fault but Mine, drawing from the song Blind Willie Johnson first recorded in 1927.",
+      "citationIds": [
+        "source:blind-willie-johnson-pitt-dissertation"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:025",
+      "slug": "bonnie-raitt--sippie-wallace",
+      "entityAId": "entity:bonnie-raitt",
+      "entityBId": "entity:sippie-wallace",
+      "relationshipType": "revived_or_reintroduced",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Bonnie Raitt recorded Wallace's songs, performed with her, and helped bring renewed attention to Wallace's work and later career.",
+      "citationIds": [
+        "source:sippie-wallace-blues-foundation"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:014",
+      "slug": "buddy-guy--ally-venable",
+      "entityAId": "entity:buddy-guy",
+      "entityBId": "entity:ally-venable",
+      "relationshipType": "recorded_with",
+      "orientation": "symmetric",
+      "evidenceCategory": "directly_documented",
+      "explanation": "Buddy Guy joined Ally Venable for the recorded duet Texas Louisiana on her album Real Gone.",
+      "citationIds": [
+        "source:ally-venable-official-bio"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:003",
+      "slug": "buddy-guy--christone-kingfish-ingram",
+      "entityAId": "entity:buddy-guy",
+      "entityBId": "entity:christone-kingfish-ingram",
+      "relationshipType": "influenced_style",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Ingram's official biography identifies Buddy Guy's guitar vocabulary as a foundation of his own playing.",
+      "citationIds": [
+        "source:kingfish-official-bio"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:009",
+      "slug": "cedric-burnside--rl-burnside",
+      "entityAId": "entity:cedric-burnside",
+      "entityBId": "entity:rl-burnside",
+      "relationshipType": "performed_with",
+      "orientation": "symmetric",
+      "evidenceCategory": "directly_documented",
+      "explanation": "Cedric Burnside's official biography records that he went on the road at thirteen as drummer for his grandfather R.L. Burnside.",
+      "citationIds": [
+        "source:cedric-burnside-official-bio"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:016",
+      "slug": "christone-kingfish-ingram--ally-venable",
+      "entityAId": "entity:christone-kingfish-ingram",
+      "entityBId": "entity:ally-venable",
+      "relationshipType": "recorded_with",
+      "orientation": "symmetric",
+      "evidenceCategory": "directly_documented",
+      "explanation": "Christone “Kingfish” Ingram contributed guest guitar to Ally Venable's recorded track Bring on the Pain.",
+      "citationIds": [
+        "source:ally-venable-official-bio"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:eric-clapton--yardbirds",
+      "slug": "eric-clapton--yardbirds",
+      "entityAId": "entity:eric-clapton",
+      "entityBId": "entity:yardbirds",
+      "relationshipType": "member_of",
+      "orientation": "directed",
+      "evidenceCategory": "directly_documented",
+      "title": "Eric Clapton was a member of the Yardbirds",
+      "explanation": "Eric Clapton's official biography states that the Yardbirds recruited him in October 1963 and describes an 18-month tenure.",
+      "startYear": 1963,
+      "endYear": 1965,
+      "dateDisplay": "October 1963 – March 1965",
+      "citationIds": [
+        "source:eric-clapton-official-about"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-21"
+    },
+    {
+      "id": "relationship:research:004",
+      "slug": "eric-gales--christone-kingfish-ingram",
+      "entityAId": "entity:eric-gales",
+      "entityBId": "entity:christone-kingfish-ingram",
+      "relationshipType": "influenced_style",
+      "orientation": "directed",
+      "evidenceCategory": "directly_documented",
+      "explanation": "In a direct interview, Ingram explains that watching Eric Gales pushed him toward a wider blues-rock vocabulary and specific guitar techniques.",
+      "citationIds": [
+        "source:kingfish-guitar-world-2026"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:023",
+      "slug": "howlin-wolf--james-cotton",
+      "entityAId": "entity:howlin-wolf",
+      "entityBId": "entity:james-cotton",
+      "relationshipType": "recorded_with",
+      "orientation": "symmetric",
+      "evidenceCategory": "directly_documented",
+      "explanation": "James Cotton played harmonica on a 1952 Howlin’ Wolf recording for Chess, directly documenting their studio collaboration.",
+      "citationIds": [
+        "source:james-cotton-blues-foundation"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:031",
+      "slug": "jimmy-reed--john-hammond",
+      "entityAId": "entity:jimmy-reed",
+      "entityBId": "entity:john-hammond",
+      "relationshipType": "influenced_style",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "The Blues Foundation biography identifies hearing Jimmy Reed as a formative inspiration in Hammond's turn toward blues performance.",
+      "citationIds": [
+        "source:john-hammond-blues-foundation"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:015",
+      "slug": "joe-bonamassa--ally-venable",
+      "entityAId": "entity:joe-bonamassa",
+      "entityBId": "entity:ally-venable",
+      "relationshipType": "recorded_with",
+      "orientation": "symmetric",
+      "evidenceCategory": "directly_documented",
+      "explanation": "Joe Bonamassa appears as a guest guitarist and vocalist on Ally Venable's recorded track Broken and Blue.",
+      "citationIds": [
+        "source:ally-venable-official-bio"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:008",
+      "slug": "johnny-copeland--shemekia-copeland",
+      "entityAId": "entity:johnny-copeland",
+      "entityBId": "entity:shemekia-copeland",
+      "relationshipType": "mentored",
+      "orientation": "directed",
+      "evidenceCategory": "directly_documented",
+      "explanation": "Shemekia Copeland describes touring with her father Johnny Copeland and learning from him during those formative years.",
+      "citationIds": [
+        "source:shemekia-copeland-knkx-interview",
+        "source:johnny-copeland-alligator"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:035",
+      "slug": "keb-mo--jontavious-willis",
+      "entityAId": "entity:keb-mo",
+      "entityBId": "entity:jontavious-willis",
+      "relationshipType": "mentored",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Music Maker Foundation identifies Keb’ Mo’ as a major mentor who supported Willis's development and recorded work.",
+      "citationIds": [
+        "source:jontavious-willis-music-maker"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:011",
+      "slug": "keb-mo--taj-mahal",
+      "entityAId": "entity:keb-mo",
+      "entityBId": "entity:taj-mahal",
+      "relationshipType": "learned_from",
+      "orientation": "directed",
+      "evidenceCategory": "directly_documented",
+      "explanation": "Keb’ Mo’ directly identifies Taj Mahal as his most important mentor and a model for expanding blues across musical traditions.",
+      "citationIds": [
+        "source:keb-mo-grammy-interview"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:017",
+      "slug": "kenny-wayne-shepherd--ally-venable",
+      "entityAId": "entity:kenny-wayne-shepherd",
+      "entityBId": "entity:ally-venable",
+      "relationshipType": "mentored",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Venable's official biography identifies Kenny Wayne Shepherd as a mentor in her development as a blues-rock guitarist.",
+      "citationIds": [
+        "source:ally-venable-official-bio"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:kora-ngoni--field-hollers",
+      "slug": "kora-ngoni--field-hollers",
+      "entityAId": "entity:kora-ngoni",
+      "entityBId": "entity:field-hollers",
+      "relationshipType": "historical_parallel",
+      "orientation": "symmetric",
+      "evidenceCategory": "interpretive_or_debated",
+      "title": "A proposed West African string-tradition parallel",
+      "explanation": "This record proposes string-bending and buzzing-tone parallels between West African string traditions and field hollers. Smithsonian Folkways supports a broader connection between West African musical traditions and field hollers, but does not establish this specific mechanism or a direct unbroken lineage.",
+      "citationIds": [
+        "source:smithsonian-before-the-blues"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "contested",
+      "lastReviewed": "2026-07-21"
+    },
+    {
+      "id": "relationship:research:032",
+      "slug": "lightnin-hopkins--christone-kingfish-ingram",
+      "entityAId": "entity:lightnin-hopkins",
+      "entityBId": "entity:christone-kingfish-ingram",
+      "relationshipType": "influenced_style",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "The City of Clarksdale artist profile lists Lightnin’ Hopkins among Ingram's named blues influences.",
+      "citationIds": [
+        "source:city-clarksdale-kingfish"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:005",
+      "slug": "little-jimmy-king--christone-kingfish-ingram",
+      "entityAId": "entity:little-jimmy-king",
+      "entityBId": "entity:christone-kingfish-ingram",
+      "relationshipType": "influenced_style",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "The City of Clarksdale artist profile includes Little Jimmy King among Ingram's named musical influences.",
+      "citationIds": [
+        "source:city-clarksdale-kingfish"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:006",
+      "slug": "little-jimmy-king--eric-gales",
+      "entityAId": "entity:little-jimmy-king",
+      "entityBId": "entity:eric-gales",
+      "relationshipType": "mentored",
+      "orientation": "directed",
+      "evidenceCategory": "directly_documented",
+      "explanation": "Eric Gales credits his older brother Little Jimmy King with showing him the musical foundations that started his guitar development.",
+      "citationIds": [
+        "source:eric-gales-ljk-interview-2026"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:033",
+      "slug": "mississippi-fred-mcdowell--rl-burnside",
+      "entityAId": "entity:mississippi-fred-mcdowell",
+      "entityBId": "entity:rl-burnside",
+      "relationshipType": "influenced_style",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Mississippi heritage and Blues Foundation sources identify McDowell's guitar playing as formative to Burnside's Hill Country style.",
+      "citationIds": [
+        "source:fred-mcdowell-ms-blues-trail",
+        "source:rl-burnside-blues-foundation"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:024",
+      "slug": "muddy-waters--james-cotton",
+      "entityAId": "entity:muddy-waters",
+      "entityBId": "entity:james-cotton",
+      "relationshipType": "performed_with",
+      "orientation": "symmetric",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Muddy Waters hired James Cotton in 1954, and Cotton remained a performing member of Waters's band for twelve years.",
+      "citationIds": [
+        "source:james-cotton-blues-foundation"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:027",
+      "slug": "robert-cray--albert-collins",
+      "entityAId": "entity:robert-cray",
+      "entityBId": "entity:albert-collins",
+      "relationshipType": "recorded_with",
+      "orientation": "symmetric",
+      "evidenceCategory": "directly_documented",
+      "explanation": "Robert Cray and Albert Collins recorded together on the collaborative 1985 album Showdown!.",
+      "citationIds": [
+        "source:robert-cray-blues-foundation"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:028",
+      "slug": "robert-cray--johnny-copeland",
+      "entityAId": "entity:robert-cray",
+      "entityBId": "entity:johnny-copeland",
+      "relationshipType": "recorded_with",
+      "orientation": "symmetric",
+      "evidenceCategory": "directly_documented",
+      "explanation": "Robert Cray and Johnny Copeland recorded together on the collaborative 1985 album Showdown!.",
+      "citationIds": [
+        "source:robert-cray-blues-foundation"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:038",
+      "slug": "robert-johnson--gare-du-nord",
+      "entityAId": "entity:robert-johnson",
+      "entityBId": "entity:gare-du-nord",
+      "relationshipType": "covered_work_by",
+      "orientation": "directed",
+      "evidenceCategory": "directly_documented",
+      "explanation": "Gare du Nord's official history states that Pablo's Blues was built around Robert Johnson's Come On in My Kitchen.",
+      "citationIds": [
+        "source:gare-du-nord-official-about"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:013",
+      "slug": "samantha-fish--jesse-dayton",
+      "entityAId": "entity:samantha-fish",
+      "entityBId": "entity:jesse-dayton",
+      "relationshipType": "recorded_with",
+      "orientation": "symmetric",
+      "evidenceCategory": "directly_documented",
+      "explanation": "Fish and Dayton co-wrote and recorded the collaborative album Death Wish Blues.",
+      "citationIds": [
+        "source:samantha-fish-official-bio",
+        "source:jesse-dayton-official-bio"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:020",
+      "slug": "sister-rosetta-tharpe--chuck-berry",
+      "entityAId": "entity:sister-rosetta-tharpe",
+      "entityBId": "entity:chuck-berry",
+      "relationshipType": "influenced_style",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "The Smithsonian identifies Tharpe's amplified guitar style as an influence on Chuck Berry's later rock-and-roll playing.",
+      "citationIds": [
+        "source:sister-rosetta-smithsonian"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:021",
+      "slug": "sister-rosetta-tharpe--little-richard",
+      "entityAId": "entity:sister-rosetta-tharpe",
+      "entityBId": "entity:little-richard",
+      "relationshipType": "influenced_style",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "The Smithsonian documents Sister Rosetta Tharpe as an inspiration for Little Richard's emerging performance style.",
+      "citationIds": [
+        "source:sister-rosetta-smithsonian"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:skip-james--cream",
+      "slug": "skip-james--cream",
+      "entityAId": "entity:skip-james",
+      "entityBId": "entity:cream",
+      "relationshipType": "covered_work_by",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Cream recorded Skip James's I'm So Glad for the group's 1966 debut album, bringing the composition to a much wider audience.",
+      "citationIds": [
+        "source:skip-james-mississippi-encyclopedia"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:son-house--muddy-waters",
+      "slug": "son-house--muddy-waters",
+      "entityAId": "entity:son-house",
+      "entityBId": "entity:muddy-waters",
+      "relationshipType": "mentored",
+      "orientation": "directed",
+      "evidenceCategory": "directly_documented",
+      "title": "Son House taught Muddy Waters",
+      "explanation": "The Library of Congress identifies Son House as having taught the young McKinley Morganfield, later known as Muddy Waters.",
+      "citationIds": [
+        "source:loc-songs-america-blues"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-21"
+    },
+    {
+      "id": "relationship:research:022",
+      "slug": "sonny-boy-williamson-ii--james-cotton",
+      "entityAId": "entity:sonny-boy-williamson-ii",
+      "entityBId": "entity:james-cotton",
+      "relationshipType": "mentored",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Sonny Boy Williamson II took the young James Cotton into his home and taught him harmonica technique and performance practice.",
+      "citationIds": [
+        "source:james-cotton-blues-foundation"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:029",
+      "slug": "sonny-terry--brownie-mcghee",
+      "entityAId": "entity:sonny-terry",
+      "entityBId": "entity:brownie-mcghee",
+      "relationshipType": "recorded_with",
+      "orientation": "symmetric",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Sonny Terry and Brownie McGhee maintained a decades-long partnership across recordings, concerts, radio, stage and film work.",
+      "citationIds": [
+        "source:sonny-terry-blues-foundation",
+        "source:brownie-mcghee-blues-foundation"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:030",
+      "slug": "sonny-terry--lightnin-hopkins",
+      "entityAId": "entity:sonny-terry",
+      "entityBId": "entity:lightnin-hopkins",
+      "relationshipType": "recorded_with",
+      "orientation": "symmetric",
+      "evidenceCategory": "directly_documented",
+      "explanation": "The Blues Foundation documents Sonny Terry's recording sessions with Texas singer-guitarist Lightnin’ Hopkins.",
+      "citationIds": [
+        "source:sonny-terry-blues-foundation"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:037",
+      "slug": "stevie-ray-vaughan--john-mayer",
+      "entityAId": "entity:stevie-ray-vaughan",
+      "entityBId": "entity:john-mayer",
+      "relationshipType": "influenced_style",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Berklee's profile identifies Stevie Ray Vaughan as the formative model for Mayer's early blues guitar study.",
+      "citationIds": [
+        "source:john-mayer-berklee-profile"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:034",
+      "slug": "taj-mahal--jontavious-willis",
+      "entityAId": "entity:taj-mahal",
+      "entityBId": "entity:jontavious-willis",
+      "relationshipType": "mentored",
+      "orientation": "directed",
+      "evidenceCategory": "directly_documented",
+      "explanation": "Willis directly describes Taj Mahal becoming his mentor after hearing him perform and bringing him into professional touring contexts.",
+      "citationIds": [
+        "source:jontavious-willis-interview"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:010",
+      "slug": "taj-mahal--keb-mo",
+      "entityAId": "entity:taj-mahal",
+      "entityBId": "entity:keb-mo",
+      "relationshipType": "recorded_with",
+      "orientation": "symmetric",
+      "evidenceCategory": "directly_documented",
+      "explanation": "Taj Mahal and Keb’ Mo’ jointly recorded and co-produced the collaborative album TajMo and continued the partnership in performance.",
+      "citationIds": [
+        "source:tajmo-official"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:026",
+      "slug": "victoria-spivey--sippie-wallace",
+      "entityAId": "entity:victoria-spivey",
+      "entityBId": "entity:sippie-wallace",
+      "relationshipType": "revived_or_reintroduced",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Victoria Spivey encouraged Wallace's mid-1960s return to blues recording and public performance.",
+      "citationIds": [
+        "source:sippie-wallace-blues-foundation"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "relationship:research:012",
+      "slug": "willie-dixon--billy-branch",
+      "entityAId": "entity:willie-dixon",
+      "entityBId": "entity:billy-branch",
+      "relationshipType": "mentored",
+      "orientation": "directed",
+      "evidenceCategory": "contextual_or_inferential",
+      "explanation": "Branch's official biography credits Willie Dixon with discovering him and drawing him into the New Generation of Chicago Blues.",
+      "citationIds": [
+        "source:billy-branch-official-bio"
+      ],
+      "reviewStatus": "reviewed",
+      "disputeStatus": "none",
+      "lastReviewed": "2026-07-22"
+    }
+  ]
+}

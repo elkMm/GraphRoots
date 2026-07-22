@@ -1,0 +1,25 @@
+{
+  "id": "entity:tommy-johnson",
+  "slug": "tommy-johnson",
+  "name": "Tommy Johnson",
+  "entityType": "artist",
+  "summary": "Known for a falsetto break and the 'Crossroads' myth later attached to Robert Johnson; influential on the North Mississippi hill-country sound.",
+  "dateDisplay": "c. 1896 – 1956",
+  "regions": ["Mississippi"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "RHw1ugBLS5g",
+    "title": "Canned Heat Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=RHw1ugBLS5g",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "tommy_johnson",
+    "originalEra": "delta"
+  }
+}

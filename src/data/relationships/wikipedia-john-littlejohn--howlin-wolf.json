@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-john-littlejohn--howlin-wolf",
+  "slug": "wikipedia-john-littlejohn--howlin-wolf",
+  "entityAId": "entity:john-littlejohn",
+  "entityBId": "entity:howlin-wolf",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects John Littlejohn and Howlin' Wolf in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-john-littlejohn"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (john-littlejohn@1351736234:3). Verify the cited page context and an independent source before review."
+}

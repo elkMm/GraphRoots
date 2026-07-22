@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-jim-jackson--speckled-red",
+  "slug": "wikipedia-jim-jackson--speckled-red",
+  "entityAId": "entity:jim-jackson",
+  "entityBId": "entity:speckled-red",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Jim Jackson and Speckled Red in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-jim-jackson"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (jim-jackson@1355595683:5). Verify the cited page context and an independent source before review."
+}

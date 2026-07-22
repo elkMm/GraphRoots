@@ -1,0 +1,24 @@
+{
+  "id": "entity:thornetta-davis",
+  "slug": "thornetta-davis",
+  "name": "Thornetta Davis",
+  "entityType": "artist",
+  "summary": "Thornetta Davis is a blues singer and musician.",
+  "dateDisplay": "1963 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Musician"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-thornetta-davis",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "2LZ6ZgKo2qo",
+    "title": "\"I BELIEVE\" EVERYTHING GONNA BE ALRIGHT - Thornetta Davis (Detroit's Queen of the Blues)",
+    "sourceUrl": "https://www.youtube.com/watch?v=2LZ6ZgKo2qo",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

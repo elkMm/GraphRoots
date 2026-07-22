@@ -1,0 +1,25 @@
+{
+  "id": "entity:earl-king",
+  "slug": "earl-king",
+  "name": "Earl King",
+  "entityType": "artist",
+  "summary": "Earl King was a blues singer-songwriter, songwriter and composer.",
+  "dateDisplay": "1934 – 2003",
+  "regions": ["United States"],
+  "styles": ["Blues", "Rhythm And Blues"],
+  "roles": ["Singer-Songwriter", "Songwriter", "Composer", "Guitarist"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-earl-king",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:school-of-rock-history-blues"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "KkkI5GbvpSY",
+    "title": "Trick Bag",
+    "sourceUrl": "https://www.youtube.com/watch?v=KkkI5GbvpSY",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

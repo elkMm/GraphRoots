@@ -1,0 +1,24 @@
+{
+  "id": "entity:phil-guy",
+  "slug": "phil-guy",
+  "name": "Phil Guy",
+  "entityType": "artist",
+  "summary": "Phil Guy was a blues musician.",
+  "dateDisplay": "1940 – 2008",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-phil-guy",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "EHEdBFFWyEQ",
+    "title": "Phil Guy - Fixin' To Die",
+    "sourceUrl": "https://www.youtube.com/watch?v=EHEdBFFWyEQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "entity:bob-margolin",
+  "slug": "bob-margolin",
+  "name": "Bob Margolin",
+  "entityType": "artist",
+  "summary": "Bob Margolin is a blues musician, guitarist and musician.",
+  "dateDisplay": "1949 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Guitarist", "Blues Musician"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-bob-margolin",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:blues-foundation-hall-of-fame"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "WxuaOptWU-w",
+    "title": "Bob Margolin - Chicago Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=WxuaOptWU-w",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entity:terry-garland",
+  "slug": "terry-garland",
+  "name": "Terry Garland",
+  "entityType": "artist",
+  "summary": "Terry Garland was a blues singer and songwriter.",
+  "dateDisplay": "1953 – 2021",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Songwriter"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-terry-garland",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "w3h6uGhgXKw",
+    "title": "Goin' Down Slow",
+    "sourceUrl": "https://www.youtube.com/watch?v=w3h6uGhgXKw",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

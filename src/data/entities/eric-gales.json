@@ -1,0 +1,22 @@
+{
+  "id": "entity:eric-gales",
+  "slug": "eric-gales",
+  "name": "Eric Gales",
+  "entityType": "artist",
+  "summary": "Memphis singer-guitarist whose blues-rock vocabulary and distinctive upside-down right-handed guitar approach developed within a musical family.",
+  "dateDisplay": "1974 –",
+  "regions": ["Memphis, Tennessee"],
+  "styles": ["Blues rock", "Electric blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:eric-gales-mascot-bio"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "hWczc9NPWLY",
+    "title": "Steep Climb",
+    "sourceUrl": "https://www.youtube.com/watch?v=hWczc9NPWLY",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

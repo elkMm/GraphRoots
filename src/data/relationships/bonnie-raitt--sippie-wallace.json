@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:025",
+  "slug": "bonnie-raitt--sippie-wallace",
+  "entityAId": "entity:bonnie-raitt",
+  "entityBId": "entity:sippie-wallace",
+  "relationshipType": "revived_or_reintroduced",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Bonnie Raitt recorded Wallace's songs, performed with her, and helped bring renewed attention to Wallace's work and later career.",
+  "citationIds": ["source:sippie-wallace-blues-foundation"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-good-rockin-charles--otis-big-smokey-smothers",
+  "slug": "wikipedia-good-rockin-charles--otis-big-smokey-smothers",
+  "entityAId": "entity:good-rockin-charles",
+  "entityBId": "entity:otis-big-smokey-smothers",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Good Rockin' Charles and Otis \"Big Smokey\" Smothers in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-good-rockin-charles"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (good-rockin-charles@1323795564:1). Verify the cited page context and an independent source before review."
+}

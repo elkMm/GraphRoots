@@ -1,0 +1,39 @@
+---
+import type { GetStaticPaths } from "astro";
+import RelationshipPage from "../../components/content/RelationshipPage.astro";
+import { loadCorpus } from "../../domain/corpus/load-corpus";
+import { getPublicCorpus } from "../../domain/corpus/public-records";
+
+export const getStaticPaths = (async () => {
+  const publicCorpus = getPublicCorpus(await loadCorpus());
+  const entityById = new Map(
+    publicCorpus.entities.map((entity) => [entity.id, entity]),
+  );
+  const sourceById = new Map(
+    publicCorpus.sources.map((source) => [source.id, source]),
+  );
+
+  return publicCorpus.relationships.map((relationship) => {
+    const entityA = entityById.get(relationship.entityAId);
+    const entityB = entityById.get(relationship.entityBId);
+    if (!entityA || !entityB)
+      throw new Error(`Unresolved relationship ${relationship.id}`);
+
+    return {
+      params: { slug: relationship.slug },
+      props: {
+        relationship,
+        entityA,
+        entityB,
+        citations: relationship.citationIds.map((citationId) => {
+          const citation = sourceById.get(citationId);
+          if (!citation) throw new Error(`Unresolved citation ${citationId}`);
+          return citation;
+        }),
+      },
+    };
+  });
+}) satisfies GetStaticPaths;
+---
+
+<RelationshipPage {...Astro.props} />

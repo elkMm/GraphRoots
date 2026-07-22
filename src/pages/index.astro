@@ -1,0 +1,198 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import GraphExplorer from "../components/graph/GraphExplorer.svelte";
+import { projectMetadata } from "../config/project";
+import { loadCorpus } from "../domain/corpus/load-corpus";
+import { getPublicCorpus } from "../domain/corpus/public-records";
+import { withBase } from "../domain/base-path";
+
+const corpus = await loadCorpus();
+const publicCorpus = getPublicCorpus(corpus);
+const reviewedRelationships = publicCorpus.relationships.filter(
+  (relationship) => relationship.reviewStatus === "reviewed",
+).length;
+const provisionalRelationships = corpus.relationships.filter(
+  (relationship) => relationship.reviewStatus === "provisional",
+).length;
+---
+
+<BaseLayout
+  title="GraphRoots"
+  description="Explore the roots, artists, scenes, and worldwide branches of Blues music through an interactive public network."
+  canonicalPath="/"
+>
+  <section class="hero shell">
+    <div>
+      <p class="eyebrow">{projectMetadata.attribution}</p>
+      <h1>Follow the roots and branches of the blues.</h1>
+      <p class="lede">
+        GraphRoots maps how artists, traditions, recordings, places, and scenes
+        shaped and carried the blues across generations and regions — from its
+        African musical roots and emergence in the American South to its
+        influence around the world.
+      </p>
+      <div class="actions">
+        <a class="button" href={withBase("/blues/explore")}>Explore Blues</a>
+        <a class="button secondary" href={withBase("/methodology")}
+          >Examine the method</a
+        >
+      </div>
+    </div>
+    <aside class="corpus-window" aria-label="Blues corpus overview">
+      <p class="eyebrow">Featured corpus</p>
+      <h2>Blues / Roots &amp; Branches</h2>
+      <p>
+        From traditions and regional scenes to electrification and transatlantic
+        circulation. This first slice prioritizes clarity and editorial review
+        while the corpus develops.
+      </p>
+      <dl>
+        <div><dt>Entities</dt><dd>{publicCorpus.entities.length}</dd></div>
+        <div>
+          <dt>Reviewed links</dt><dd>{reviewedRelationships}</dd>
+        </div>
+        <div>
+          <dt>Optional paths</dt><dd>{provisionalRelationships}</dd>
+        </div>
+        <div><dt>Corpus</dt><dd>v{corpus.metadata.version}</dd></div>
+      </dl>
+      <a href={withBase("/blues")}>Enter the Blues corpus →</a>
+    </aside>
+  </section>
+
+  <section class="network-feature" aria-labelledby="featured-network-heading">
+    <header class="shell network-heading">
+      <div>
+        <p class="eyebrow">Blues network</p>
+        <h2 id="featured-network-heading">Blues, connected.</h2>
+      </div>
+      <p>
+        Drag the nodes and select a name. Arrows mark directed claims; symmetric
+        relationships use arrowless links, and dashed provisional paths keep
+        less-certain connections visible without presenting them as reviewed.
+      </p>
+    </header>
+    <GraphExplorer
+      client:load
+      dataUrl={withBase("/data/generated/graphroots-blues-graph.json")}
+      displayMode="preview"
+    />
+  </section>
+
+  <section class="shell approach">
+    <p class="eyebrow">Three ways in</p>
+    <div class="cards">
+      <article class="card">
+        <h2>Explore</h2>
+        <p>
+          Search and navigate a typed network without treating every arrow as
+          the same claim.
+        </p>
+        <a href={withBase("/blues/explore")}>Open the network</a>
+      </article>
+      <article class="card">
+        <h2>Follow</h2>
+        <p>
+          Guided stories will connect people, places, scenes, and recordings
+          through reviewed paths.
+        </p>
+        <a href={withBase("/blues")}>See the first domain</a>
+      </article>
+      <article class="card">
+        <h2>Examine</h2>
+        <p>
+          Open permanent relationship pages to inspect evidence basis,
+          orientation, review status, disagreement, and citations.
+        </p>
+        <a href={withBase("/sources")}>Browse sources</a>
+      </article>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1.5fr) minmax(18rem, 0.65fr);
+    gap: clamp(2rem, 7vw, 7rem);
+    align-items: end;
+    padding-block: clamp(3rem, 7vw, 6rem);
+  }
+
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    margin-top: 2rem;
+  }
+
+  .corpus-window {
+    border: 1px solid var(--color-border);
+    padding: 1.5rem;
+    background: var(--color-surface);
+    box-shadow: var(--shadow);
+  }
+
+  .corpus-window h2,
+  .approach h2 {
+    margin-top: 0;
+    font-size: 2rem;
+  }
+
+  dl div {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--color-border);
+    padding-block: 0.55rem;
+  }
+
+  dt {
+    color: var(--color-text-muted);
+    font-family: var(--font-meta);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+  }
+
+  dd {
+    margin: 0;
+  }
+
+  .approach {
+    padding-block: 2rem 5rem;
+  }
+
+  .network-feature {
+    border-block: 1px solid var(--color-border);
+    background: var(--color-bg);
+  }
+
+  .network-heading {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: 2rem;
+    padding-block: 1.2rem;
+  }
+
+  .network-heading h2 {
+    margin: 0;
+    font-size: clamp(2rem, 5vw, 3.4rem);
+  }
+
+  .network-heading p:last-child {
+    max-width: 35rem;
+    margin: 0;
+    color: var(--color-text-muted);
+  }
+
+  @media (max-width: 48rem) {
+    .hero {
+      grid-template-columns: 1fr;
+    }
+
+    .network-heading {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+  }
+</style>

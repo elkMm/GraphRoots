@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-j-j-malone--sonny-rhodes",
+  "slug": "wikipedia-j-j-malone--sonny-rhodes",
+  "entityAId": "entity:j-j-malone",
+  "entityBId": "entity:sonny-rhodes",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects J.J. Malone and Sonny Rhodes in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-j-j-malone"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (j-j-malone@1319396409:2). Verify the cited page context and an independent source before review."
+}

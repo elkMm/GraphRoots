@@ -1,0 +1,23 @@
+{
+  "id": "entity:big-mama-thornton",
+  "slug": "big-mama-thornton",
+  "name": "Willie Mae “Big Mama” Thornton",
+  "aliases": ["Big Mama Thornton"],
+  "entityType": "artist",
+  "summary": "Alabama-born singer, songwriter, harmonica player and drummer whose forceful delivery shaped mid-century rhythm-and-blues and blues performance.",
+  "dateDisplay": "1926 – 1984",
+  "regions": ["Alabama", "Houston, Texas", "California"],
+  "styles": ["Rhythm and blues", "Electric blues"],
+  "roles": ["Singer", "Songwriter", "Harmonica player", "Drummer"],
+  "instruments": ["Harmonica", "Drums"],
+  "sourceIds": ["source:big-mama-thornton-blues-foundation"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "pam1eUkWfFM",
+    "title": "Hound Dog",
+    "sourceUrl": "https://www.youtube.com/watch?v=pam1eUkWfFM",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

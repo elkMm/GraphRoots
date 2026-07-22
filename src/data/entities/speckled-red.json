@@ -1,0 +1,24 @@
+{
+  "id": "entity:speckled-red",
+  "slug": "speckled-red",
+  "name": "Speckled Red",
+  "entityType": "artist",
+  "summary": "Speckled Red was a blues singer, jazz musician and pianist.",
+  "dateDisplay": "1892 – 1973",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Jazz Musician", "Pianist", "Composer"],
+  "instruments": ["Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-speckled-red",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "yZnkNHE3tMM",
+    "title": "Highway 61 Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=yZnkNHE3tMM",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

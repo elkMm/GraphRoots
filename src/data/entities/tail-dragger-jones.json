@@ -1,0 +1,24 @@
+{
+  "id": "entity:tail-dragger-jones",
+  "slug": "tail-dragger-jones",
+  "name": "Tail Dragger Jones",
+  "entityType": "artist",
+  "summary": "Tail Dragger Jones was a blues singer.",
+  "dateDisplay": "1940 – 2023",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-tail-dragger-jones",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "bIdl_SIyz8w",
+    "title": "Betty",
+    "sourceUrl": "https://www.youtube.com/watch?v=bIdl_SIyz8w",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

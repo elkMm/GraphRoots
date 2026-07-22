@@ -1,0 +1,25 @@
+{
+  "id": "entity:jimi-hendrix",
+  "slug": "jimi-hendrix",
+  "name": "Jimi Hendrix",
+  "entityType": "artist",
+  "summary": "Fused Delta and Chicago blues phrasing (via Muddy Waters, Buddy Guy, and Albert King) with feedback and psychedelia, redefining electric guitar for every generation after.",
+  "dateDisplay": "1942 – 1970",
+  "regions": ["Seattle → London"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "WGoDaYjdfSg",
+    "title": "Purple Haze",
+    "sourceUrl": "https://www.youtube.com/watch?v=WGoDaYjdfSg",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "jimi_hendrix",
+    "originalEra": "modern"
+  }
+}

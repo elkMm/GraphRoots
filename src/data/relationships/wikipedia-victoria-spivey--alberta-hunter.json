@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-victoria-spivey--alberta-hunter",
+  "slug": "wikipedia-victoria-spivey--alberta-hunter",
+  "entityAId": "entity:victoria-spivey",
+  "entityBId": "entity:alberta-hunter",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Victoria Spivey and Alberta Hunter in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-victoria-spivey"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (victoria-spivey@1337538840:9). Verify the cited page context and an independent source before review."
+}

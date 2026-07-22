@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-little-jimmy-king--bobby-bland",
+  "slug": "wikipedia-little-jimmy-king--bobby-bland",
+  "entityAId": "entity:little-jimmy-king",
+  "entityBId": "entity:bobby-bland",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Little Jimmy King and Bobby Bland in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-little-jimmy-king"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (little-jimmy-king@1343962053:6). Verify the cited page context and an independent source before review."
+}

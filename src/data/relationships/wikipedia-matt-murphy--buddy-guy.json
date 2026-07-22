@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-matt-murphy--buddy-guy",
+  "slug": "wikipedia-matt-murphy--buddy-guy",
+  "entityAId": "entity:matt-murphy",
+  "entityBId": "entity:buddy-guy",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Matt Murphy and Buddy Guy in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-matt-murphy"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (matt-murphy@1345090852:4). Verify the cited page context and an independent source before review."
+}

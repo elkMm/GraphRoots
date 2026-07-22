@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-george-higgs--howlin-wolf",
+  "slug": "wikipedia-george-higgs--howlin-wolf",
+  "entityAId": "entity:george-higgs",
+  "entityBId": "entity:howlin-wolf",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects George Higgs and Howlin' Wolf in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-george-higgs"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (george-higgs@1319282559:5). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-teeny-tucker--lavelle-white",
+  "slug": "wikipedia-teeny-tucker--lavelle-white",
+  "entityAId": "entity:teeny-tucker",
+  "entityBId": "entity:lavelle-white",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Teeny Tucker and Lavelle White in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-teeny-tucker"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (teeny-tucker@1319559005:7). Verify the cited page context and an independent source before review."
+}

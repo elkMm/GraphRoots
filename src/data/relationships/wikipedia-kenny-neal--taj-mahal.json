@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-kenny-neal--taj-mahal",
+  "slug": "wikipedia-kenny-neal--taj-mahal",
+  "entityAId": "entity:kenny-neal",
+  "entityBId": "entity:taj-mahal",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Kenny Neal and Taj Mahal in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-kenny-neal"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (kenny-neal@1365135820:5). Verify the cited page context and an independent source before review."
+}

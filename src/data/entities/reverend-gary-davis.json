@@ -1,0 +1,24 @@
+{
+  "id": "entity:reverend-gary-davis",
+  "slug": "reverend-gary-davis",
+  "name": "Reverend Gary Davis",
+  "entityType": "artist",
+  "summary": "Reverend Gary Davis was a blues composer, guitarist and singer.",
+  "dateDisplay": "1896 – 1972",
+  "regions": ["United States"],
+  "styles": ["Blues", "Piedmont Blues"],
+  "roles": ["Composer", "Guitarist", "Singer", "Blues Musician"],
+  "instruments": ["Guitar", "Harmonica"],
+  "sourceIds": [
+    "source:encyclopedia-reverend-gary-davis",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "205_P2N42Rc",
+    "title": "Reverend Gary Davis - The Best Of Full Album",
+    "sourceUrl": "https://www.youtube.com/watch?v=205_P2N42Rc",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

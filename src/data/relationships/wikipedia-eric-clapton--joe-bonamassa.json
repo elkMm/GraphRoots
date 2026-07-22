@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-eric-clapton--joe-bonamassa",
+  "slug": "wikipedia-eric-clapton--joe-bonamassa",
+  "entityAId": "entity:eric-clapton",
+  "entityBId": "entity:joe-bonamassa",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Joe Bonamassa's Wikipedia biography states that British blues-rock records by Eric Clapton greatly inspired him. The claim remains provisional pending independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-eric-clapton",
+    "source:wikipedia-biography-joe-bonamassa"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (eric-clapton@1361262465:54, joe-bonamassa@1363246501:30, joe-bonamassa@1363246501:4). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entity:john-p-hammond",
+  "slug": "john-p-hammond",
+  "name": "John P. Hammond",
+  "entityType": "artist",
+  "summary": "John P. Hammond was a blues musician, singer and guitarist.",
+  "dateDisplay": "1942 – 2026",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Singer", "Guitarist", "Blues Singer"],
+  "instruments": ["Guitar", "Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-john-p-hammond",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "s-p2DNktGPc",
+    "title": "John P. Hammond LIVE at the Towne Crier Beacon, NY 11.09.13- RAW FOOTAGE",
+    "sourceUrl": "https://www.youtube.com/watch?v=s-p2DNktGPc",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entity:gladys-bentley",
+  "slug": "gladys-bentley",
+  "name": "Gladys Bentley",
+  "entityType": "artist",
+  "summary": "Gladys Bentley was a blues singer, composer and musician.",
+  "dateDisplay": "1907 – 1960",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Composer", "Blues Musician"],
+  "instruments": ["Voice", "Piano"],
+  "sourceIds": [
+    "source:encyclopedia-gladys-bentley",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "OERnm0HTVlM",
+    "title": "You Bet Your Life – blues singer-pianist Gladys Bentley (“Them There Eyes”)",
+    "sourceUrl": "https://www.youtube.com/watch?v=OERnm0HTVlM",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

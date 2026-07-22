@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-robert-johnson--christone-kingfish-ingram",
+  "slug": "wikipedia-robert-johnson--christone-kingfish-ingram",
+  "entityAId": "entity:robert-johnson",
+  "entityBId": "entity:christone-kingfish-ingram",
+  "relationshipType": "influenced_style",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "The Wikipedia biography for Christone “Kingfish” Ingram explicitly describes Robert Johnson as a musical influence. The claim awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-christone-kingfish-ingram"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (christone-kingfish-ingram@1345471464:3). Verify the cited page context and an independent source before review."
+}

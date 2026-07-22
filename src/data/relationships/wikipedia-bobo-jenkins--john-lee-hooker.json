@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-bobo-jenkins--john-lee-hooker",
+  "slug": "wikipedia-bobo-jenkins--john-lee-hooker",
+  "entityAId": "entity:bobo-jenkins",
+  "entityBId": "entity:john-lee-hooker",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Bobo Jenkins and John Lee Hooker in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-bobo-jenkins"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bobo-jenkins@1324070162:4). Verify the cited page context and an independent source before review."
+}

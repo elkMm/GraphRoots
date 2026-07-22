@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-johnnie-bassett--john-lee-hooker",
+  "slug": "wikipedia-johnnie-bassett--john-lee-hooker",
+  "entityAId": "entity:johnnie-bassett",
+  "entityBId": "entity:john-lee-hooker",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Johnnie Bassett and John Lee Hooker in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-johnnie-bassett"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (johnnie-bassett@1325308569:2). Verify the cited page context and an independent source before review."
+}

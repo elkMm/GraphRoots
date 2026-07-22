@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-debbie-davies--albert-collins",
+  "slug": "wikipedia-debbie-davies--albert-collins",
+  "entityAId": "entity:debbie-davies",
+  "entityBId": "entity:albert-collins",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Debbie Davies and Albert Collins in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-debbie-davies"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (debbie-davies@1320582693:2). Verify the cited page context and an independent source before review."
+}

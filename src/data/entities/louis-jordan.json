@@ -1,0 +1,25 @@
+{
+  "id": "entity:louis-jordan",
+  "slug": "louis-jordan",
+  "name": "Louis Jordan",
+  "entityType": "artist",
+  "summary": "Louis Jordan was a blues singer, jazz musician and musician.",
+  "dateDisplay": "1908 – 1975",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Jazz Musician", "Musician", "Composer"],
+  "instruments": ["Saxophone", "Voice", "Clarinet"],
+  "sourceIds": [
+    "source:encyclopedia-louis-jordan",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:carnegie-hall-rhythm-blues"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "8hOjcSVohBg",
+    "title": "LOUIS JORDAN (Blues Collection BC-028)",
+    "sourceUrl": "https://www.youtube.com/watch?v=8hOjcSVohBg",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

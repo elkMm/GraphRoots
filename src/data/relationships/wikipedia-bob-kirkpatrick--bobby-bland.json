@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-bob-kirkpatrick--bobby-bland",
+  "slug": "wikipedia-bob-kirkpatrick--bobby-bland",
+  "entityAId": "entity:bob-kirkpatrick",
+  "entityBId": "entity:bobby-bland",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Bob Kirkpatrick and Bobby Bland in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-bob-kirkpatrick"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bob-kirkpatrick@1352662922:3). Verify the cited page context and an independent source before review."
+}

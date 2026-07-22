@@ -1,0 +1,24 @@
+{
+  "id": "entity:teddy-darby",
+  "slug": "teddy-darby",
+  "name": "Teddy Darby",
+  "entityType": "artist",
+  "summary": "Teddy Darby was a blues musician, singer and guitarist.",
+  "dateDisplay": "1906 – 1975",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Singer", "Guitarist", "Songwriter"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-teddy-darby",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "p0EPvCs73Qk",
+    "title": "Lawdy Lawdy Worried Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=p0EPvCs73Qk",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

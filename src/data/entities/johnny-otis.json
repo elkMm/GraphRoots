@@ -1,0 +1,25 @@
+{
+  "id": "entity:johnny-otis",
+  "slug": "johnny-otis",
+  "name": "Johnny Otis",
+  "entityType": "artist",
+  "summary": "Johnny Otis was a blues pianist, composer and bandleader.",
+  "dateDisplay": "1921 – 2012",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Pianist", "Composer", "Bandleader", "Songwriter"],
+  "instruments": ["Piano", "Voice", "Vibraphone"],
+  "sourceIds": [
+    "source:encyclopedia-johnny-otis",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:carnegie-hall-rhythm-blues"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "OTxw_XgfE38",
+    "title": "Dreamin' Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=OTxw_XgfE38",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

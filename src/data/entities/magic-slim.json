@@ -1,0 +1,24 @@
+{
+  "id": "entity:magic-slim",
+  "slug": "magic-slim",
+  "name": "Magic Slim",
+  "entityType": "artist",
+  "summary": "Magic Slim was a blues guitarist.",
+  "dateDisplay": "1937 – 2013",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Guitarist"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-magic-slim",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "e0m1ba8Gjvg",
+    "title": "Shame",
+    "sourceUrl": "https://www.youtube.com/watch?v=e0m1ba8Gjvg",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

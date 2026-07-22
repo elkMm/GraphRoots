@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-kirk-fletcher--charlie-musselwhite",
+  "slug": "wikipedia-kirk-fletcher--charlie-musselwhite",
+  "entityAId": "entity:kirk-fletcher",
+  "entityBId": "entity:charlie-musselwhite",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Kirk Fletcher and Charlie Musselwhite in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-kirk-fletcher"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (kirk-fletcher@1340481513:4). Verify the cited page context and an independent source before review."
+}

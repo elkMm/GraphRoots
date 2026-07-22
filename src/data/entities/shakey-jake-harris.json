@@ -1,0 +1,24 @@
+{
+  "id": "entity:shakey-jake-harris",
+  "slug": "shakey-jake-harris",
+  "name": "Shakey Jake Harris",
+  "entityType": "artist",
+  "summary": "Shakey Jake Harris was a blues singer, singer-songwriter and composer.",
+  "dateDisplay": "1921 – 1990",
+  "regions": ["United States"],
+  "styles": ["Blues", "Chicago Blues"],
+  "roles": ["Singer", "Singer-Songwriter", "Composer", "Blues Musician"],
+  "instruments": ["Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-shakey-jake-harris",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "KFqlxpz_T3w",
+    "title": "Shakey Jake Harris     ~    ''My Blues Advice''  1971",
+    "sourceUrl": "https://www.youtube.com/watch?v=KFqlxpz_T3w",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

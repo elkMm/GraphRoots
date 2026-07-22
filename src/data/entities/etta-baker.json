@@ -1,0 +1,24 @@
+{
+  "id": "entity:etta-baker",
+  "slug": "etta-baker",
+  "name": "Etta Baker",
+  "entityType": "artist",
+  "summary": "Etta Baker was a blues musician and guitarist.",
+  "dateDisplay": "1913 – 2006",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Guitarist"],
+  "instruments": ["Banjo", "Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-etta-baker",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "JSaHG9-7Mzo",
+    "title": "The Fingerpicking Blues Of Etta Baker - Browns Boogie",
+    "sourceUrl": "https://www.youtube.com/watch?v=JSaHG9-7Mzo",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

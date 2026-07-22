@@ -1,0 +1,24 @@
+{
+  "id": "entity:lil-green",
+  "slug": "lil-green",
+  "name": "Lil Green",
+  "entityType": "artist",
+  "summary": "Lil Green was a blues singer-songwriter, composer and singer.",
+  "dateDisplay": "1919 – 1954",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer-Songwriter", "Composer", "Singer", "Musician"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-lil-green",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "8yrbv8tP64Y",
+    "title": "Lil Green",
+    "sourceUrl": "https://www.youtube.com/watch?v=8yrbv8tP64Y",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

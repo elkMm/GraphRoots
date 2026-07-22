@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-charley-patton--howlin-wolf",
+  "slug": "wikipedia-charley-patton--howlin-wolf",
+  "entityAId": "entity:charley-patton",
+  "entityBId": "entity:howlin-wolf",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Charley Patton and Howlin' Wolf in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-charley-patton",
+    "source:wikipedia-biography-howlin-wolf"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (charley-patton@1351480732:4, howlin-wolf@1362821397:2, howlin-wolf@1362821397:9). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entity:kokomo-arnold",
+  "slug": "kokomo-arnold",
+  "name": "Kokomo Arnold",
+  "entityType": "artist",
+  "summary": "Kokomo Arnold was a blues singer and guitarist.",
+  "dateDisplay": "1901 – 1968",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-kokomo-arnold",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "MxKKhb8FyWM",
+    "title": "Bo-Weavil Blues (Remastered)",
+    "sourceUrl": "https://www.youtube.com/watch?v=MxKKhb8FyWM",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

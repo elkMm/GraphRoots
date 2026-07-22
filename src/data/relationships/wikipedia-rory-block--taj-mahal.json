@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-rory-block--taj-mahal",
+  "slug": "wikipedia-rory-block--taj-mahal",
+  "entityAId": "entity:rory-block",
+  "entityBId": "entity:taj-mahal",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Rory Block's Wikipedia biography identifies Taj Mahal as a contributor to her 1986 album I've Got a Rock in My Sock. The recording context remains provisional pending independent review.",
+  "citationIds": ["source:wikipedia-biography-rory-block"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (rory-block@1320464399:4). Verify the cited page context and an independent source before review."
+}

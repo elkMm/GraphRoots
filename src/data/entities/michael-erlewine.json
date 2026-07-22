@@ -1,0 +1,23 @@
+{
+  "id": "entity:michael-erlewine",
+  "slug": "michael-erlewine",
+  "name": "Michael Erlewine",
+  "entityType": "artist",
+  "summary": "Michael Erlewine is a blues musician.",
+  "dateDisplay": "1941 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician"],
+  "sourceIds": [
+    "source:encyclopedia-michael-erlewine",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "ZhxTX7qZUAY",
+    "title": "Prime Movers Blues Band \"Two Trains Running\" w/ Iggy Pop",
+    "sourceUrl": "https://www.youtube.com/watch?v=ZhxTX7qZUAY",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-memphis-minnie--papa-charlie-mccoy",
+  "slug": "wikipedia-memphis-minnie--papa-charlie-mccoy",
+  "entityAId": "entity:memphis-minnie",
+  "entityBId": "entity:papa-charlie-mccoy",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Memphis Minnie and Papa Charlie McCoy in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-memphis-minnie"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (memphis-minnie@1364207836:9). Verify the cited page context and an independent source before review."
+}

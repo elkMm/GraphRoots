@@ -1,0 +1,24 @@
+{
+  "id": "entity:denny-freeman",
+  "slug": "denny-freeman",
+  "name": "Denny Freeman",
+  "entityType": "artist",
+  "summary": "Denny Freeman was a blues pianist, songwriter and guitarist.",
+  "dateDisplay": "1944 – 2021",
+  "regions": ["United States"],
+  "styles": ["Blues", "Texas Blues", "Rhythm And Blues"],
+  "roles": ["Pianist", "Songwriter", "Guitarist", "Composer"],
+  "instruments": ["Guitar", "Piano", "Organ"],
+  "sourceIds": [
+    "source:encyclopedia-denny-freeman",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "LGfFBR-WQQI",
+    "title": "Denny Freeman - Blues Island (Audio only)",
+    "sourceUrl": "https://www.youtube.com/watch?v=LGfFBR-WQQI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

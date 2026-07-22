@@ -1,0 +1,24 @@
+{
+  "id": "entity:teeny-tucker",
+  "slug": "teeny-tucker",
+  "name": "Teeny Tucker",
+  "entityType": "artist",
+  "summary": "Teeny Tucker is a blues songwriter and musician.",
+  "dateDisplay": "1958 –",
+  "regions": ["United States"],
+  "styles": ["Blues", "Electric Blues"],
+  "roles": ["Songwriter", "Musician"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-teeny-tucker",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "p5e61ZkAcis",
+    "title": "Ain't That the Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=p5e61ZkAcis",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

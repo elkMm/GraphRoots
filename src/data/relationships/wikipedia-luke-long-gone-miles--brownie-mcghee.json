@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-luke-long-gone-miles--brownie-mcghee",
+  "slug": "wikipedia-luke-long-gone-miles--brownie-mcghee",
+  "entityAId": "entity:luke-long-gone-miles",
+  "entityBId": "entity:brownie-mcghee",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Luke \"Long Gone\" Miles and Brownie McGhee in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-luke-long-gone-miles"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (luke-long-gone-miles@1325455885:1, luke-long-gone-miles@1325455885:5). Verify the cited page context and an independent source before review."
+}

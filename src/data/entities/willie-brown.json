@@ -1,0 +1,25 @@
+{
+  "id": "entity:willie-brown",
+  "slug": "willie-brown",
+  "name": "Willie Brown",
+  "entityType": "artist",
+  "summary": "A close musical partner of Patton and House, tying together the Dockery-area Delta scene through shared performances and recordings.",
+  "dateDisplay": "c. 1900 – 1952",
+  "regions": ["Mississippi"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "WEPC2NHRxPs",
+    "title": "Future Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=WEPC2NHRxPs",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "willie_brown",
+    "originalEra": "delta"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:010",
+  "slug": "taj-mahal--keb-mo",
+  "entityAId": "entity:taj-mahal",
+  "entityBId": "entity:keb-mo",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "directly_documented",
+  "explanation": "Taj Mahal and Keb’ Mo’ jointly recorded and co-produced the collaborative album TajMo and continued the partnership in performance.",
+  "citationIds": ["source:tajmo-official"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

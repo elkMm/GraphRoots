@@ -1,0 +1,24 @@
+{
+  "id": "entity:willie-cobbs",
+  "slug": "willie-cobbs",
+  "name": "Willie Cobbs",
+  "entityType": "artist",
+  "summary": "Willie Cobbs was a blues musician and singer.",
+  "dateDisplay": "1932 – 2021",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Singer"],
+  "instruments": ["Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-willie-cobbs",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "Uo1jYnQz8GI",
+    "title": "Butler Boy Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=Uo1jYnQz8GI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

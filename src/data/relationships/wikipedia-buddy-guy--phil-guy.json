@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-buddy-guy--phil-guy",
+  "slug": "wikipedia-buddy-guy--phil-guy",
+  "entityAId": "entity:buddy-guy",
+  "entityBId": "entity:phil-guy",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Buddy Guy and Phil Guy in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-buddy-guy",
+    "source:wikipedia-biography-phil-guy"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (buddy-guy@1362800245:3, phil-guy@1360114556:1). Verify the cited page context and an independent source before review."
+}

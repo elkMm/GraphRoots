@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-bobby-bland--james-cotton",
+  "slug": "wikipedia-bobby-bland--james-cotton",
+  "entityAId": "entity:bobby-bland",
+  "entityBId": "entity:james-cotton",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Bobby Bland and James Cotton in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-bobby-bland",
+    "source:wikipedia-biography-james-cotton"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bobby-bland@1358696100:15, james-cotton@1351139698:7). Verify the cited page context and an independent source before review."
+}

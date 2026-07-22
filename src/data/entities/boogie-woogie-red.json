@@ -1,0 +1,24 @@
+{
+  "id": "entity:boogie-woogie-red",
+  "slug": "boogie-woogie-red",
+  "name": "Boogie Woogie Red",
+  "entityType": "artist",
+  "summary": "Boogie Woogie Red was a blues singer, jazz musician and pianist.",
+  "dateDisplay": "1925 – 1992",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Jazz Musician", "Pianist", "Songwriter"],
+  "instruments": ["Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-boogie-woogie-red",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "F8CiRIbHAkQ",
+    "title": "Boogie Woogie Red - Piano Blues #5 - Early 70s Bootleg (probably recorded in UK or Detroit)",
+    "sourceUrl": "https://www.youtube.com/watch?v=F8CiRIbHAkQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

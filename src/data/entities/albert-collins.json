@@ -1,0 +1,22 @@
+{
+  "id": "entity:albert-collins",
+  "slug": "albert-collins",
+  "name": "Albert Collins",
+  "entityType": "artist",
+  "summary": "Texas electric blues guitarist and singer known for sharply articulated Telecaster lines, alternate tunings and an immediately recognizable cutting tone.",
+  "dateDisplay": "1932 – 1993",
+  "regions": ["Texas"],
+  "styles": ["Texas blues", "Electric blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Electric guitar"],
+  "sourceIds": ["source:albert-collins-blues-foundation"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "6yvpqiWHARI",
+    "title": "Frosty",
+    "sourceUrl": "https://www.youtube.com/watch?v=6yvpqiWHARI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

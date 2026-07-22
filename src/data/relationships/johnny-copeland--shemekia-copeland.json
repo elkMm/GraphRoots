@@ -1,0 +1,17 @@
+{
+  "id": "relationship:research:008",
+  "slug": "johnny-copeland--shemekia-copeland",
+  "entityAId": "entity:johnny-copeland",
+  "entityBId": "entity:shemekia-copeland",
+  "relationshipType": "mentored",
+  "orientation": "directed",
+  "evidenceCategory": "directly_documented",
+  "explanation": "Shemekia Copeland describes touring with her father Johnny Copeland and learning from him during those formative years.",
+  "citationIds": [
+    "source:shemekia-copeland-knkx-interview",
+    "source:johnny-copeland-alligator"
+  ],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

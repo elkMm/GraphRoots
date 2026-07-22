@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-earl-king--snooks-eaglin",
+  "slug": "wikipedia-earl-king--snooks-eaglin",
+  "entityAId": "entity:earl-king",
+  "entityBId": "entity:snooks-eaglin",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Earl King and Snooks Eaglin in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-earl-king",
+    "source:wikipedia-biography-snooks-eaglin"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (earl-king@1364028096:9, snooks-eaglin@1335276564:11). Verify the cited page context and an independent source before review."
+}

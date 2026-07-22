@@ -1,0 +1,24 @@
+{
+  "id": "entity:guy-davis",
+  "slug": "guy-davis",
+  "name": "Guy Davis",
+  "entityType": "artist",
+  "summary": "Guy Davis is a blues musician.",
+  "dateDisplay": "1952 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician"],
+  "instruments": ["Guitar", "Musical Keyboard"],
+  "sourceIds": [
+    "source:encyclopedia-guy-davis",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "74VukWn-srk",
+    "title": "Guy Davis - Loneliest Road That I Know. Whiskey Blues.",
+    "sourceUrl": "https://www.youtube.com/watch?v=74VukWn-srk",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

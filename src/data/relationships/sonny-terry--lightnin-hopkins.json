@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:030",
+  "slug": "sonny-terry--lightnin-hopkins",
+  "entityAId": "entity:sonny-terry",
+  "entityBId": "entity:lightnin-hopkins",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "directly_documented",
+  "explanation": "The Blues Foundation documents Sonny Terry's recording sessions with Texas singer-guitarist Lightnin’ Hopkins.",
+  "citationIds": ["source:sonny-terry-blues-foundation"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

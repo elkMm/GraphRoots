@@ -1,0 +1,24 @@
+{
+  "id": "entity:eddie-boyd",
+  "slug": "eddie-boyd",
+  "name": "Eddie Boyd",
+  "entityType": "artist",
+  "summary": "Eddie Boyd was a blues pianist and singer.",
+  "dateDisplay": "1914 – 1994",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Pianist", "Singer"],
+  "instruments": ["Piano"],
+  "sourceIds": [
+    "source:encyclopedia-eddie-boyd",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "M780c8beHr8",
+    "title": "Letter Missin' Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=M780c8beHr8",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

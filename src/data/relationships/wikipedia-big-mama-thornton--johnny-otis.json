@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-big-mama-thornton--johnny-otis",
+  "slug": "wikipedia-big-mama-thornton--johnny-otis",
+  "entityAId": "entity:big-mama-thornton",
+  "entityBId": "entity:johnny-otis",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Willie Mae “Big Mama” Thornton and Johnny Otis in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-big-mama-thornton",
+    "source:wikipedia-biography-johnny-otis"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (big-mama-thornton@1361822656:10, johnny-otis@1361464789:1, johnny-otis@1361464789:9). Verify the cited page context and an independent source before review."
+}

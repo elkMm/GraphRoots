@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-willie-brown--son-house",
+  "slug": "wikipedia-willie-brown--son-house",
+  "entityAId": "entity:willie-brown",
+  "entityBId": "entity:son-house",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Willie Brown and Son House in the same recording context. The precise session details await independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-son-house",
+    "source:wikipedia-biography-willie-brown"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (son-house@1363026468:12, son-house@1363026468:3, willie-brown@1321669664:1, willie-brown@1321669664:4, willie-brown@1321669664:8). Verify the cited page context and an independent source before review."
+}

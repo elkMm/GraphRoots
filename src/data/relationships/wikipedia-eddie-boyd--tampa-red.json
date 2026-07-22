@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-eddie-boyd--tampa-red",
+  "slug": "wikipedia-eddie-boyd--tampa-red",
+  "entityAId": "entity:eddie-boyd",
+  "entityBId": "entity:tampa-red",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Eddie Boyd and Tampa Red in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-eddie-boyd"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (eddie-boyd@1342749338:3). Verify the cited page context and an independent source before review."
+}

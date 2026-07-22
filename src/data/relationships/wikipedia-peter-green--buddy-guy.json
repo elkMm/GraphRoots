@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-peter-green--buddy-guy",
+  "slug": "wikipedia-peter-green--buddy-guy",
+  "entityAId": "entity:peter-green",
+  "entityBId": "entity:buddy-guy",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Peter Green and Buddy Guy in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-peter-green"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (peter-green@1349687750:10). Verify the cited page context and an independent source before review."
+}

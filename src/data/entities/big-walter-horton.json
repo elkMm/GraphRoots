@@ -1,0 +1,24 @@
+{
+  "id": "entity:big-walter-horton",
+  "slug": "big-walter-horton",
+  "name": "Big Walter Horton",
+  "entityType": "artist",
+  "summary": "Big Walter Horton was a blues musician.",
+  "dateDisplay": "1917 – 1981",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician"],
+  "instruments": ["Harmonica"],
+  "sourceIds": [
+    "source:encyclopedia-big-walter-horton",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "MhFz2a_zoDI",
+    "title": "Little Walter's Boogie | Big Walter Horton (Official Audio)",
+    "sourceUrl": "https://www.youtube.com/watch?v=MhFz2a_zoDI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

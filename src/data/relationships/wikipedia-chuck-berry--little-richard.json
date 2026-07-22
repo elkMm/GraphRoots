@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-chuck-berry--little-richard",
+  "slug": "wikipedia-chuck-berry--little-richard",
+  "entityAId": "entity:chuck-berry",
+  "entityBId": "entity:little-richard",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Chuck Berry and Little Richard in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-chuck-berry",
+    "source:wikipedia-biography-little-richard"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (chuck-berry@1362994128:27, chuck-berry@1362994128:36, little-richard@1365153950:18, little-richard@1365153950:33, little-richard@1365153950:70). Verify the cited page context and an independent source before review."
+}

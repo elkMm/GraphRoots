@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-john-p-hammond--john-lee-hooker",
+  "slug": "wikipedia-john-p-hammond--john-lee-hooker",
+  "entityAId": "entity:john-p-hammond",
+  "entityBId": "entity:john-lee-hooker",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places John P. Hammond and John Lee Hooker in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-john-p-hammond"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (john-p-hammond@1365325826:7, john-p-hammond@1365325826:8). Verify the cited page context and an independent source before review."
+}

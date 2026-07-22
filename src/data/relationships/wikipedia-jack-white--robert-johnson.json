@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-jack-white--robert-johnson",
+  "slug": "wikipedia-jack-white--robert-johnson",
+  "entityAId": "entity:jack-white",
+  "entityBId": "entity:robert-johnson",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Jack White and Robert Johnson in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-jack-white"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (jack-white@1364912203:36). Verify the cited page context and an independent source before review."
+}

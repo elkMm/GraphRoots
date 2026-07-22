@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:011",
+  "slug": "keb-mo--taj-mahal",
+  "entityAId": "entity:keb-mo",
+  "entityBId": "entity:taj-mahal",
+  "relationshipType": "learned_from",
+  "orientation": "directed",
+  "evidenceCategory": "directly_documented",
+  "explanation": "Keb’ Mo’ directly identifies Taj Mahal as his most important mentor and a model for expanding blues across musical traditions.",
+  "citationIds": ["source:keb-mo-grammy-interview"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

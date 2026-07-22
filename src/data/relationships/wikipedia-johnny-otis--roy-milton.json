@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-johnny-otis--roy-milton",
+  "slug": "wikipedia-johnny-otis--roy-milton",
+  "entityAId": "entity:johnny-otis",
+  "entityBId": "entity:roy-milton",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Johnny Otis and Roy Milton in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-johnny-otis",
+    "source:wikipedia-biography-roy-milton"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (johnny-otis@1361464789:15, johnny-otis@1361464789:16, roy-milton@1348295047:6). Verify the cited page context and an independent source before review."
+}

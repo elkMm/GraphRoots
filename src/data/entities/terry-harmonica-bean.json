@@ -1,0 +1,24 @@
+{
+  "id": "entity:terry-harmonica-bean",
+  "slug": "terry-harmonica-bean",
+  "name": "Terry \"Harmonica\" Bean",
+  "entityType": "artist",
+  "summary": "Terry \"Harmonica\" Bean is a blues songwriter.",
+  "dateDisplay": "1961 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Songwriter"],
+  "instruments": ["Harmonica", "Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-terry-harmonica-bean",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "iGKvUxdCZ6M",
+    "title": "Terry Harmonica Bean - Bad blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=iGKvUxdCZ6M",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entity:cyril-davies",
+  "slug": "cyril-davies",
+  "name": "Cyril Davies",
+  "entityType": "artist",
+  "summary": "Cyril Davies was a blues singer.",
+  "dateDisplay": "1932 – 1964",
+  "regions": ["United Kingdom"],
+  "styles": ["Blues"],
+  "roles": ["Singer"],
+  "instruments": ["Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-cyril-davies",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "UxvqRpDofBQ",
+    "title": "Someday Baby",
+    "sourceUrl": "https://www.youtube.com/watch?v=UxvqRpDofBQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

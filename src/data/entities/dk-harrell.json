@@ -1,0 +1,21 @@
+{
+  "id": "entity:dk-harrell",
+  "slug": "dk-harrell",
+  "name": "D.K. Harrell",
+  "entityType": "artist",
+  "summary": "Louisiana singer-guitarist whose contemporary electric blues combines original material with close study of classic blues phrasing and band leadership.",
+  "regions": ["Louisiana"],
+  "styles": ["Contemporary blues", "Electric blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist", "Bandleader"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:dk-harrell-alligator"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "gZ0i9Qxeadk",
+    "title": "Grown Now",
+    "sourceUrl": "https://www.youtube.com/watch?v=gZ0i9Qxeadk",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

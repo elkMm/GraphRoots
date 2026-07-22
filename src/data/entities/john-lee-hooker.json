@@ -1,0 +1,25 @@
+{
+  "id": "entity:john-lee-hooker",
+  "slug": "john-lee-hooker",
+  "name": "John Lee Hooker",
+  "entityType": "artist",
+  "summary": "A hypnotic, one-chord boogie style built on field-holler roots, later a huge influence on garage rock and the British R&B scene.",
+  "dateDisplay": "1917 – 2001",
+  "regions": ["Mississippi → Detroit"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "lUTDpnzDV6w",
+    "title": "When My First Wife Left Me / Hobo Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=lUTDpnzDV6w",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "john_lee_hooker",
+    "originalEra": "chicago"
+  }
+}

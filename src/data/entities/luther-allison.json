@@ -1,0 +1,25 @@
+{
+  "id": "entity:luther-allison",
+  "slug": "luther-allison",
+  "name": "Luther Allison",
+  "entityType": "artist",
+  "summary": "Luther Allison was a blues guitarist, musician and singer.",
+  "dateDisplay": "1939 – 1997",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Guitarist", "Musician", "Singer", "Blues Musician"],
+  "instruments": ["Guitar", "Voice", "Harmonica"],
+  "sourceIds": [
+    "source:encyclopedia-luther-allison",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:blues-foundation-hall-of-fame"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "Ka71Gjtxew4",
+    "title": "Luther Allison | Living in the House of the Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=Ka71Gjtxew4",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

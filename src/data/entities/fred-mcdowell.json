@@ -1,0 +1,25 @@
+{
+  "id": "entity:fred-mcdowell",
+  "slug": "fred-mcdowell",
+  "name": "Fred McDowell",
+  "entityType": "artist",
+  "summary": "Fred McDowell was a blues guitarist, singer and composer.",
+  "dateDisplay": "1904 – 1972",
+  "regions": ["United States"],
+  "styles": ["Blues", "Delta Blues", "Hill Country Blues"],
+  "roles": ["Guitarist", "Singer", "Composer", "Musician"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-fred-mcdowell",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:school-of-rock-history-blues"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "QPZtMFWZT7Q",
+    "title": "Mississippi Fred McDowell  - Freight Train Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=QPZtMFWZT7Q",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "entity:corey-harris",
+  "slug": "corey-harris",
+  "name": "Corey Harris",
+  "entityType": "artist",
+  "summary": "A scholar-performer who traveled to West Africa to study directly with musicians there, making the roots-to-branches connection an explicit part of his work with Ali Farka Touré.",
+  "dateDisplay": "1969 –",
+  "regions": ["Louisiana / Virginia"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "ERAZSmJLzwI",
+    "title": "Love Is More Precious Than Gold",
+    "sourceUrl": "https://www.youtube.com/watch?v=ERAZSmJLzwI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "corey_harris",
+    "originalEra": "modern"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "entity:spirituals",
+  "slug": "spirituals",
+  "name": "Negro Spirituals",
+  "entityType": "tradition",
+  "summary": "Religious songs built on call-and-response and coded imagery, sung in churches and fields alike; the shared melodic and emotional vocabulary of spirituals and blues led some scholars to call them sacred and secular siblings.",
+  "dateDisplay": "1800s",
+  "regions": ["American South"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "spirituals",
+    "originalEra": "roots"
+  }
+}

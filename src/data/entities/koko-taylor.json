@@ -1,0 +1,21 @@
+{
+  "id": "entity:koko-taylor",
+  "slug": "koko-taylor",
+  "name": "Koko Taylor",
+  "entityType": "artist",
+  "summary": "Tennessee-born singer whose powerful voice became central to postwar Chicago blues through recordings, touring and a commanding stage presence.",
+  "dateDisplay": "1928 – 2009",
+  "regions": ["Tennessee", "Chicago, Illinois"],
+  "styles": ["Chicago blues", "Electric blues"],
+  "roles": ["Singer"],
+  "sourceIds": ["source:koko-taylor-blues-foundation"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "X4xum7FVPh8",
+    "title": "Wang Dang Doodle",
+    "sourceUrl": "https://www.youtube.com/watch?v=X4xum7FVPh8",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

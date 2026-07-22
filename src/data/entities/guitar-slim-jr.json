@@ -1,0 +1,24 @@
+{
+  "id": "entity:guitar-slim-jr",
+  "slug": "guitar-slim-jr",
+  "name": "Guitar Slim, Jr.",
+  "entityType": "artist",
+  "summary": "Guitar Slim, Jr. is a blues singer and musician.",
+  "dateDisplay": "1951 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Musician"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-guitar-slim-jr",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "gtU3M1_yBSQ",
+    "title": "Sufferin' Mind",
+    "sourceUrl": "https://www.youtube.com/watch?v=gtU3M1_yBSQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

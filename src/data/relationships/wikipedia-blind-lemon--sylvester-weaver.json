@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-blind-lemon--sylvester-weaver",
+  "slug": "wikipedia-blind-lemon--sylvester-weaver",
+  "entityAId": "entity:blind-lemon",
+  "entityBId": "entity:sylvester-weaver",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Blind Lemon Jefferson and Sylvester Weaver in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-blind-lemon"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (blind-lemon@1361864794:11). Verify the cited page context and an independent source before review."
+}

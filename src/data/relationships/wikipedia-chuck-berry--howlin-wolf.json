@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-chuck-berry--howlin-wolf",
+  "slug": "wikipedia-chuck-berry--howlin-wolf",
+  "entityAId": "entity:chuck-berry",
+  "entityBId": "entity:howlin-wolf",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Chuck Berry and Howlin' Wolf in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-chuck-berry"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (chuck-berry@1362994128:18). Verify the cited page context and an independent source before review."
+}

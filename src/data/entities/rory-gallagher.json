@@ -1,0 +1,25 @@
+{
+  "id": "entity:rory-gallagher",
+  "slug": "rory-gallagher",
+  "name": "Rory Gallagher",
+  "entityType": "artist",
+  "summary": "Rory Gallagher was a blues singer, songwriter and guitarist.",
+  "dateDisplay": "1948 – 1995",
+  "regions": ["Ireland"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Songwriter", "Guitarist", "Composer"],
+  "instruments": ["Guitar", "Mandolin", "Voice", "Accordion", "Saxophone"],
+  "sourceIds": [
+    "source:encyclopedia-rory-gallagher",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:school-of-rock-history-blues"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "Hu8CkHca2t8",
+    "title": "I Fall Apart",
+    "sourceUrl": "https://www.youtube.com/watch?v=Hu8CkHca2t8",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-charles-caldwell--muddy-waters",
+  "slug": "wikipedia-charles-caldwell--muddy-waters",
+  "entityAId": "entity:charles-caldwell",
+  "entityBId": "entity:muddy-waters",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Charles Caldwell and Muddy Waters in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-charles-caldwell"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (charles-caldwell@1170579610:3). Verify the cited page context and an independent source before review."
+}

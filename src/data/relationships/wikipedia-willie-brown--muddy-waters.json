@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-willie-brown--muddy-waters",
+  "slug": "wikipedia-willie-brown--muddy-waters",
+  "entityAId": "entity:willie-brown",
+  "entityBId": "entity:muddy-waters",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Willie Brown and Muddy Waters in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-willie-brown"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (willie-brown@1321669664:1). Verify the cited page context and an independent source before review."
+}

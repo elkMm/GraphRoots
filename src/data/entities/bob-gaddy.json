@@ -1,0 +1,24 @@
+{
+  "id": "entity:bob-gaddy",
+  "slug": "bob-gaddy",
+  "name": "Bob Gaddy",
+  "entityType": "artist",
+  "summary": "Bob Gaddy was a blues singer, pianist and songwriter.",
+  "dateDisplay": "1924 – 1997",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Pianist", "Songwriter"],
+  "instruments": ["Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-bob-gaddy",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "0Okb02WKS28",
+    "title": "Blues Has Walked in My Room",
+    "sourceUrl": "https://www.youtube.com/watch?v=0Okb02WKS28",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

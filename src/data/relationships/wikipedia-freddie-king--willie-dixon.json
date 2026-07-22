@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-freddie-king--willie-dixon",
+  "slug": "wikipedia-freddie-king--willie-dixon",
+  "entityAId": "entity:freddie-king",
+  "entityBId": "entity:willie-dixon",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Freddie King and Willie Dixon in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-freddie-king"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (freddie-king@1358355537:6, freddie-king@1358355537:8, freddie-king@1358355537:9). Verify the cited page context and an independent source before review."
+}

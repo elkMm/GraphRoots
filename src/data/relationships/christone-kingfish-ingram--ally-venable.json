@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:016",
+  "slug": "christone-kingfish-ingram--ally-venable",
+  "entityAId": "entity:christone-kingfish-ingram",
+  "entityBId": "entity:ally-venable",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "directly_documented",
+  "explanation": "Christone “Kingfish” Ingram contributed guest guitar to Ally Venable's recorded track Bring on the Pain.",
+  "citationIds": ["source:ally-venable-official-bio"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

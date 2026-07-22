@@ -1,0 +1,24 @@
+{
+  "id": "entity:j-j-malone",
+  "slug": "j-j-malone",
+  "name": "J.J. Malone",
+  "entityType": "artist",
+  "summary": "J.J. Malone was a blues singer, pianist and songwriter.",
+  "dateDisplay": "1935 – 2004",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Pianist", "Songwriter"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-j-j-malone",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "vWDdfgWIsMQ",
+    "title": "J.J. Malone ‎– No World For Dreamers (Audiophile Version) ℗ 1973",
+    "sourceUrl": "https://www.youtube.com/watch?v=vWDdfgWIsMQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

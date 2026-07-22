@@ -1,0 +1,25 @@
+{
+  "id": "entity:chuck-berry",
+  "slug": "chuck-berry",
+  "name": "Chuck Berry",
+  "entityType": "artist",
+  "summary": "Fused blues, boogie-woogie, and country swing into rock and roll's guitar template, directly inspiring the Rolling Stones and the Beatles.",
+  "dateDisplay": "1926 – 2017",
+  "regions": ["Missouri"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "Y-9Y4CCIWnM",
+    "title": "Johnny B. Goode",
+    "sourceUrl": "https://www.youtube.com/watch?v=Y-9Y4CCIWnM",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "chuck_berry",
+    "originalEra": "rock_crossover"
+  }
+}

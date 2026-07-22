@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-albert-king--ike-turner",
+  "slug": "wikipedia-albert-king--ike-turner",
+  "entityAId": "entity:albert-king",
+  "entityBId": "entity:ike-turner",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Albert King and Ike Turner in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-albert-king",
+    "source:wikipedia-biography-ike-turner"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (albert-king@1365415478:10, ike-turner@1363986802:117, ike-turner@1363986802:31). Verify the cited page context and an independent source before review."
+}

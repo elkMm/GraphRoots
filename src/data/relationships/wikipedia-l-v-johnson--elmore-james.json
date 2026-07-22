@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-l-v-johnson--elmore-james",
+  "slug": "wikipedia-l-v-johnson--elmore-james",
+  "entityAId": "entity:l-v-johnson",
+  "entityBId": "entity:elmore-james",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects L.V. Johnson and Elmore James in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-l-v-johnson"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (l-v-johnson@1326560122:1). Verify the cited page context and an independent source before review."
+}

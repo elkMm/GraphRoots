@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-johnny-mars--jimi-hendrix",
+  "slug": "wikipedia-johnny-mars--jimi-hendrix",
+  "entityAId": "entity:johnny-mars",
+  "entityBId": "entity:jimi-hendrix",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Johnny Mars and Jimi Hendrix in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-johnny-mars"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (johnny-mars@1340831644:1). Verify the cited page context and an independent source before review."
+}

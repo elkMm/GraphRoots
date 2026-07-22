@@ -1,0 +1,24 @@
+{
+  "id": "entity:mighty-mo-rodgers",
+  "slug": "mighty-mo-rodgers",
+  "name": "Mighty Mo Rodgers",
+  "entityType": "artist",
+  "summary": "Mighty Mo Rodgers is a blues singer, pianist and songwriter.",
+  "dateDisplay": "1942 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Pianist", "Songwriter", "Musician"],
+  "instruments": ["Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-mighty-mo-rodgers",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "NaXAyIwg5PE",
+    "title": "Mighty Mo Rodgers | Picasso Blue",
+    "sourceUrl": "https://www.youtube.com/watch?v=NaXAyIwg5PE",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-clara-smith--mamie-smith",
+  "slug": "wikipedia-clara-smith--mamie-smith",
+  "entityAId": "entity:clara-smith",
+  "entityBId": "entity:mamie-smith",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Clara Smith and Mamie Smith in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-clara-smith"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (clara-smith@1362453988:1). Verify the cited page context and an independent source before review."
+}

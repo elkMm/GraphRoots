@@ -1,0 +1,24 @@
+{
+  "id": "entity:pink-anderson",
+  "slug": "pink-anderson",
+  "name": "Pink Anderson",
+  "entityType": "artist",
+  "summary": "Pink Anderson was a blues singer and guitarist.",
+  "dateDisplay": "1900 – 1974",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Guitarist"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-pink-anderson",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "-8yz3Bc4VkQ",
+    "title": "Big House Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=-8yz3Bc4VkQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

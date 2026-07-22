@@ -1,0 +1,25 @@
+{
+  "id": "entity:wynonie-harris",
+  "slug": "wynonie-harris",
+  "name": "Wynonie Harris",
+  "entityType": "artist",
+  "summary": "Wynonie Harris was a blues singer, jazz musician and guitarist.",
+  "dateDisplay": "1915 – 1969",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Jazz Musician", "Guitarist", "Drummer"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-wynonie-harris",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:carnegie-hall-rhythm-blues"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "2O7mzS7CM_Q",
+    "title": "Wynonie Harris - Who Threw The Whiskey In The Well",
+    "sourceUrl": "https://www.youtube.com/watch?v=2O7mzS7CM_Q",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

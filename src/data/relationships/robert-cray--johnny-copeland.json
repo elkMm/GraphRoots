@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:028",
+  "slug": "robert-cray--johnny-copeland",
+  "entityAId": "entity:robert-cray",
+  "entityBId": "entity:johnny-copeland",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "directly_documented",
+  "explanation": "Robert Cray and Johnny Copeland recorded together on the collaborative 1985 album Showdown!.",
+  "citationIds": ["source:robert-cray-blues-foundation"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

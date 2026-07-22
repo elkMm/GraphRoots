@@ -1,0 +1,24 @@
+{
+  "id": "entity:sonny-rhodes",
+  "slug": "sonny-rhodes",
+  "name": "Sonny Rhodes",
+  "entityType": "artist",
+  "summary": "Sonny Rhodes was a blues musician.",
+  "dateDisplay": "1940 – 2021",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician"],
+  "instruments": ["Guitar", "Electric Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-sonny-rhodes",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "7DiWxcilWtU",
+    "title": "Sonny Rhodes - The Ballad Of Serenity(Extended)",
+    "sourceUrl": "https://www.youtube.com/watch?v=7DiWxcilWtU",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

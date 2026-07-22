@@ -1,0 +1,24 @@
+{
+  "id": "entity:tinsley-ellis",
+  "slug": "tinsley-ellis",
+  "name": "Tinsley Ellis",
+  "entityType": "artist",
+  "summary": "Tinsley Ellis is a blues musician, guitarist and composer.",
+  "dateDisplay": "1957 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Guitarist", "Composer"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-tinsley-ellis",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "WeJUwviWTpY",
+    "title": "Tinsley Ellis - Kiss Of Death",
+    "sourceUrl": "https://www.youtube.com/watch?v=WeJUwviWTpY",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

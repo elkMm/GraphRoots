@@ -1,0 +1,24 @@
+{
+  "id": "entity:clara-smith",
+  "slug": "clara-smith",
+  "name": "Clara Smith",
+  "entityType": "artist",
+  "summary": "Clara Smith was a blues singer, composer and songwriter.",
+  "dateDisplay": "1894 – 1935",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Composer", "Songwriter", "Musician"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-clara-smith",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "0mQvBX5JIBc",
+    "title": "Court House Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=0mQvBX5JIBc",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

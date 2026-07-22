@@ -1,0 +1,18 @@
+{
+  "id": "entity:call-response",
+  "slug": "call-response",
+  "name": "Call-and-Response Worship",
+  "entityType": "tradition",
+  "summary": "A structural principle — leader's line answered by a group — retained across the Middle Passage and foundational to spirituals, field hollers, gospel, and the AAB structure of blues verses.",
+  "dateDisplay": "1700s –",
+  "regions": ["West & Central Africa / American South"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "call_response",
+    "originalEra": "roots"
+  }
+}

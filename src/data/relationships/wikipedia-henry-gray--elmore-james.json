@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-henry-gray--elmore-james",
+  "slug": "wikipedia-henry-gray--elmore-james",
+  "entityAId": "entity:henry-gray",
+  "entityBId": "entity:elmore-james",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Henry Gray and Elmore James in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-henry-gray"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (henry-gray@1351022679:6). Verify the cited page context and an independent source before review."
+}

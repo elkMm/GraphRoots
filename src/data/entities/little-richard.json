@@ -1,0 +1,25 @@
+{
+  "id": "entity:little-richard",
+  "slug": "little-richard",
+  "name": "Little Richard",
+  "entityType": "artist",
+  "summary": "Brought gospel-blues shouting and boogie piano into rock and roll's founding sound, an acknowledged influence on Hendrix and the British beat scene.",
+  "dateDisplay": "1932 – 2020",
+  "regions": ["Georgia"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "E68N5E1d0_M",
+    "title": "Long Tall Sally",
+    "sourceUrl": "https://www.youtube.com/watch?v=E68N5E1d0_M",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "little_richard",
+    "originalEra": "rock_crossover"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entity:sammy-lawhorn",
+  "slug": "sammy-lawhorn",
+  "name": "Sammy Lawhorn",
+  "entityType": "artist",
+  "summary": "Sammy Lawhorn was a blues musician.",
+  "dateDisplay": "1935 – 1990",
+  "regions": ["United States"],
+  "styles": ["Blues", "Chicago Blues"],
+  "roles": ["Musician"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-sammy-lawhorn",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "B2rgfmHCuQI",
+    "title": "Big Boss Man (feat. George Smith, Johnny Dollar, Sammy Lawhorn, Nick Charles, Roosevelt \"snake\"...",
+    "sourceUrl": "https://www.youtube.com/watch?v=B2rgfmHCuQI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

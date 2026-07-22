@@ -1,0 +1,24 @@
+{
+  "id": "entity:calvin-leavy",
+  "slug": "calvin-leavy",
+  "name": "Calvin Leavy",
+  "entityType": "artist",
+  "summary": "Calvin Leavy was a blues singer.",
+  "dateDisplay": "1940 – 2010",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-calvin-leavy",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "p8UIUUS4_UE",
+    "title": "BROUGHT YOU TO THE CITY / CALVIN LEAVY [SOUL BEAT 100-B]",
+    "sourceUrl": "https://www.youtube.com/watch?v=p8UIUUS4_UE",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

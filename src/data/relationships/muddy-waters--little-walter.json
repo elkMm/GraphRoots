@@ -1,0 +1,20 @@
+{
+  "id": "relationship:prototype:026",
+  "slug": "muddy-waters--little-walter",
+  "entityAId": "entity:muddy-waters",
+  "entityBId": "entity:little-walter",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "interpretive_or_debated",
+  "explanation": "Prototype note retained for editorial review: “bandleader / sideman.”",
+  "citationIds": [],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "The prototype supplied a generic directed influence link. Semantic type and evidence remain unassessed.",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalRelationshipType": "generic_influence",
+    "originalNote": "bandleader / sideman"
+  }
+}

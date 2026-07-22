@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-big-joe-williams--muddy-waters",
+  "slug": "wikipedia-big-joe-williams--muddy-waters",
+  "entityAId": "entity:big-joe-williams",
+  "entityBId": "entity:muddy-waters",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Big Joe Williams and Muddy Waters in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-big-joe-williams",
+    "source:wikipedia-biography-muddy-waters"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (big-joe-williams@1345893041:5, muddy-waters@1358783077:8). Verify the cited page context and an independent source before review."
+}

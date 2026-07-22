@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-elmore-james--jimi-hendrix",
+  "slug": "wikipedia-elmore-james--jimi-hendrix",
+  "entityAId": "entity:elmore-james",
+  "entityBId": "entity:jimi-hendrix",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Elmore James and Jimi Hendrix in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-elmore-james",
+    "source:wikipedia-biography-jimi-hendrix"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (elmore-james@1360808639:9, jimi-hendrix@1364666369:85). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "relationship:prototype:003",
+  "slug": "kora-ngoni--field-hollers",
+  "entityAId": "entity:kora-ngoni",
+  "entityBId": "entity:field-hollers",
+  "relationshipType": "historical_parallel",
+  "orientation": "symmetric",
+  "evidenceCategory": "interpretive_or_debated",
+  "title": "A proposed West African string-tradition parallel",
+  "explanation": "This record proposes string-bending and buzzing-tone parallels between West African string traditions and field hollers. Smithsonian Folkways supports a broader connection between West African musical traditions and field hollers, but does not establish this specific mechanism or a direct unbroken lineage.",
+  "citationIds": ["source:smithsonian-before-the-blues"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "contested",
+  "curatorNote": "Retained to demonstrate explicit uncertainty. The specific timbral comparison requires further specialist review.",
+  "lastReviewed": "2026-07-21",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalRelationshipType": "generic_influence",
+    "originalNote": "string-bending, buzzing tone parallels (contested, indirect)"
+  }
+}

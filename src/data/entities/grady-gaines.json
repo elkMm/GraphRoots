@@ -1,0 +1,24 @@
+{
+  "id": "entity:grady-gaines",
+  "slug": "grady-gaines",
+  "name": "Grady Gaines",
+  "entityType": "artist",
+  "summary": "Grady Gaines was a blues musician.",
+  "dateDisplay": "1934 – 2021",
+  "regions": ["United States"],
+  "styles": ["Blues", "Texas Blues", "Electric Blues"],
+  "roles": ["Musician"],
+  "instruments": ["Saxophone"],
+  "sourceIds": [
+    "source:encyclopedia-grady-gaines",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "Ots__WR2cbc",
+    "title": "Stomp House Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=Ots__WR2cbc",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

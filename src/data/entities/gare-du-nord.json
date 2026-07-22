@@ -1,0 +1,21 @@
+{
+  "id": "entity:gare-du-nord",
+  "slug": "gare-du-nord",
+  "name": "Gare du Nord",
+  "entityType": "ensemble",
+  "summary": "Dutch-Belgian group founded as a studio project joining traditional blues materials with jazz, soul, lounge and electronic production.",
+  "dateDisplay": "2001 –",
+  "regions": ["Netherlands", "Belgium"],
+  "styles": ["Blues lounge", "Nu jazz", "Electronic"],
+  "roles": ["Band", "Studio project"],
+  "sourceIds": ["source:gare-du-nord-official-about"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "XrqDr2c-yxU",
+    "title": "Pablo's Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=XrqDr2c-yxU",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

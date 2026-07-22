@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-bob-gaddy--champion-jack-dupree",
+  "slug": "wikipedia-bob-gaddy--champion-jack-dupree",
+  "entityAId": "entity:bob-gaddy",
+  "entityBId": "entity:champion-jack-dupree",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Bob Gaddy and Champion Jack Dupree in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-bob-gaddy"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bob-gaddy@1362347661:4). Verify the cited page context and an independent source before review."
+}

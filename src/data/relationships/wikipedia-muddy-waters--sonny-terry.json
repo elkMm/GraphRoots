@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-muddy-waters--sonny-terry",
+  "slug": "wikipedia-muddy-waters--sonny-terry",
+  "entityAId": "entity:muddy-waters",
+  "entityBId": "entity:sonny-terry",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Muddy Waters and Sonny Terry in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-muddy-waters"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (muddy-waters@1358783077:15). Verify the cited page context and an independent source before review."
+}

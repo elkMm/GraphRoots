@@ -1,0 +1,24 @@
+{
+  "id": "entity:paul-butterfield",
+  "slug": "paul-butterfield",
+  "name": "Paul Butterfield",
+  "entityType": "artist",
+  "summary": "Paul Butterfield was a blues singer, songwriter and musician.",
+  "dateDisplay": "1942 – 1987",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Songwriter", "Musician"],
+  "instruments": ["Harmonica", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-paul-butterfield",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "SV-aqZXlhDI",
+    "title": "New Walkin' Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=SV-aqZXlhDI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-cub-koda--jimmy-reed",
+  "slug": "wikipedia-cub-koda--jimmy-reed",
+  "entityAId": "entity:cub-koda",
+  "entityBId": "entity:jimmy-reed",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Cub Koda and Jimmy Reed in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-cub-koda",
+    "source:wikipedia-biography-jimmy-reed"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (cub-koda@1362327010:2, jimmy-reed@1362348080:2). Verify the cited page context and an independent source before review."
+}

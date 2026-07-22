@@ -1,0 +1,24 @@
+{
+  "id": "entity:lonnie-pitchford",
+  "slug": "lonnie-pitchford",
+  "name": "Lonnie Pitchford",
+  "entityType": "artist",
+  "summary": "Lonnie Pitchford was a blues singer, guitarist and musician.",
+  "dateDisplay": "1955 – 1998",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Guitarist", "Musician"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-lonnie-pitchford",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "nE8v_BzEXq4",
+    "title": "Walking Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=nE8v_BzEXq4",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

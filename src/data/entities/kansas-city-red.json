@@ -1,0 +1,24 @@
+{
+  "id": "entity:kansas-city-red",
+  "slug": "kansas-city-red",
+  "name": "Kansas City Red",
+  "entityType": "artist",
+  "summary": "Kansas City Red was a blues singer.",
+  "dateDisplay": "1926 – 1991",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-kansas-city-red",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "T_W_EcWYZXU",
+    "title": "Kansas City Red, \"Sweet Black Angel,\" 1977",
+    "sourceUrl": "https://www.youtube.com/watch?v=T_W_EcWYZXU",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-keb-mo--gary-clark-jr",
+  "slug": "wikipedia-keb-mo--gary-clark-jr",
+  "entityAId": "entity:keb-mo",
+  "entityBId": "entity:gary-clark-jr",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Keb’ Mo’ and Gary Clark Jr. in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-keb-mo"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (keb-mo@1361007539:20). Verify the cited page context and an independent source before review."
+}

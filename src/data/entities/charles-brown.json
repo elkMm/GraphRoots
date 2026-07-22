@@ -1,0 +1,25 @@
+{
+  "id": "entity:charles-brown",
+  "slug": "charles-brown",
+  "name": "Charles Brown",
+  "entityType": "artist",
+  "summary": "Charles Brown was a blues songwriter, pianist and singer.",
+  "dateDisplay": "1922 – 1999",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Songwriter", "Pianist", "Singer", "Musician"],
+  "instruments": ["Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-charles-brown",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:carnegie-hall-rhythm-blues"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "OjkZ5YIkxEs",
+    "title": "Charles Brown - A Virus Called The Blues (Official Audio)",
+    "sourceUrl": "https://www.youtube.com/watch?v=OjkZ5YIkxEs",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

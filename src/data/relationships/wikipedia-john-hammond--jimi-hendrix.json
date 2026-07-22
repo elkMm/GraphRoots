@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-john-hammond--jimi-hendrix",
+  "slug": "wikipedia-john-hammond--jimi-hendrix",
+  "entityAId": "entity:john-hammond",
+  "entityBId": "entity:jimi-hendrix",
+  "relationshipType": "recorded_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places John Hammond and Jimi Hendrix in the same recording context. The precise session details await independent review.",
+  "citationIds": ["source:wikipedia-biography-john-hammond"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (john-hammond@1365325826:3, john-hammond@1365325826:9). Verify the cited page context and an independent source before review."
+}

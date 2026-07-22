@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-kenny-neal--buddy-guy",
+  "slug": "wikipedia-kenny-neal--buddy-guy",
+  "entityAId": "entity:kenny-neal",
+  "entityBId": "entity:buddy-guy",
+  "relationshipType": "learned_from",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "The Wikipedia biography for Kenny Neal explicitly describes learning from Buddy Guy. The claim awaits independent review.",
+  "citationIds": ["source:wikipedia-biography-kenny-neal"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (kenny-neal@1365135820:3). Verify the cited page context and an independent source before review."
+}

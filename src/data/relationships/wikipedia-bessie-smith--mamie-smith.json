@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-bessie-smith--mamie-smith",
+  "slug": "wikipedia-bessie-smith--mamie-smith",
+  "entityAId": "entity:bessie-smith",
+  "entityBId": "entity:mamie-smith",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Bessie Smith and Mamie Smith in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-bessie-smith",
+    "source:wikipedia-biography-mamie-smith"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bessie-smith@1363074671:8, mamie-smith@1340770006:8). Verify the cited page context and an independent source before review."
+}

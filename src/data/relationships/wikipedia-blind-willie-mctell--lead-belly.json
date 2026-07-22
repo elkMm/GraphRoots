@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-blind-willie-mctell--lead-belly",
+  "slug": "wikipedia-blind-willie-mctell--lead-belly",
+  "entityAId": "entity:blind-willie-mctell",
+  "entityBId": "entity:lead-belly",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Blind Willie McTell and Lead Belly in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-blind-willie-mctell"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (blind-willie-mctell@1364108922:4). Verify the cited page context and an independent source before review."
+}

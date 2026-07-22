@@ -1,0 +1,23 @@
+{
+  "id": "entity:bumble-bee-slim",
+  "slug": "bumble-bee-slim",
+  "name": "Bumble Bee Slim",
+  "entityType": "artist",
+  "summary": "Bumble Bee Slim was a blues musician.",
+  "dateDisplay": "1905 – 1968",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician"],
+  "sourceIds": [
+    "source:encyclopedia-bumble-bee-slim",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "-1bke4FpC_A",
+    "title": "Sloppy Drunk Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=-1bke4FpC_A",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

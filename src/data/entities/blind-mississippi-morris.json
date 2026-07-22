@@ -1,0 +1,24 @@
+{
+  "id": "entity:blind-mississippi-morris",
+  "slug": "blind-mississippi-morris",
+  "name": "Blind Mississippi Morris",
+  "entityType": "artist",
+  "summary": "Blind Mississippi Morris is a blues musician.",
+  "dateDisplay": "1955 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician"],
+  "instruments": ["Harmonica", "Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-blind-mississippi-morris",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "oHfO4xflRTk",
+    "title": "Blind Mississippi Morris 2006-08-26 audio only",
+    "sourceUrl": "https://www.youtube.com/watch?v=oHfO4xflRTk",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

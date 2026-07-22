@@ -1,0 +1,18 @@
+{
+  "id": "entity:fleetwood-mac-early",
+  "slug": "fleetwood-mac-early",
+  "name": "Fleetwood Mac (Peter Green era)",
+  "entityType": "ensemble",
+  "summary": "Peter Green's tone and phrasing were so close to B.B. King's that King himself reportedly praised him; the band began as a straight blues outfit.",
+  "dateDisplay": "formed 1967",
+  "regions": ["London"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "fleetwood_mac_early",
+    "originalEra": "british"
+  }
+}

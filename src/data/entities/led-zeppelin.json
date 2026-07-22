@@ -1,0 +1,18 @@
+{
+  "id": "entity:led-zeppelin",
+  "slug": "led-zeppelin",
+  "name": "Led Zeppelin",
+  "entityType": "ensemble",
+  "summary": "Built early album tracks directly on Delta and Chicago blues songs and riffs (Willie Dixon, Memphis Minnie among them), scaling blues structure into hard rock.",
+  "dateDisplay": "formed 1968",
+  "regions": ["London"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "led_zeppelin",
+    "originalEra": "british"
+  }
+}

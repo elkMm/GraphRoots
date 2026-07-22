@@ -1,0 +1,24 @@
+{
+  "id": "entity:eddie-taylor",
+  "slug": "eddie-taylor",
+  "name": "Eddie Taylor",
+  "entityType": "artist",
+  "summary": "Eddie Taylor was a blues musician, guitarist and jazz musician.",
+  "dateDisplay": "1923 – 1985",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician", "Guitarist", "Jazz Musician", "Composer"],
+  "instruments": ["Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-eddie-taylor",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "_v1VfaYuzCQ",
+    "title": "Eddie Taylor : Peach Tree Blues (1979)",
+    "sourceUrl": "https://www.youtube.com/watch?v=_v1VfaYuzCQ",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

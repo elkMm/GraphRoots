@@ -1,0 +1,25 @@
+{
+  "id": "entity:eric-clapton",
+  "slug": "eric-clapton",
+  "name": "Eric Clapton",
+  "entityType": "artist",
+  "summary": "Studied Robert Johnson, Freddie King, and Otis Rush note-for-note, then carried that vocabulary through the Yardbirds, Bluesbreakers, Cream, and a solo career.",
+  "dateDisplay": "1945 –",
+  "regions": ["England"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "-KG2O5PSCSs",
+    "title": "Layla (Live at Royal Albert Hall, 1991)",
+    "sourceUrl": "https://www.youtube.com/watch?v=-KG2O5PSCSs",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "eric_clapton",
+    "originalEra": "british"
+  }
+}

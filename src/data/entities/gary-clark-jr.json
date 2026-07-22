@@ -1,0 +1,25 @@
+{
+  "id": "entity:gary-clark-jr",
+  "slug": "gary-clark-jr",
+  "name": "Gary Clark Jr.",
+  "entityType": "artist",
+  "summary": "Merges Hendrix, SRV, and hip-hop-era production, keeping the Texas blues-guitar lineage active in contemporary music.",
+  "dateDisplay": "1984 –",
+  "regions": ["Texas"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "pBV9JwHwIE8",
+    "title": "Take Me Down (Official Audio)",
+    "sourceUrl": "https://www.youtube.com/watch?v=pBV9JwHwIE8",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "gary_clark_jr",
+    "originalEra": "modern"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "entity:kenny-neal",
+  "slug": "kenny-neal",
+  "name": "Kenny Neal",
+  "entityType": "artist",
+  "summary": "Kenny Neal is a blues singer and guitarist.",
+  "dateDisplay": "1957 –",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Guitarist"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-kenny-neal",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:blues-foundation-hall-of-fame"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "LGHTgKxGRBw",
+    "title": "I'll Play the Blues for You",
+    "sourceUrl": "https://www.youtube.com/watch?v=LGHTgKxGRBw",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

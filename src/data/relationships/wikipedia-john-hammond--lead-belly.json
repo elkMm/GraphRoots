@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-john-hammond--lead-belly",
+  "slug": "wikipedia-john-hammond--lead-belly",
+  "entityAId": "entity:john-hammond",
+  "entityBId": "entity:lead-belly",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects John Hammond and Lead Belly in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-john-hammond"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (john-hammond@1365325826:5). Verify the cited page context and an independent source before review."
+}

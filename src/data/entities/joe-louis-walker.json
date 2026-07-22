@@ -1,0 +1,24 @@
+{
+  "id": "entity:joe-louis-walker",
+  "slug": "joe-louis-walker",
+  "name": "Joe Louis Walker",
+  "entityType": "artist",
+  "summary": "Joe Louis Walker was a blues singer-songwriter, musician and composer.",
+  "dateDisplay": "1949 – 2025",
+  "regions": ["United States"],
+  "styles": ["Blues", "Rhythm And Blues"],
+  "roles": ["Singer-Songwriter", "Musician", "Composer", "Guitarist"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-joe-louis-walker",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "2AISE6-6LhA",
+    "title": "Joe Louis Walker - Blues Of The Month Club",
+    "sourceUrl": "https://www.youtube.com/watch?v=2AISE6-6LhA",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

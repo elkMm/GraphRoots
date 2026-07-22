@@ -1,0 +1,25 @@
+{
+  "id": "entity:memphis-minnie",
+  "slug": "memphis-minnie",
+  "name": "Memphis Minnie",
+  "entityType": "artist",
+  "summary": "A rare female guitarist-bandleader of her era, her sharp electric guitar work anticipated the Chicago sound and influenced Muddy Waters directly.",
+  "dateDisplay": "1897 – 1973",
+  "regions": ["Louisiana / Memphis"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "C2vZiPwaeQI",
+    "title": "Good Girl Blues (with Kansas Joe)",
+    "sourceUrl": "https://www.youtube.com/watch?v=C2vZiPwaeQI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "memphis_minnie",
+    "originalEra": "classic"
+  }
+}

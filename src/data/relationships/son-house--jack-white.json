@@ -1,0 +1,20 @@
+{
+  "id": "relationship:prototype:073",
+  "slug": "son-house--jack-white",
+  "entityAId": "entity:son-house",
+  "entityBId": "entity:jack-white",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "interpretive_or_debated",
+  "explanation": "Prototype note retained for editorial review: “direct stylistic model for the White Stripes.”",
+  "citationIds": [],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "The prototype supplied a generic directed influence link. Semantic type and evidence remain unassessed.",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalRelationshipType": "generic_influence",
+    "originalNote": "direct stylistic model for the White Stripes"
+  }
+}

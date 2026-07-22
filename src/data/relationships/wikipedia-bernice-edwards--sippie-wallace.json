@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-bernice-edwards--sippie-wallace",
+  "slug": "wikipedia-bernice-edwards--sippie-wallace",
+  "entityAId": "entity:bernice-edwards",
+  "entityBId": "entity:sippie-wallace",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Bernice Edwards and Sippie Wallace in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-bernice-edwards"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (bernice-edwards@1319217279:2). Verify the cited page context and an independent source before review."
+}

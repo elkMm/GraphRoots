@@ -1,0 +1,25 @@
+{
+  "id": "entity:sonny-boy-williamson-ii",
+  "slug": "sonny-boy-williamson-ii",
+  "name": "Sonny Boy Williamson II",
+  "entityType": "artist",
+  "summary": "Toured Britain in the 1960s backed by the Yardbirds and Animals, giving young British musicians direct stage experience with a first-generation bluesman.",
+  "dateDisplay": "c. 1912 – 1965",
+  "regions": ["Mississippi"],
+  "styles": [],
+  "sourceIds": ["source:prototype-migration"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "deVkwsKH5no",
+    "title": "Help Me",
+    "sourceUrl": "https://www.youtube.com/watch?v=deVkwsKH5no",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalId": "sonny_boy_williamson_ii",
+    "originalEra": "chicago"
+  }
+}

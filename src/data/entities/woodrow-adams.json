@@ -1,0 +1,24 @@
+{
+  "id": "entity:woodrow-adams",
+  "slug": "woodrow-adams",
+  "name": "Woodrow Adams",
+  "entityType": "artist",
+  "summary": "Woodrow Adams was a blues musician.",
+  "dateDisplay": "1917 – 1988",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician"],
+  "instruments": ["Harmonica", "Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-woodrow-adams",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "1-k17CMf5QM",
+    "title": "Pretty Baby Blues (Original Mix)",
+    "sourceUrl": "https://www.youtube.com/watch?v=1-k17CMf5QM",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

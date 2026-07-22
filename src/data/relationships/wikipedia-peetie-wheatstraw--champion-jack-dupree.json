@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-peetie-wheatstraw--champion-jack-dupree",
+  "slug": "wikipedia-peetie-wheatstraw--champion-jack-dupree",
+  "entityAId": "entity:peetie-wheatstraw",
+  "entityBId": "entity:champion-jack-dupree",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Peetie Wheatstraw and Champion Jack Dupree in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-peetie-wheatstraw"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (peetie-wheatstraw@1344944140:14, peetie-wheatstraw@1344944140:16). Verify the cited page context and an independent source before review."
+}

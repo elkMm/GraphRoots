@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-guitar-pete-franklin--scrapper-blackwell",
+  "slug": "wikipedia-guitar-pete-franklin--scrapper-blackwell",
+  "entityAId": "entity:guitar-pete-franklin",
+  "entityBId": "entity:scrapper-blackwell",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Guitar Pete Franklin and Scrapper Blackwell in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-guitar-pete-franklin"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (guitar-pete-franklin@1318203391:3). Verify the cited page context and an independent source before review."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-kirk-fletcher--albert-king",
+  "slug": "wikipedia-kirk-fletcher--albert-king",
+  "entityAId": "entity:kirk-fletcher",
+  "entityBId": "entity:albert-king",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Kirk Fletcher and Albert King in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-kirk-fletcher"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (kirk-fletcher@1340481513:9). Verify the cited page context and an independent source before review."
+}

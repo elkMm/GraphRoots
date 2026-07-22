@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-sam-myers--robert-cray",
+  "slug": "wikipedia-sam-myers--robert-cray",
+  "entityAId": "entity:sam-myers",
+  "entityBId": "entity:robert-cray",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Sam Myers and Robert Cray in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-sam-myers"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (sam-myers@1338120191:4). Verify the cited page context and an independent source before review."
+}

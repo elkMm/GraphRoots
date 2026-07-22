@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-howlin-wolf--willie-dixon",
+  "slug": "wikipedia-howlin-wolf--willie-dixon",
+  "entityAId": "entity:howlin-wolf",
+  "entityBId": "entity:willie-dixon",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Howlin' Wolf and Willie Dixon in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": [
+    "source:wikipedia-biography-howlin-wolf",
+    "source:wikipedia-biography-willie-dixon"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (howlin-wolf@1362821397:18, howlin-wolf@1362821397:20, willie-dixon@1360532572:2, willie-dixon@1360532572:9). Verify the cited page context and an independent source before review."
+}

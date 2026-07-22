@@ -1,0 +1,22 @@
+{
+  "id": "entity:cedric-burnside",
+  "slug": "cedric-burnside",
+  "name": "Cedric Burnside",
+  "entityType": "artist",
+  "summary": "North Mississippi drummer, guitarist and singer who carries Hill Country rhythmic traditions into contemporary songwriting and performance.",
+  "dateDisplay": "1978 –",
+  "regions": ["North Mississippi", "Mississippi Hill Country"],
+  "styles": ["Hill Country blues", "Contemporary blues"],
+  "roles": ["Singer", "Songwriter", "Drummer", "Guitarist"],
+  "instruments": ["Drums", "Guitar"],
+  "sourceIds": ["source:cedric-burnside-official-bio"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "2KBFUWQY8MA",
+    "title": "Step In (Official Music Video)",
+    "sourceUrl": "https://www.youtube.com/watch?v=2KBFUWQY8MA",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

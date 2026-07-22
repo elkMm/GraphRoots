@@ -1,0 +1,20 @@
+{
+  "id": "relationship:prototype:005",
+  "slug": "call-response--spirituals",
+  "entityAId": "entity:call-response",
+  "entityBId": "entity:spirituals",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "interpretive_or_debated",
+  "explanation": "Prototype note retained for editorial review: “structural retention.”",
+  "citationIds": [],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "The prototype supplied a generic directed influence link. Semantic type and evidence remain unassessed.",
+  "migration": {
+    "sourceFile": "reference/blues-graph.html",
+    "sourceChecksum": "0e26e393ee83c9b6886f0a68e176dd91fd3a9edfafb01e32ac07a296983e211d",
+    "originalRelationshipType": "generic_influence",
+    "originalNote": "structural retention"
+  }
+}

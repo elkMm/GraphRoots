@@ -1,0 +1,24 @@
+{
+  "id": "entity:jody-williams",
+  "slug": "jody-williams",
+  "name": "Jody Williams",
+  "entityType": "artist",
+  "summary": "Jody Williams was a blues singer, guitarist and musician.",
+  "dateDisplay": "1935 – 2018",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Guitarist", "Blues Musician"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-jody-williams",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "YT2OlTRUT9M",
+    "title": "Jody Williams With The Willie Henderson Horns, 2005 Chicago Blues Festival",
+    "sourceUrl": "https://www.youtube.com/watch?v=YT2OlTRUT9M",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

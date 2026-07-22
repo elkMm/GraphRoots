@@ -1,0 +1,24 @@
+{
+  "id": "entity:boo-boo-davis",
+  "slug": "boo-boo-davis",
+  "name": "Boo Boo Davis",
+  "entityType": "artist",
+  "summary": "Boo Boo Davis is a blues singer and songwriter.",
+  "dateDisplay": "1943 –",
+  "regions": ["United States"],
+  "styles": ["Blues", "Electric Blues"],
+  "roles": ["Singer", "Songwriter"],
+  "instruments": ["Guitar", "Harmonica", "Voice", "Harp"],
+  "sourceIds": [
+    "source:encyclopedia-boo-boo-davis",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "tI-tIugYrMA",
+    "title": "Xmas Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=tI-tIugYrMA",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

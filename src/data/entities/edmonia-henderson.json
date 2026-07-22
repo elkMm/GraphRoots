@@ -1,0 +1,23 @@
+{
+  "id": "entity:edmonia-henderson",
+  "slug": "edmonia-henderson",
+  "name": "Edmonia Henderson",
+  "entityType": "artist",
+  "summary": "Edmonia Henderson was a blues musician.",
+  "dateDisplay": "1900 – 1947",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Musician"],
+  "sourceIds": [
+    "source:encyclopedia-edmonia-henderson",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "VuEIDCB3Iy0",
+    "title": "Edmonia Henderson Nobody Else Will Do (1926)",
+    "sourceUrl": "https://www.youtube.com/watch?v=VuEIDCB3Iy0",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

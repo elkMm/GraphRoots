@@ -1,0 +1,17 @@
+{
+  "id": "relationship:wikipedia-floyd-jones--little-walter",
+  "slug": "wikipedia-floyd-jones--little-walter",
+  "entityAId": "entity:floyd-jones",
+  "entityBId": "entity:little-walter",
+  "relationshipType": "performed_with",
+  "orientation": "symmetric",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly places Floyd Jones and Little Walter in the same performance, touring, or band context. The precise relationship awaits independent review.",
+  "citationIds": [
+    "source:wikipedia-biography-floyd-jones",
+    "source:wikipedia-biography-little-walter"
+  ],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (floyd-jones@1326187699:3, little-walter@1355023051:4). Verify the cited page context and an independent source before review."
+}

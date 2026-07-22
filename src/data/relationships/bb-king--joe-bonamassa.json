@@ -1,0 +1,17 @@
+{
+  "id": "relationship:research:007",
+  "slug": "bb-king--joe-bonamassa",
+  "entityAId": "entity:bb-king",
+  "entityBId": "entity:joe-bonamassa",
+  "relationshipType": "mentored",
+  "orientation": "directed",
+  "evidenceCategory": "directly_documented",
+  "explanation": "Bonamassa directly identifies B.B. King as a mentor and traces their relationship to his childhood opening performance for King.",
+  "citationIds": [
+    "source:joe-bonamassa-bb-king-interview",
+    "source:joe-bonamassa-official-bio"
+  ],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

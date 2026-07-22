@@ -1,0 +1,21 @@
+{
+  "id": "entity:jesse-dayton",
+  "slug": "jesse-dayton",
+  "name": "Jesse Dayton",
+  "entityType": "artist",
+  "summary": "Texas singer, songwriter and guitarist whose work crosses electric blues, country, rockabilly and outlaw roots music.",
+  "regions": ["Texas"],
+  "styles": ["Electric blues", "Roots rock", "Country"],
+  "roles": ["Singer", "Songwriter", "Guitarist"],
+  "instruments": ["Guitar"],
+  "sourceIds": ["source:jesse-dayton-official-bio"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "_zjqiLZOr98",
+    "title": "Tried to Quit (But I Just Quit Tryin’)",
+    "sourceUrl": "https://www.youtube.com/watch?v=_zjqiLZOr98",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "reviewed",
+  "lastReviewed": "2026-07-22"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-lazy-lester--lightnin-hopkins",
+  "slug": "wikipedia-lazy-lester--lightnin-hopkins",
+  "entityAId": "entity:lazy-lester",
+  "entityBId": "entity:lightnin-hopkins",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Lazy Lester and Lightnin’ Hopkins in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-lazy-lester"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (lazy-lester@1361817362:3). Verify the cited page context and an independent source before review."
+}

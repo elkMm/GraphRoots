@@ -1,0 +1,14 @@
+{
+  "id": "relationship:wikipedia-josh-white--lightnin-hopkins",
+  "slug": "wikipedia-josh-white--lightnin-hopkins",
+  "entityAId": "entity:josh-white",
+  "entityBId": "entity:lightnin-hopkins",
+  "relationshipType": "provisional_unspecified",
+  "orientation": "undetermined",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "A Wikipedia biography explicitly connects Josh White and Lightnin’ Hopkins in a career, recording, repertoire, family, or scene context. The precise relationship type awaits editorial review.",
+  "citationIds": ["source:wikipedia-biography-josh-white"],
+  "reviewStatus": "provisional",
+  "disputeStatus": "none",
+  "curatorNote": "Automatically discovered from explicit linked mentions in Wikipedia biography text (josh-white@1362081086:14). Verify the cited page context and an independent source before review."
+}

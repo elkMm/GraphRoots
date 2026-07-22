@@ -1,0 +1,24 @@
+{
+  "id": "entity:joe-pullum",
+  "slug": "joe-pullum",
+  "name": "Joe Pullum",
+  "entityType": "artist",
+  "summary": "Joe Pullum was a blues singer and songwriter.",
+  "dateDisplay": "1905 – 1964",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Songwriter"],
+  "instruments": ["Voice"],
+  "sourceIds": [
+    "source:encyclopedia-joe-pullum",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "t6po3FRLXXc",
+    "title": "Traveling Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=t6po3FRLXXc",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

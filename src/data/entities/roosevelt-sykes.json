@@ -1,0 +1,24 @@
+{
+  "id": "entity:roosevelt-sykes",
+  "slug": "roosevelt-sykes",
+  "name": "Roosevelt Sykes",
+  "entityType": "artist",
+  "summary": "Roosevelt Sykes was a blues pianist, singer and composer.",
+  "dateDisplay": "1906 – 1983",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Pianist", "Singer", "Composer"],
+  "instruments": ["Piano"],
+  "sourceIds": [
+    "source:encyclopedia-roosevelt-sykes",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "7HbvVFuGcxI",
+    "title": "Roosevelt Sykes Sings The Blues (1962)",
+    "sourceUrl": "https://www.youtube.com/watch?v=7HbvVFuGcxI",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

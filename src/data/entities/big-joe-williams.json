@@ -1,0 +1,25 @@
+{
+  "id": "entity:big-joe-williams",
+  "slug": "big-joe-williams",
+  "name": "Big Joe Williams",
+  "entityType": "artist",
+  "summary": "Big Joe Williams was a blues singer, songwriter and singer-songwriter.",
+  "dateDisplay": "1903 – 1982",
+  "regions": ["United States"],
+  "styles": ["Blues", "Delta Blues"],
+  "roles": ["Singer", "Songwriter", "Singer-Songwriter", "Guitarist"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-big-joe-williams",
+    "source:wikipedia-list-blues-musicians-discovery",
+    "source:school-of-rock-history-blues"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "AXA_ejAyJEM",
+    "title": "Short Stuff Macon & Big Joe Williams Hell-Bound Blues (1964)",
+    "sourceUrl": "https://www.youtube.com/watch?v=AXA_ejAyJEM",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

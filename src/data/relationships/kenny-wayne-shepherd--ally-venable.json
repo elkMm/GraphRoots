@@ -1,0 +1,14 @@
+{
+  "id": "relationship:research:017",
+  "slug": "kenny-wayne-shepherd--ally-venable",
+  "entityAId": "entity:kenny-wayne-shepherd",
+  "entityBId": "entity:ally-venable",
+  "relationshipType": "mentored",
+  "orientation": "directed",
+  "evidenceCategory": "contextual_or_inferential",
+  "explanation": "Venable's official biography identifies Kenny Wayne Shepherd as a mentor in her development as a blues-rock guitarist.",
+  "citationIds": ["source:ally-venable-official-bio"],
+  "reviewStatus": "reviewed",
+  "disputeStatus": "none",
+  "lastReviewed": "2026-07-22"
+}

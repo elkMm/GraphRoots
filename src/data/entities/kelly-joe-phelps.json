@@ -1,0 +1,24 @@
+{
+  "id": "entity:kelly-joe-phelps",
+  "slug": "kelly-joe-phelps",
+  "name": "Kelly Joe Phelps",
+  "entityType": "artist",
+  "summary": "Kelly Joe Phelps was a blues guitarist and singer-songwriter.",
+  "dateDisplay": "1959 – 2022",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Guitarist", "Singer-Songwriter"],
+  "instruments": ["Acoustic Guitar", "Slide Guitar"],
+  "sourceIds": [
+    "source:encyclopedia-kelly-joe-phelps",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "NIPHQZ0C7Uw",
+    "title": "Someone to Save Me",
+    "sourceUrl": "https://www.youtube.com/watch?v=NIPHQZ0C7Uw",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

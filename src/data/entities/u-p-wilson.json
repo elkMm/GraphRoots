@@ -1,0 +1,24 @@
+{
+  "id": "entity:u-p-wilson",
+  "slug": "u-p-wilson",
+  "name": "U.P. Wilson",
+  "entityType": "artist",
+  "summary": "U.P. Wilson was a blues singer, songwriter and musician.",
+  "dateDisplay": "1934 – 2004",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Singer", "Songwriter", "Musician", "Guitarist"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-u-p-wilson",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "grwVB2iL69Q",
+    "title": "U.P.'s Blues (Live)",
+    "sourceUrl": "https://www.youtube.com/watch?v=grwVB2iL69Q",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

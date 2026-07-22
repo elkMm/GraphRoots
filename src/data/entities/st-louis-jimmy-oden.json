@@ -1,0 +1,24 @@
+{
+  "id": "entity:st-louis-jimmy-oden",
+  "slug": "st-louis-jimmy-oden",
+  "name": "St. Louis Jimmy Oden",
+  "entityType": "artist",
+  "summary": "St. Louis Jimmy Oden was a blues composer, singer and songwriter.",
+  "dateDisplay": "1905 – 1977",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Composer", "Singer", "Songwriter", "Pianist"],
+  "instruments": ["Piano", "Voice"],
+  "sourceIds": [
+    "source:encyclopedia-st-louis-jimmy-oden",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "DYbDxn-RmyY",
+    "title": "St. Louis Woman Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=DYbDxn-RmyY",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}

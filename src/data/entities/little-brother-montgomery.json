@@ -1,0 +1,24 @@
+{
+  "id": "entity:little-brother-montgomery",
+  "slug": "little-brother-montgomery",
+  "name": "Little Brother Montgomery",
+  "entityType": "artist",
+  "summary": "Little Brother Montgomery was a blues pianist, jazz musician and singer.",
+  "dateDisplay": "1906 – 1985",
+  "regions": ["United States"],
+  "styles": ["Blues"],
+  "roles": ["Pianist", "Jazz Musician", "Singer", "Composer"],
+  "instruments": ["Piano"],
+  "sourceIds": [
+    "source:encyclopedia-little-brother-montgomery",
+    "source:wikipedia-list-blues-musicians-discovery"
+  ],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "jPi5I_bMfE4",
+    "title": "Little Brother Montgomery - Muleface Blues (Official Audio)",
+    "sourceUrl": "https://www.youtube.com/watch?v=jPi5I_bMfE4",
+    "lastChecked": "2026-07-22"
+  },
+  "reviewStatus": "needs_revision"
+}
