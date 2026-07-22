@@ -38,37 +38,7 @@ pnpm run build
 
 `pnpm run verify` runs formatting checks, linting, type checks, corpus validation, and unit tests as one command.
 
-## GitHub Pages
 
-The repository includes `.github/workflows/deploy-pages.yml`. Pull requests run the complete verification, browser-test, and production-build gate. Pushes to `main` run the same gate and deploy `dist/` to GitHub Pages.
-
-For the `elkaioum/GraphRoots` repository, the default production URL is:
-
-<https://elkaioum.github.io/GraphRoots/>
-
-The Astro `site` and `base` settings are derived from GitHub Actions metadata, so forks and repository renames receive the appropriate project path automatically. Root-relative application links, metadata, graph data requests, sitemap entries, robots metadata, and the 404 page all honor that base path.
-
-To publish:
-
-1. Push the repository to GitHub with `main` as the default branch.
-2. Open **Settings → Pages** and choose **GitHub Actions** as the source.
-3. Run **Verify and deploy GitHub Pages**, or push to `main`.
-
-See `docs/deployment.md` for local simulation, custom-domain variables, and troubleshooting.
-
-## Architecture
-
-- **Astro static output** owns layouts, metadata, content pages, and permanent routes.
-- **Svelte + D3** is loaded only for the homepage network and `/blues/explore` graph interaction.
-- **TypeScript + Zod** define canonical records independently from UI components.
-- **Local JSON files** under `src/data/` are the canonical corpus for this phase.
-- **Build scripts** validate references and generate public JSON/CSV artifacts under `public/data/generated/`.
-- **Relationship type, orientation, evidence category, review status, and dispute status** are independent canonical fields.
-- **Provisional relationships** remain excluded from permanent routes and public exports, but their dashed pathways are visible in the default exploratory graph and can be hidden with the reviewed-only control. Typed directed paths retain arrows; untyped paths remain arrowless.
-- **Entity pages** show reviewed and provisional graph connections together with explicit status labels; provisional records link to their other entity rather than receiving permanent claim routes.
-- **The complete graph may contain cycles**; a conservative transmission DAG is derived only from reviewed, directed, temporally ordered transmission claims.
-
-See `docs/architecture/ADR-001-static-local-corpus.md`, `docs/architecture/ADR-005-internal-import-provenance.md`, `docs/architecture/ADR-006-audited-encyclopedia-expansion.md`, `docs/architecture/ADR-007-independent-relationship-dimensions.md`, `docs/architecture/ADR-008-exploratory-graph-default.md`, `docs/architecture/ADR-009-biography-mention-provisional-layer.md`, `docs/architecture/ADR-010-exploratory-entity-pages.md`, and `docs/architecture/ADR-011-github-pages-deployment.md` for rationale and limitations.
 
 ## Current Corpus
 
