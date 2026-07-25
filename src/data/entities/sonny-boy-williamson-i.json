@@ -1,0 +1,22 @@
+{
+  "id": "entity:sonny-boy-williamson-i",
+  "slug": "sonny-boy-williamson-i",
+  "name": "Sonny Boy Williamson I",
+  "entityType": "artist",
+  "summary": "Often regarded as the pioneer of the blues harp as a solo instrument, earning recognition as \"the father of modern blues harp\" and shaping generations of harmonica players.",
+  "dateDisplay": "1914 – 1948",
+  "regions": ["Chicago"],
+  "styles": ["Blues", "Country blues"],
+  "roles": ["Musician", "Songwriter"],
+  "instruments": ["Harmonica", "Voice"],
+  "sourceIds": ["source:encyclopedia-sonny-boy-williamson-i"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "1k8K1YGjrvI",
+    "title": "Good Morning, School Girl",
+    "sourceUrl": "https://www.youtube.com/watch?v=1k8K1YGjrvI",
+    "lastChecked": "2026-07-25"
+  },
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

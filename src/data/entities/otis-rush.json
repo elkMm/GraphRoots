@@ -1,0 +1,22 @@
+{
+  "id": "entity:otis-rush",
+  "slug": "otis-rush",
+  "name": "Otis Rush",
+  "entityType": "artist",
+  "summary": "Pioneering West Side Chicago blues guitarist whose slow-burning, upside-down left-handed guitar style and long bent notes influenced Eric Clapton and Peter Green.",
+  "dateDisplay": "1934 – 2018",
+  "regions": ["Chicago"],
+  "styles": ["Chicago blues", "Electric blues"],
+  "roles": ["Guitarist", "Singer", "Songwriter"],
+  "instruments": ["Electric guitar", "Voice"],
+  "sourceIds": ["source:encyclopedia-otis-rush"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "dC1HhtcGRnA",
+    "title": "I Can't Quit You Baby",
+    "sourceUrl": "https://www.youtube.com/watch?v=dC1HhtcGRnA",
+    "lastChecked": "2026-07-25"
+  },
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

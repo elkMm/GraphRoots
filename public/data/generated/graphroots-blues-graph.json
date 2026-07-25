@@ -1,6 +1,6 @@
 {
   "corpusVersion": "0.7.1",
-  "generatedAt": "2026-07-22T19:24:54.604Z",
+  "generatedAt": "2026-07-25T23:39:33.344Z",
   "nodes": [
     {
       "id": "entity:albert-collins",
@@ -384,6 +384,17 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:bobby-rush",
+      "slug": "bobby-rush",
+      "name": "Bobby Rush",
+      "entityType": "artist",
+      "dateDisplay": "b. 1933",
+      "primaryRegion": "Pine Bluff, Arkansas",
+      "connectionCount": 0,
+      "summary": "Blues artist blending traditional blues with funk and comedic showmanship; won his first Grammy Award at age 83 in 2017 for Best Traditional Blues Album.",
+      "reviewStatus": "needs_revision"
+    },
+    {
       "id": "entity:bobo-jenkins",
       "slug": "bobo-jenkins",
       "name": "Bobo Jenkins",
@@ -709,6 +720,17 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:cross-road-blues",
+      "slug": "cross-road-blues",
+      "name": "Cross Road Blues",
+      "entityType": "recording",
+      "dateDisplay": "1936 – recorded; 1937 – released",
+      "primaryRegion": "Mississippi Delta",
+      "connectionCount": 0,
+      "summary": "Robert Johnson's original Delta blues recording became foundational to blues history and slide guitar technique; its Devil-at-the-crossroads mythology has overshadowed lyrics actually about hardship and loneliness. Performed by Robert Johnson, written by Robert Johnson, released on Vocalion Records.",
+      "reviewStatus": "needs_revision"
+    },
+    {
       "id": "entity:cub-koda",
       "slug": "cub-koda",
       "name": "Cub Koda",
@@ -764,6 +786,17 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:derek-trucks",
+      "slug": "derek-trucks",
+      "name": "Derek Trucks",
+      "entityType": "artist",
+      "dateDisplay": "b. 1979",
+      "primaryRegion": "Jacksonville, Florida",
+      "connectionCount": 0,
+      "summary": "Preeminent contemporary slide guitarist, twice ranked among Rolling Stone's 100 Greatest Guitarists; bridges traditional blues heritage through The Allman Brothers Band and Tedeschi Trucks Band.",
+      "reviewStatus": "needs_revision"
+    },
+    {
       "id": "entity:dexter-allen",
       "slug": "dexter-allen",
       "name": "Dexter Allen",
@@ -813,6 +846,17 @@
       "primaryRegion": "United States",
       "connectionCount": 0,
       "summary": "Duke Henderson was a blues singer and jazz musician.",
+      "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:dust-my-broom",
+      "slug": "dust-my-broom",
+      "name": "Dust My Broom",
+      "entityType": "recording",
+      "dateDisplay": "1951",
+      "primaryRegion": "Mississippi",
+      "connectionCount": 0,
+      "summary": "Elmore James's electrified, amplified adaptation of Robert Johnson's acoustic original produced one of the most famous slide guitar riffs in blues history. Performed by Elmore James, written by Robert Johnson (adapted by Elmore James), released on Trumpet Records.",
       "reviewStatus": "needs_revision"
     },
     {
@@ -947,6 +991,17 @@
       "primaryRegion": "United States",
       "connectionCount": 2,
       "summary": "Etta Baker was a blues musician and guitarist.",
+      "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:etta-james",
+      "slug": "etta-james",
+      "name": "Etta James",
+      "entityType": "artist",
+      "dateDisplay": "1938 – 2012",
+      "primaryRegion": "Los Angeles",
+      "connectionCount": 0,
+      "summary": "Contralto singer whose deep, earthy voice bridged R&B and rock and roll; the Rock and Roll Hall of Fame called her one of the greatest voices of her century and \"forever the matriarch of blues.\"",
       "reviewStatus": "needs_revision"
     },
     {
@@ -1096,6 +1151,17 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:george-thorogood",
+      "slug": "george-thorogood",
+      "name": "George Thorogood",
+      "entityType": "artist",
+      "dateDisplay": "b. 1950",
+      "primaryRegion": "Wilmington, Delaware",
+      "connectionCount": 0,
+      "summary": "Bridged traditional blues with rock radio audiences via boogie-blues covers and originals like \"Bad to the Bone,\" selling 15 million records worldwide with The Delaware Destroyers.",
+      "reviewStatus": "needs_revision"
+    },
+    {
       "id": "entity:gladys-bentley",
       "slug": "gladys-bentley",
       "name": "Gladys Bentley",
@@ -1204,6 +1270,28 @@
       "primaryRegion": "United States",
       "connectionCount": 3,
       "summary": "Hip Linkchain was a blues singer and songwriter.",
+      "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:hoochie-coochie-man",
+      "slug": "hoochie-coochie-man",
+      "name": "Hoochie Coochie Man",
+      "entityType": "recording",
+      "dateDisplay": "1954",
+      "primaryRegion": "Chicago",
+      "connectionCount": 0,
+      "summary": "Willie Dixon's stop-time, hoodoo-themed composition became one of Muddy Waters' most popular recordings and helped establish Dixon as Chess Records' chief songwriter; its riff was absorbed into the language of blues, R&B, and rock and roll. Performed by Muddy Waters, written by Willie Dixon, released on Chess Records.",
+      "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:hound-dog-taylor",
+      "slug": "hound-dog-taylor",
+      "name": "Hound Dog Taylor",
+      "entityType": "artist",
+      "dateDisplay": "1917 – 1975",
+      "primaryRegion": "Chicago",
+      "connectionCount": 0,
+      "summary": "Chicago blues musician known for raw, energetic electrified slide guitar; his recordings launched Alligator Records and influenced later musicians including George Thorogood.",
       "reviewStatus": "needs_revision"
     },
     {
@@ -1606,6 +1694,17 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:johnny-winter",
+      "slug": "johnny-winter",
+      "name": "Johnny Winter",
+      "entityType": "artist",
+      "dateDisplay": "1944 – 2014",
+      "primaryRegion": "Beaumont, Texas",
+      "connectionCount": 0,
+      "summary": "Pioneering blues rock guitarist known for high-energy slide guitar playing; produced three Grammy Award-winning albums for Muddy Waters after his 1968 discovery by Columbia Records.",
+      "reviewStatus": "needs_revision"
+    },
+    {
       "id": "entity:jontavious-willis",
       "slug": "jontavious-willis",
       "name": "Jontavious Willis",
@@ -1725,6 +1824,17 @@
       "connectionCount": 12,
       "summary": "Louisiana-born guitarist and bandleader whose recordings helped carry electric blues and blues rock into mainstream rock audiences from the 1990s onward.",
       "reviewStatus": "reviewed"
+    },
+    {
+      "id": "entity:killing-floor",
+      "slug": "killing-floor",
+      "name": "Killing Floor",
+      "entityType": "recording",
+      "dateDisplay": "1964 – recorded; 1965 – released",
+      "primaryRegion": "Chicago",
+      "connectionCount": 0,
+      "summary": "A defining classic of Chicago electric blues inducted into the Blues Hall of Fame in 1991; one of Howlin' Wolf's most frequently covered compositions. Performed by Howlin' Wolf, written by Chester Burnett (Howlin' Wolf), released on Chess Records.",
+      "reviewStatus": "needs_revision"
     },
     {
       "id": "entity:kip-anderson",
@@ -1882,6 +1992,17 @@
       "reviewStatus": "reviewed"
     },
     {
+      "id": "entity:lightnin-slim",
+      "slug": "lightnin-slim",
+      "name": "Lightnin' Slim",
+      "entityType": "artist",
+      "dateDisplay": "1913 – 1974",
+      "primaryRegion": "Baton Rouge",
+      "connectionCount": 0,
+      "summary": "Foundational swamp blues artist who recorded prolifically for Excello Records starting with 1954's \"Bad Luck,\" collaborating with Slim Harpo and Lazy Lester to define the swamp blues sound.",
+      "reviewStatus": "needs_revision"
+    },
+    {
       "id": "entity:lil-dave-thompson",
       "slug": "lil-dave-thompson",
       "name": "Lil' Dave Thompson",
@@ -1957,6 +2078,17 @@
       "connectionCount": 7,
       "summary": "Memphis singer-guitarist whose left-handed, upside-down approach joined modern electric blues with blues-rock intensity and family-based musical exchange.",
       "reviewStatus": "reviewed"
+    },
+    {
+      "id": "entity:little-milton",
+      "slug": "little-milton",
+      "name": "Little Milton",
+      "entityType": "artist",
+      "dateDisplay": "1934 – 2005",
+      "primaryRegion": "Mississippi Delta",
+      "connectionCount": 0,
+      "summary": "Blues artist best remembered for his 1965 number-one R&B hit \"We're Gonna Make It,\" blending blues with soul influences before his induction into the Blues Hall of Fame in 1988.",
+      "reviewStatus": "needs_revision"
     },
     {
       "id": "entity:little-richard",
@@ -2348,6 +2480,17 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:otis-rush",
+      "slug": "otis-rush",
+      "name": "Otis Rush",
+      "entityType": "artist",
+      "dateDisplay": "1934 – 2018",
+      "primaryRegion": "Chicago",
+      "connectionCount": 0,
+      "summary": "Pioneering West Side Chicago blues guitarist whose slow-burning, upside-down left-handed guitar style and long bent notes influenced Eric Clapton and Peter Green.",
+      "reviewStatus": "needs_revision"
+    },
+    {
       "id": "entity:otis-spann",
       "slug": "otis-spann",
       "name": "Otis Spann",
@@ -2577,6 +2720,17 @@
       "networkGroup": "delta",
       "connectionCount": 37,
       "summary": "Recorded only 29 songs, yet his harmonic sophistication and lyrical imagery became the most-cited single influence for the British blues revival a generation later.",
+      "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:robert-nighthawk",
+      "slug": "robert-nighthawk",
+      "name": "Robert Nighthawk",
+      "entityType": "artist",
+      "dateDisplay": "1909 – 1967",
+      "primaryRegion": "Helena",
+      "connectionCount": 0,
+      "summary": "Influential electric slide guitarist who recorded under the names Robert Lee McCoy and Robert Nighthawk; \"Annie Lee Blues\" reached the Billboard R&B chart in 1949. Inducted into the Blues Hall of Fame in 1983.",
       "reviewStatus": "needs_revision"
     },
     {
@@ -2834,6 +2988,28 @@
       "reviewStatus": "reviewed"
     },
     {
+      "id": "entity:slim-harpo",
+      "slug": "slim-harpo",
+      "name": "Slim Harpo",
+      "entityType": "artist",
+      "dateDisplay": "1924 – 1970",
+      "primaryRegion": "Baton Rouge",
+      "connectionCount": 0,
+      "summary": "One of the most commercially successful swamp blues artists of his day; \"Baby Scratch My Back\" (1966) topped the R&B chart, and his songs became widely covered by British rock acts.",
+      "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:smokestack-lightning",
+      "slug": "smokestack-lightning",
+      "name": "Smokestack Lightning",
+      "entityType": "recording",
+      "dateDisplay": "1956",
+      "primaryRegion": "Chicago",
+      "connectionCount": 0,
+      "summary": "One of Howlin' Wolf's most popular and influential recordings; received a Grammy Hall of Fame Award in 1999 and was selected for preservation in the National Recording Registry. Performed by Howlin' Wolf, written by Chester Burnett (Howlin' Wolf), released on Chess Records.",
+      "reviewStatus": "needs_revision"
+    },
+    {
       "id": "entity:smokey-hogg",
       "slug": "smokey-hogg",
       "name": "Smokey Hogg",
@@ -2887,6 +3063,17 @@
       "primaryRegion": "United States",
       "connectionCount": 7,
       "summary": "Son Seals was a blues singer, guitarist and composer.",
+      "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:sonny-boy-williamson-i",
+      "slug": "sonny-boy-williamson-i",
+      "name": "Sonny Boy Williamson I",
+      "entityType": "artist",
+      "dateDisplay": "1914 – 1948",
+      "primaryRegion": "Chicago",
+      "connectionCount": 0,
+      "summary": "Often regarded as the pioneer of the blues harp as a solo instrument, earning recognition as \"the father of modern blues harp\" and shaping generations of harmonica players.",
       "reviewStatus": "needs_revision"
     },
     {
@@ -2980,6 +3167,17 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:stormy-monday",
+      "slug": "stormy-monday",
+      "name": "Call It Stormy Monday (But Tuesday Is Just as Bad)",
+      "entityType": "recording",
+      "dateDisplay": "1947",
+      "primaryRegion": "United States",
+      "connectionCount": 0,
+      "summary": "A slow twelve-bar blues described as one of the most influential records in both blues and guitar history, inspiring B.B. King and others to adopt the electric guitar. Performed by T-Bone Walker, written by Aaron \"T-Bone\" Walker, released on Black & White Records.",
+      "reviewStatus": "needs_revision"
+    },
+    {
       "id": "entity:susan-tedeschi",
       "slug": "susan-tedeschi",
       "name": "Susan Tedeschi",
@@ -2988,6 +3186,17 @@
       "primaryRegion": "United States",
       "connectionCount": 10,
       "summary": "Susan Tedeschi is a blues singer-songwriter, singer and composer.",
+      "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:sweet-home-chicago",
+      "slug": "sweet-home-chicago",
+      "name": "Sweet Home Chicago",
+      "entityType": "recording",
+      "dateDisplay": "1936 – recorded; 1937 – released",
+      "primaryRegion": "Chicago",
+      "connectionCount": 0,
+      "summary": "Johnson's adaptation of earlier regional songs into a migration anthem, replacing references to Kokomo, Indiana with Chicago; became a blues standard likened to \"When the Saints Go Marching In.\" Performed by Robert Johnson, written by Robert Johnson, released on Vocalion Records.",
       "reviewStatus": "needs_revision"
     },
     {
@@ -3110,6 +3319,17 @@
       "primaryRegion": "United States",
       "connectionCount": 2,
       "summary": "Terry \"Harmonica\" Bean is a blues songwriter.",
+      "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:the-thrill-is-gone",
+      "slug": "the-thrill-is-gone",
+      "name": "The Thrill Is Gone",
+      "entityType": "recording",
+      "dateDisplay": "1969",
+      "primaryRegion": "United States",
+      "connectionCount": 0,
+      "summary": "B.B. King's rendition of this 1951 blues standard reached number three on Billboard's Best Selling Soul Singles chart and won King a Grammy Award for Best Male R&B Vocal Performance in 1970. Performed by B.B. King, written by Roy Hawkins and Rick Darnell, released on Bluesway Records.",
       "reviewStatus": "needs_revision"
     },
     {

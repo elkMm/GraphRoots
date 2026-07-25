@@ -1,0 +1,22 @@
+{
+  "id": "entity:johnny-winter",
+  "slug": "johnny-winter",
+  "name": "Johnny Winter",
+  "entityType": "artist",
+  "summary": "Pioneering blues rock guitarist known for high-energy slide guitar playing; produced three Grammy Award-winning albums for Muddy Waters after his 1968 discovery by Columbia Records.",
+  "dateDisplay": "1944 – 2014",
+  "regions": ["Beaumont, Texas"],
+  "styles": ["Blues", "Blues rock", "Southern rock"],
+  "roles": ["Singer", "Guitarist", "Songwriter", "Record producer"],
+  "instruments": ["Electric guitar", "Voice"],
+  "sourceIds": ["source:encyclopedia-johnny-winter"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "Q0NBnClUEDA",
+    "title": "Rock Me Baby",
+    "sourceUrl": "https://www.youtube.com/watch?v=Q0NBnClUEDA",
+    "lastChecked": "2026-07-25"
+  },
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

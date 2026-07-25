@@ -1,0 +1,22 @@
+{
+  "id": "entity:lightnin-slim",
+  "slug": "lightnin-slim",
+  "name": "Lightnin' Slim",
+  "entityType": "artist",
+  "summary": "Foundational swamp blues artist who recorded prolifically for Excello Records starting with 1954's \"Bad Luck,\" collaborating with Slim Harpo and Lazy Lester to define the swamp blues sound.",
+  "dateDisplay": "1913 – 1974",
+  "regions": ["Baton Rouge"],
+  "styles": ["Louisiana blues", "Swamp blues"],
+  "roles": ["Musician", "Songwriter"],
+  "instruments": ["Guitar", "Voice"],
+  "sourceIds": ["source:encyclopedia-lightnin-slim"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "XH20QkuIwvM",
+    "title": "Rooster Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=XH20QkuIwvM",
+    "lastChecked": "2026-07-25"
+  },
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

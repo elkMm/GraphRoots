@@ -1,0 +1,13 @@
+{
+  "id": "entity:the-thrill-is-gone",
+  "slug": "the-thrill-is-gone",
+  "name": "The Thrill Is Gone",
+  "entityType": "recording",
+  "summary": "B.B. King's rendition of this 1951 blues standard reached number three on Billboard's Best Selling Soul Singles chart and won King a Grammy Award for Best Male R&B Vocal Performance in 1970. Performed by B.B. King, written by Roy Hawkins and Rick Darnell, released on Bluesway Records.",
+  "dateDisplay": "1969",
+  "regions": ["United States"],
+  "styles": ["Electric blues"],
+  "sourceIds": ["source:encyclopedia-the-thrill-is-gone"],
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

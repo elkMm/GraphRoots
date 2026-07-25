@@ -1,0 +1,13 @@
+{
+  "id": "entity:killing-floor",
+  "slug": "killing-floor",
+  "name": "Killing Floor",
+  "entityType": "recording",
+  "summary": "A defining classic of Chicago electric blues inducted into the Blues Hall of Fame in 1991; one of Howlin' Wolf's most frequently covered compositions. Performed by Howlin' Wolf, written by Chester Burnett (Howlin' Wolf), released on Chess Records.",
+  "dateDisplay": "1964 – recorded; 1965 – released",
+  "regions": ["Chicago"],
+  "styles": ["Chicago blues"],
+  "sourceIds": ["source:encyclopedia-killing-floor"],
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

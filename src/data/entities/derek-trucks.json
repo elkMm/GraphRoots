@@ -1,0 +1,22 @@
+{
+  "id": "entity:derek-trucks",
+  "slug": "derek-trucks",
+  "name": "Derek Trucks",
+  "entityType": "artist",
+  "summary": "Preeminent contemporary slide guitarist, twice ranked among Rolling Stone's 100 Greatest Guitarists; bridges traditional blues heritage through The Allman Brothers Band and Tedeschi Trucks Band.",
+  "dateDisplay": "b. 1979",
+  "regions": ["Jacksonville, Florida"],
+  "styles": ["Blues", "Southern rock", "Jam band"],
+  "roles": ["Guitarist", "Bandleader", "Songwriter"],
+  "instruments": ["Electric guitar", "Sarod"],
+  "sourceIds": ["source:encyclopedia-derek-trucks"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "GJejozFL_6w",
+    "title": "Midnight in Harlem",
+    "sourceUrl": "https://www.youtube.com/watch?v=GJejozFL_6w",
+    "lastChecked": "2026-07-25"
+  },
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

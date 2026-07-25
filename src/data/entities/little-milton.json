@@ -1,0 +1,22 @@
+{
+  "id": "entity:little-milton",
+  "slug": "little-milton",
+  "name": "Little Milton",
+  "entityType": "artist",
+  "summary": "Blues artist best remembered for his 1965 number-one R&B hit \"We're Gonna Make It,\" blending blues with soul influences before his induction into the Blues Hall of Fame in 1988.",
+  "dateDisplay": "1934 – 2005",
+  "regions": ["Mississippi Delta", "St. Louis", "Memphis"],
+  "styles": ["Electric blues", "Soul", "R&B"],
+  "roles": ["Singer", "Guitarist", "Record producer"],
+  "instruments": ["Electric guitar", "Voice"],
+  "sourceIds": ["source:encyclopedia-little-milton"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "QG9spAL7YRk",
+    "title": "We're Gonna Make It",
+    "sourceUrl": "https://www.youtube.com/watch?v=QG9spAL7YRk",
+    "lastChecked": "2026-07-25"
+  },
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

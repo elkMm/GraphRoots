@@ -1,0 +1,13 @@
+{
+  "id": "entity:hoochie-coochie-man",
+  "slug": "hoochie-coochie-man",
+  "name": "Hoochie Coochie Man",
+  "entityType": "recording",
+  "summary": "Willie Dixon's stop-time, hoodoo-themed composition became one of Muddy Waters' most popular recordings and helped establish Dixon as Chess Records' chief songwriter; its riff was absorbed into the language of blues, R&B, and rock and roll. Performed by Muddy Waters, written by Willie Dixon, released on Chess Records.",
+  "dateDisplay": "1954",
+  "regions": ["Chicago"],
+  "styles": ["Chicago blues"],
+  "sourceIds": ["source:encyclopedia-hoochie-coochie-man"],
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "entity:bobby-rush",
+  "slug": "bobby-rush",
+  "name": "Bobby Rush",
+  "entityType": "artist",
+  "summary": "Blues artist blending traditional blues with funk and comedic showmanship; won his first Grammy Award at age 83 in 2017 for Best Traditional Blues Album.",
+  "dateDisplay": "b. 1933",
+  "regions": ["Pine Bluff, Arkansas", "Jackson, Mississippi"],
+  "styles": ["Blues", "Soul-blues", "Funk"],
+  "roles": ["Singer", "Songwriter", "Record producer"],
+  "instruments": ["Voice", "Guitar", "Harmonica"],
+  "sourceIds": ["source:encyclopedia-bobby-rush"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "MH9wWRpFyzY",
+    "title": "Chicken Heads",
+    "sourceUrl": "https://www.youtube.com/watch?v=MH9wWRpFyzY",
+    "lastChecked": "2026-07-25"
+  },
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

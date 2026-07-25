@@ -1,0 +1,13 @@
+{
+  "id": "entity:smokestack-lightning",
+  "slug": "smokestack-lightning",
+  "name": "Smokestack Lightning",
+  "entityType": "recording",
+  "summary": "One of Howlin' Wolf's most popular and influential recordings; received a Grammy Hall of Fame Award in 1999 and was selected for preservation in the National Recording Registry. Performed by Howlin' Wolf, written by Chester Burnett (Howlin' Wolf), released on Chess Records.",
+  "dateDisplay": "1956",
+  "regions": ["Chicago"],
+  "styles": ["Chicago blues"],
+  "sourceIds": ["source:encyclopedia-smokestack-lightning"],
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "entity:robert-nighthawk",
+  "slug": "robert-nighthawk",
+  "name": "Robert Nighthawk",
+  "entityType": "artist",
+  "summary": "Influential electric slide guitarist who recorded under the names Robert Lee McCoy and Robert Nighthawk; \"Annie Lee Blues\" reached the Billboard R&B chart in 1949. Inducted into the Blues Hall of Fame in 1983.",
+  "dateDisplay": "1909 – 1967",
+  "regions": ["Helena", "Memphis", "Chicago"],
+  "styles": ["Country blues", "Chicago blues"],
+  "roles": ["Singer", "Guitarist", "Harmonica player"],
+  "instruments": ["Electric guitar", "Harmonica", "Voice"],
+  "sourceIds": ["source:encyclopedia-robert-nighthawk"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "EvUj9LYBBxg",
+    "title": "Annie Lee Blues",
+    "sourceUrl": "https://www.youtube.com/watch?v=EvUj9LYBBxg",
+    "lastChecked": "2026-07-25"
+  },
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

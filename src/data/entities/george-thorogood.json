@@ -1,0 +1,22 @@
+{
+  "id": "entity:george-thorogood",
+  "slug": "george-thorogood",
+  "name": "George Thorogood",
+  "entityType": "artist",
+  "summary": "Bridged traditional blues with rock radio audiences via boogie-blues covers and originals like \"Bad to the Bone,\" selling 15 million records worldwide with The Delaware Destroyers.",
+  "dateDisplay": "b. 1950",
+  "regions": ["Wilmington, Delaware"],
+  "styles": ["Blues rock", "Boogie rock"],
+  "roles": ["Singer", "Guitarist", "Harmonica player"],
+  "instruments": ["Electric guitar", "Voice", "Harmonica"],
+  "sourceIds": ["source:encyclopedia-george-thorogood"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "IyhJ69mD7xI",
+    "title": "Bad to the Bone",
+    "sourceUrl": "https://www.youtube.com/watch?v=IyhJ69mD7xI",
+    "lastChecked": "2026-07-25"
+  },
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

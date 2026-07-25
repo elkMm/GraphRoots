@@ -1,0 +1,13 @@
+{
+  "id": "entity:stormy-monday",
+  "slug": "stormy-monday",
+  "name": "Call It Stormy Monday (But Tuesday Is Just as Bad)",
+  "entityType": "recording",
+  "summary": "A slow twelve-bar blues described as one of the most influential records in both blues and guitar history, inspiring B.B. King and others to adopt the electric guitar. Performed by T-Bone Walker, written by Aaron \"T-Bone\" Walker, released on Black & White Records.",
+  "dateDisplay": "1947",
+  "regions": ["United States"],
+  "styles": ["Electric blues"],
+  "sourceIds": ["source:encyclopedia-stormy-monday"],
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "entity:sweet-home-chicago",
+  "slug": "sweet-home-chicago",
+  "name": "Sweet Home Chicago",
+  "entityType": "recording",
+  "summary": "Johnson's adaptation of earlier regional songs into a migration anthem, replacing references to Kokomo, Indiana with Chicago; became a blues standard likened to \"When the Saints Go Marching In.\" Performed by Robert Johnson, written by Robert Johnson, released on Vocalion Records.",
+  "dateDisplay": "1936 – recorded; 1937 – released",
+  "regions": ["Chicago"],
+  "styles": ["Delta blues"],
+  "sourceIds": ["source:encyclopedia-sweet-home-chicago"],
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

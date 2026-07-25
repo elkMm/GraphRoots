@@ -1,7 +1,7 @@
 {
   "metadata": {
     "corpusVersion": "0.7.1",
-    "generatedAt": "2026-07-22T19:24:54.796Z",
+    "generatedAt": "2026-07-25T23:39:33.557Z",
     "license": {
       "id": "NOASSERTION",
       "name": "No public data license has been asserted yet"
@@ -315,6 +315,15 @@
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q4935407. This source does not establish graph relationships."
     },
     {
+      "id": "source:encyclopedia-bobby-rush",
+      "sourceType": "reputable_reference",
+      "title": "Bobby Rush",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bobby_Rush_(musician)",
+      "accessDate": "2026-07-25",
+      "note": "Biographical and career profile used for basic identity fields. This source does not establish graph relationships."
+    },
+    {
       "id": "source:encyclopedia-bobo-jenkins",
       "sourceType": "reputable_reference",
       "title": "Bobo Jenkins",
@@ -486,6 +495,15 @@
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q449277. This source does not establish graph relationships."
     },
     {
+      "id": "source:encyclopedia-cross-road-blues",
+      "sourceType": "reputable_reference",
+      "title": "Cross Road Blues",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cross_Road_Blues",
+      "accessDate": "2026-07-25",
+      "note": "Recording history profile used for basic identity fields. This source does not establish graph relationships."
+    },
+    {
       "id": "source:encyclopedia-cub-koda",
       "sourceType": "reputable_reference",
       "title": "Cub Koda",
@@ -531,6 +549,15 @@
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q5259181. This source does not establish graph relationships."
     },
     {
+      "id": "source:encyclopedia-derek-trucks",
+      "sourceType": "reputable_reference",
+      "title": "Derek Trucks",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Derek_Trucks",
+      "accessDate": "2026-07-25",
+      "note": "Biographical and career profile used for basic identity fields. This source does not establish graph relationships."
+    },
+    {
       "id": "source:encyclopedia-dexter-allen",
       "sourceType": "reputable_reference",
       "title": "Dexter Allen",
@@ -565,6 +592,15 @@
       "url": "https://en.wikipedia.org/wiki/Duke_Henderson",
       "accessDate": "2026-07-22",
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q3041084. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-dust-my-broom",
+      "sourceType": "reputable_reference",
+      "title": "Dust My Broom",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dust_My_Broom",
+      "accessDate": "2026-07-25",
+      "note": "Recording history profile used for basic identity fields. This source does not establish graph relationships."
     },
     {
       "id": "source:encyclopedia-earl-king",
@@ -648,6 +684,15 @@
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q292389. This source does not establish graph relationships."
     },
     {
+      "id": "source:encyclopedia-etta-james",
+      "sourceType": "reputable_reference",
+      "title": "Etta James",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Etta_James",
+      "accessDate": "2026-07-25",
+      "note": "Biographical and career profile used for basic identity fields. This source does not establish graph relationships."
+    },
+    {
       "id": "source:encyclopedia-fenton-robinson",
       "sourceType": "reputable_reference",
       "title": "Fenton Robinson",
@@ -718,6 +763,15 @@
       "url": "https://en.wikipedia.org/wiki/George_%22Harmonica%22_Smith",
       "accessDate": "2026-07-22",
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q458486. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-george-thorogood",
+      "sourceType": "reputable_reference",
+      "title": "George Thorogood",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Thorogood",
+      "accessDate": "2026-07-25",
+      "note": "Biographical and career profile used for basic identity fields. This source does not establish graph relationships."
     },
     {
       "id": "source:encyclopedia-gladys-bentley",
@@ -799,6 +853,24 @@
       "url": "https://en.wikipedia.org/wiki/Hip_Linkchain",
       "accessDate": "2026-07-22",
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q12168149. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-hoochie-coochie-man",
+      "sourceType": "reputable_reference",
+      "title": "Hoochie Coochie Man",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hoochie_Coochie_Man",
+      "accessDate": "2026-07-25",
+      "note": "Recording history profile used for basic identity fields. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-hound-dog-taylor",
+      "sourceType": "reputable_reference",
+      "title": "Hound Dog Taylor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hound_Dog_Taylor",
+      "accessDate": "2026-07-25",
+      "note": "Biographical and career profile used for basic identity fields. This source does not establish graph relationships."
     },
     {
       "id": "source:encyclopedia-ida-cox",
@@ -1019,6 +1091,15 @@
       "note": "Used for the provisional identity, chronology, roles, instruments, styles, and regional profile of this artist. Relationship claims require separate citation records and editorial review."
     },
     {
+      "id": "source:encyclopedia-johnny-winter",
+      "sourceType": "reputable_reference",
+      "title": "Johnny Winter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Johnny_Winter",
+      "accessDate": "2026-07-25",
+      "note": "Biographical and career profile used for basic identity fields. This source does not establish graph relationships."
+    },
+    {
       "id": "source:encyclopedia-josh-white",
       "sourceType": "reputable_reference",
       "title": "Josh White",
@@ -1089,6 +1170,15 @@
       "url": "https://en.wikipedia.org/wiki/Kenny_Neal",
       "accessDate": "2026-07-22",
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1738982. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-killing-floor",
+      "sourceType": "reputable_reference",
+      "title": "Killing Floor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Killing_Floor_(song)",
+      "accessDate": "2026-07-25",
+      "note": "Recording history profile used for basic identity fields. This source does not establish graph relationships."
     },
     {
       "id": "source:encyclopedia-kip-anderson",
@@ -1172,6 +1262,15 @@
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1425596. This source does not establish graph relationships."
     },
     {
+      "id": "source:encyclopedia-lightnin-slim",
+      "sourceType": "reputable_reference",
+      "title": "Lightnin' Slim",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lightnin%27_Slim",
+      "accessDate": "2026-07-25",
+      "note": "Biographical and career profile used for basic identity fields. This source does not establish graph relationships."
+    },
+    {
       "id": "source:encyclopedia-lil-dave-thompson",
       "sourceType": "reputable_reference",
       "title": "Lil' Dave Thompson",
@@ -1224,6 +1323,15 @@
       "url": "https://en.wikipedia.org/wiki/Little_Hat_Jones",
       "accessDate": "2026-07-22",
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q210042. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-little-milton",
+      "sourceType": "reputable_reference",
+      "title": "Little Milton",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Little_Milton",
+      "accessDate": "2026-07-25",
+      "note": "Biographical and career profile used for basic identity fields. This source does not establish graph relationships."
     },
     {
       "id": "source:encyclopedia-little-sonny-jones",
@@ -1487,6 +1595,15 @@
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q7108788. This source does not establish graph relationships."
     },
     {
+      "id": "source:encyclopedia-otis-rush",
+      "sourceType": "reputable_reference",
+      "title": "Otis Rush",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Otis_Rush",
+      "accessDate": "2026-07-25",
+      "note": "Biographical and career profile used for basic identity fields. This source does not establish graph relationships."
+    },
+    {
       "id": "source:encyclopedia-otis-spann",
       "sourceType": "reputable_reference",
       "title": "Otis Spann",
@@ -1638,6 +1755,15 @@
       "url": "https://en.wikipedia.org/wiki/Robert_Curtis_Smith",
       "accessDate": "2026-07-22",
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q18058280. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-robert-nighthawk",
+      "sourceType": "reputable_reference",
+      "title": "Robert Nighthawk",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Nighthawk",
+      "accessDate": "2026-07-25",
+      "note": "Biographical and career profile used for basic identity fields. This source does not establish graph relationships."
     },
     {
       "id": "source:encyclopedia-robert-shaw",
@@ -1795,6 +1921,24 @@
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q21997839. This source does not establish graph relationships."
     },
     {
+      "id": "source:encyclopedia-slim-harpo",
+      "sourceType": "reputable_reference",
+      "title": "Slim Harpo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Slim_Harpo",
+      "accessDate": "2026-07-25",
+      "note": "Biographical and career profile used for basic identity fields. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-smokestack-lightning",
+      "sourceType": "reputable_reference",
+      "title": "Smokestack Lightning",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smokestack_Lightnin%27",
+      "accessDate": "2026-07-25",
+      "note": "Recording history profile used for basic identity fields. This source does not establish graph relationships."
+    },
+    {
       "id": "source:encyclopedia-smokey-hogg",
       "sourceType": "reputable_reference",
       "title": "Smokey Hogg",
@@ -1829,6 +1973,15 @@
       "url": "https://en.wikipedia.org/wiki/Son_Seals",
       "accessDate": "2026-07-22",
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q1514682. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-sonny-boy-williamson-i",
+      "sourceType": "reputable_reference",
+      "title": "Sonny Boy Williamson I",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sonny_Boy_Williamson_I",
+      "accessDate": "2026-07-25",
+      "note": "Biographical and career profile used for basic identity fields. This source does not establish graph relationships."
     },
     {
       "id": "source:encyclopedia-sonny-rhodes",
@@ -1867,6 +2020,15 @@
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q2320344. This source does not establish graph relationships."
     },
     {
+      "id": "source:encyclopedia-stormy-monday",
+      "sourceType": "reputable_reference",
+      "title": "Call It Stormy Monday (But Tuesday Is Just as Bad)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Call_It_Stormy_Monday",
+      "accessDate": "2026-07-25",
+      "note": "Recording history profile used for basic identity fields. This source does not establish graph relationships."
+    },
+    {
       "id": "source:encyclopedia-susan-tedeschi",
       "sourceType": "reputable_reference",
       "title": "Susan Tedeschi",
@@ -1874,6 +2036,15 @@
       "url": "https://en.wikipedia.org/wiki/Susan_Tedeschi",
       "accessDate": "2026-07-22",
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q275625. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-sweet-home-chicago",
+      "sourceType": "reputable_reference",
+      "title": "Sweet Home Chicago",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sweet_Home_Chicago",
+      "accessDate": "2026-07-25",
+      "note": "Recording history profile used for basic identity fields. This source does not establish graph relationships."
     },
     {
       "id": "source:encyclopedia-sylvester-weaver",
@@ -1955,6 +2126,15 @@
       "url": "https://en.wikipedia.org/wiki/Terry_%22Harmonica%22_Bean",
       "accessDate": "2026-07-22",
       "note": "Basic identity and structured profile fields were cross-checked against Wikidata Q18763860. This source does not establish graph relationships."
+    },
+    {
+      "id": "source:encyclopedia-the-thrill-is-gone",
+      "sourceType": "reputable_reference",
+      "title": "The Thrill Is Gone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Thrill_Is_Gone",
+      "accessDate": "2026-07-25",
+      "note": "Recording history profile used for basic identity fields. This source does not establish graph relationships."
     },
     {
       "id": "source:encyclopedia-thornetta-davis",

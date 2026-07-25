@@ -1,0 +1,22 @@
+{
+  "id": "entity:etta-james",
+  "slug": "etta-james",
+  "name": "Etta James",
+  "entityType": "artist",
+  "summary": "Contralto singer whose deep, earthy voice bridged R&B and rock and roll; the Rock and Roll Hall of Fame called her one of the greatest voices of her century and \"forever the matriarch of blues.\"",
+  "dateDisplay": "1938 – 2012",
+  "regions": ["Los Angeles"],
+  "styles": ["Blues", "R&B", "Soul"],
+  "roles": ["Singer", "Songwriter"],
+  "instruments": ["Voice"],
+  "sourceIds": ["source:encyclopedia-etta-james"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "cZag0E32is0",
+    "title": "At Last",
+    "sourceUrl": "https://www.youtube.com/watch?v=cZag0E32is0",
+    "lastChecked": "2026-07-25"
+  },
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

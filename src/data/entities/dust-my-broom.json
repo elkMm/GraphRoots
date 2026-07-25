@@ -1,0 +1,13 @@
+{
+  "id": "entity:dust-my-broom",
+  "slug": "dust-my-broom",
+  "name": "Dust My Broom",
+  "entityType": "recording",
+  "summary": "Elmore James's electrified, amplified adaptation of Robert Johnson's acoustic original produced one of the most famous slide guitar riffs in blues history. Performed by Elmore James, written by Robert Johnson (adapted by Elmore James), released on Trumpet Records.",
+  "dateDisplay": "1951",
+  "regions": ["Mississippi"],
+  "styles": ["Electric blues"],
+  "sourceIds": ["source:encyclopedia-dust-my-broom"],
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

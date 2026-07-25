@@ -1,7 +1,7 @@
 {
   "metadata": {
     "corpusVersion": "0.7.1",
-    "generatedAt": "2026-07-22T19:24:54.796Z",
+    "generatedAt": "2026-07-25T23:39:33.557Z",
     "license": {
       "id": "NOASSERTION",
       "name": "No public data license has been asserted yet"
@@ -1081,6 +1081,45 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:bobby-rush",
+      "slug": "bobby-rush",
+      "name": "Bobby Rush",
+      "entityType": "artist",
+      "summary": "Blues artist blending traditional blues with funk and comedic showmanship; won his first Grammy Award at age 83 in 2017 for Best Traditional Blues Album.",
+      "dateDisplay": "b. 1933",
+      "regions": [
+        "Pine Bluff, Arkansas",
+        "Jackson, Mississippi"
+      ],
+      "styles": [
+        "Blues",
+        "Soul-blues",
+        "Funk"
+      ],
+      "roles": [
+        "Singer",
+        "Songwriter",
+        "Record producer"
+      ],
+      "instruments": [
+        "Voice",
+        "Guitar",
+        "Harmonica"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-bobby-rush"
+      ],
+      "featuredVideo": {
+        "platform": "youtube",
+        "videoId": "MH9wWRpFyzY",
+        "title": "Chicken Heads",
+        "sourceUrl": "https://www.youtube.com/watch?v=MH9wWRpFyzY",
+        "lastChecked": "2026-07-25"
+      },
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
+    },
+    {
       "id": "entity:bobo-jenkins",
       "slug": "bobo-jenkins",
       "name": "Bobo Jenkins",
@@ -1988,6 +2027,25 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:cross-road-blues",
+      "slug": "cross-road-blues",
+      "name": "Cross Road Blues",
+      "entityType": "recording",
+      "summary": "Robert Johnson's original Delta blues recording became foundational to blues history and slide guitar technique; its Devil-at-the-crossroads mythology has overshadowed lyrics actually about hardship and loneliness. Performed by Robert Johnson, written by Robert Johnson, released on Vocalion Records.",
+      "dateDisplay": "1936 – recorded; 1937 – released",
+      "regions": [
+        "Mississippi Delta"
+      ],
+      "styles": [
+        "Delta blues"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-cross-road-blues"
+      ],
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
+    },
+    {
       "id": "entity:cub-koda",
       "slug": "cub-koda",
       "name": "Cub Koda",
@@ -2162,6 +2220,43 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:derek-trucks",
+      "slug": "derek-trucks",
+      "name": "Derek Trucks",
+      "entityType": "artist",
+      "summary": "Preeminent contemporary slide guitarist, twice ranked among Rolling Stone's 100 Greatest Guitarists; bridges traditional blues heritage through The Allman Brothers Band and Tedeschi Trucks Band.",
+      "dateDisplay": "b. 1979",
+      "regions": [
+        "Jacksonville, Florida"
+      ],
+      "styles": [
+        "Blues",
+        "Southern rock",
+        "Jam band"
+      ],
+      "roles": [
+        "Guitarist",
+        "Bandleader",
+        "Songwriter"
+      ],
+      "instruments": [
+        "Electric guitar",
+        "Sarod"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-derek-trucks"
+      ],
+      "featuredVideo": {
+        "platform": "youtube",
+        "videoId": "GJejozFL_6w",
+        "title": "Midnight in Harlem",
+        "sourceUrl": "https://www.youtube.com/watch?v=GJejozFL_6w",
+        "lastChecked": "2026-07-25"
+      },
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
+    },
+    {
       "id": "entity:dexter-allen",
       "slug": "dexter-allen",
       "name": "Dexter Allen",
@@ -2323,6 +2418,25 @@
         "lastChecked": "2026-07-22"
       },
       "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:dust-my-broom",
+      "slug": "dust-my-broom",
+      "name": "Dust My Broom",
+      "entityType": "recording",
+      "summary": "Elmore James's electrified, amplified adaptation of Robert Johnson's acoustic original produced one of the most famous slide guitar riffs in blues history. Performed by Elmore James, written by Robert Johnson (adapted by Elmore James), released on Trumpet Records.",
+      "dateDisplay": "1951",
+      "regions": [
+        "Mississippi"
+      ],
+      "styles": [
+        "Electric blues"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-dust-my-broom"
+      ],
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
     },
     {
       "id": "entity:earl-king",
@@ -2708,6 +2822,41 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:etta-james",
+      "slug": "etta-james",
+      "name": "Etta James",
+      "entityType": "artist",
+      "summary": "Contralto singer whose deep, earthy voice bridged R&B and rock and roll; the Rock and Roll Hall of Fame called her one of the greatest voices of her century and \"forever the matriarch of blues.\"",
+      "dateDisplay": "1938 – 2012",
+      "regions": [
+        "Los Angeles"
+      ],
+      "styles": [
+        "Blues",
+        "R&B",
+        "Soul"
+      ],
+      "roles": [
+        "Singer",
+        "Songwriter"
+      ],
+      "instruments": [
+        "Voice"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-etta-james"
+      ],
+      "featuredVideo": {
+        "platform": "youtube",
+        "videoId": "cZag0E32is0",
+        "title": "At Last",
+        "sourceUrl": "https://www.youtube.com/watch?v=cZag0E32is0",
+        "lastChecked": "2026-07-25"
+      },
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
+    },
+    {
       "id": "entity:fenton-robinson",
       "slug": "fenton-robinson",
       "name": "Fenton Robinson",
@@ -3088,6 +3237,43 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:george-thorogood",
+      "slug": "george-thorogood",
+      "name": "George Thorogood",
+      "entityType": "artist",
+      "summary": "Bridged traditional blues with rock radio audiences via boogie-blues covers and originals like \"Bad to the Bone,\" selling 15 million records worldwide with The Delaware Destroyers.",
+      "dateDisplay": "b. 1950",
+      "regions": [
+        "Wilmington, Delaware"
+      ],
+      "styles": [
+        "Blues rock",
+        "Boogie rock"
+      ],
+      "roles": [
+        "Singer",
+        "Guitarist",
+        "Harmonica player"
+      ],
+      "instruments": [
+        "Electric guitar",
+        "Voice",
+        "Harmonica"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-george-thorogood"
+      ],
+      "featuredVideo": {
+        "platform": "youtube",
+        "videoId": "IyhJ69mD7xI",
+        "title": "Bad to the Bone",
+        "sourceUrl": "https://www.youtube.com/watch?v=IyhJ69mD7xI",
+        "lastChecked": "2026-07-25"
+      },
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
+    },
+    {
       "id": "entity:gladys-bentley",
       "slug": "gladys-bentley",
       "name": "Gladys Bentley",
@@ -3414,6 +3600,60 @@
         "lastChecked": "2026-07-22"
       },
       "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:hoochie-coochie-man",
+      "slug": "hoochie-coochie-man",
+      "name": "Hoochie Coochie Man",
+      "entityType": "recording",
+      "summary": "Willie Dixon's stop-time, hoodoo-themed composition became one of Muddy Waters' most popular recordings and helped establish Dixon as Chess Records' chief songwriter; its riff was absorbed into the language of blues, R&B, and rock and roll. Performed by Muddy Waters, written by Willie Dixon, released on Chess Records.",
+      "dateDisplay": "1954",
+      "regions": [
+        "Chicago"
+      ],
+      "styles": [
+        "Chicago blues"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-hoochie-coochie-man"
+      ],
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
+    },
+    {
+      "id": "entity:hound-dog-taylor",
+      "slug": "hound-dog-taylor",
+      "name": "Hound Dog Taylor",
+      "entityType": "artist",
+      "summary": "Chicago blues musician known for raw, energetic electrified slide guitar; his recordings launched Alligator Records and influenced later musicians including George Thorogood.",
+      "dateDisplay": "1917 – 1975",
+      "regions": [
+        "Chicago"
+      ],
+      "styles": [
+        "Chicago blues",
+        "Blues rock"
+      ],
+      "roles": [
+        "Guitarist",
+        "Songwriter"
+      ],
+      "instruments": [
+        "Electric guitar",
+        "Voice"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-hound-dog-taylor"
+      ],
+      "featuredVideo": {
+        "platform": "youtube",
+        "videoId": "GbiIiuXeZgc",
+        "title": "Give Me Back My Wig",
+        "sourceUrl": "https://www.youtube.com/watch?v=GbiIiuXeZgc",
+        "lastChecked": "2026-07-25"
+      },
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
     },
     {
       "id": "entity:howlin-wolf",
@@ -4604,6 +4844,44 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:johnny-winter",
+      "slug": "johnny-winter",
+      "name": "Johnny Winter",
+      "entityType": "artist",
+      "summary": "Pioneering blues rock guitarist known for high-energy slide guitar playing; produced three Grammy Award-winning albums for Muddy Waters after his 1968 discovery by Columbia Records.",
+      "dateDisplay": "1944 – 2014",
+      "regions": [
+        "Beaumont, Texas"
+      ],
+      "styles": [
+        "Blues",
+        "Blues rock",
+        "Southern rock"
+      ],
+      "roles": [
+        "Singer",
+        "Guitarist",
+        "Songwriter",
+        "Record producer"
+      ],
+      "instruments": [
+        "Electric guitar",
+        "Voice"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-johnny-winter"
+      ],
+      "featuredVideo": {
+        "platform": "youtube",
+        "videoId": "Q0NBnClUEDA",
+        "title": "Rock Me Baby",
+        "sourceUrl": "https://www.youtube.com/watch?v=Q0NBnClUEDA",
+        "lastChecked": "2026-07-25"
+      },
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
+    },
+    {
       "id": "entity:jontavious-willis",
       "slug": "jontavious-willis",
       "name": "Jontavious Willis",
@@ -4985,6 +5263,25 @@
       },
       "reviewStatus": "reviewed",
       "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "entity:killing-floor",
+      "slug": "killing-floor",
+      "name": "Killing Floor",
+      "entityType": "recording",
+      "summary": "A defining classic of Chicago electric blues inducted into the Blues Hall of Fame in 1991; one of Howlin' Wolf's most frequently covered compositions. Performed by Howlin' Wolf, written by Chester Burnett (Howlin' Wolf), released on Chess Records.",
+      "dateDisplay": "1964 – recorded; 1965 – released",
+      "regions": [
+        "Chicago"
+      ],
+      "styles": [
+        "Chicago blues"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-killing-floor"
+      ],
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
     },
     {
       "id": "entity:kip-anderson",
@@ -5404,6 +5701,41 @@
       "lastReviewed": "2026-07-22"
     },
     {
+      "id": "entity:lightnin-slim",
+      "slug": "lightnin-slim",
+      "name": "Lightnin' Slim",
+      "entityType": "artist",
+      "summary": "Foundational swamp blues artist who recorded prolifically for Excello Records starting with 1954's \"Bad Luck,\" collaborating with Slim Harpo and Lazy Lester to define the swamp blues sound.",
+      "dateDisplay": "1913 – 1974",
+      "regions": [
+        "Baton Rouge"
+      ],
+      "styles": [
+        "Louisiana blues",
+        "Swamp blues"
+      ],
+      "roles": [
+        "Musician",
+        "Songwriter"
+      ],
+      "instruments": [
+        "Guitar",
+        "Voice"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-lightnin-slim"
+      ],
+      "featuredVideo": {
+        "platform": "youtube",
+        "videoId": "XH20QkuIwvM",
+        "title": "Rooster Blues",
+        "sourceUrl": "https://www.youtube.com/watch?v=XH20QkuIwvM",
+        "lastChecked": "2026-07-25"
+      },
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
+    },
+    {
       "id": "entity:lil-dave-thompson",
       "slug": "lil-dave-thompson",
       "name": "Lil' Dave Thompson",
@@ -5646,6 +5978,45 @@
       },
       "reviewStatus": "reviewed",
       "lastReviewed": "2026-07-22"
+    },
+    {
+      "id": "entity:little-milton",
+      "slug": "little-milton",
+      "name": "Little Milton",
+      "entityType": "artist",
+      "summary": "Blues artist best remembered for his 1965 number-one R&B hit \"We're Gonna Make It,\" blending blues with soul influences before his induction into the Blues Hall of Fame in 1988.",
+      "dateDisplay": "1934 – 2005",
+      "regions": [
+        "Mississippi Delta",
+        "St. Louis",
+        "Memphis"
+      ],
+      "styles": [
+        "Electric blues",
+        "Soul",
+        "R&B"
+      ],
+      "roles": [
+        "Singer",
+        "Guitarist",
+        "Record producer"
+      ],
+      "instruments": [
+        "Electric guitar",
+        "Voice"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-little-milton"
+      ],
+      "featuredVideo": {
+        "platform": "youtube",
+        "videoId": "QG9spAL7YRk",
+        "title": "We're Gonna Make It",
+        "sourceUrl": "https://www.youtube.com/watch?v=QG9spAL7YRk",
+        "lastChecked": "2026-07-25"
+      },
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
     },
     {
       "id": "entity:little-richard",
@@ -6793,6 +7164,42 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:otis-rush",
+      "slug": "otis-rush",
+      "name": "Otis Rush",
+      "entityType": "artist",
+      "summary": "Pioneering West Side Chicago blues guitarist whose slow-burning, upside-down left-handed guitar style and long bent notes influenced Eric Clapton and Peter Green.",
+      "dateDisplay": "1934 – 2018",
+      "regions": [
+        "Chicago"
+      ],
+      "styles": [
+        "Chicago blues",
+        "Electric blues"
+      ],
+      "roles": [
+        "Guitarist",
+        "Singer",
+        "Songwriter"
+      ],
+      "instruments": [
+        "Electric guitar",
+        "Voice"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-otis-rush"
+      ],
+      "featuredVideo": {
+        "platform": "youtube",
+        "videoId": "dC1HhtcGRnA",
+        "title": "I Can't Quit You Baby",
+        "sourceUrl": "https://www.youtube.com/watch?v=dC1HhtcGRnA",
+        "lastChecked": "2026-07-25"
+      },
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
+    },
+    {
       "id": "entity:otis-spann",
       "slug": "otis-spann",
       "name": "Otis Spann",
@@ -7484,6 +7891,45 @@
         "lastChecked": "2026-07-22"
       },
       "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:robert-nighthawk",
+      "slug": "robert-nighthawk",
+      "name": "Robert Nighthawk",
+      "entityType": "artist",
+      "summary": "Influential electric slide guitarist who recorded under the names Robert Lee McCoy and Robert Nighthawk; \"Annie Lee Blues\" reached the Billboard R&B chart in 1949. Inducted into the Blues Hall of Fame in 1983.",
+      "dateDisplay": "1909 – 1967",
+      "regions": [
+        "Helena",
+        "Memphis",
+        "Chicago"
+      ],
+      "styles": [
+        "Country blues",
+        "Chicago blues"
+      ],
+      "roles": [
+        "Singer",
+        "Guitarist",
+        "Harmonica player"
+      ],
+      "instruments": [
+        "Electric guitar",
+        "Harmonica",
+        "Voice"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-robert-nighthawk"
+      ],
+      "featuredVideo": {
+        "platform": "youtube",
+        "videoId": "EvUj9LYBBxg",
+        "title": "Annie Lee Blues",
+        "sourceUrl": "https://www.youtube.com/watch?v=EvUj9LYBBxg",
+        "lastChecked": "2026-07-25"
+      },
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
     },
     {
       "id": "entity:robert-shaw",
@@ -8288,6 +8734,60 @@
       "lastReviewed": "2026-07-22"
     },
     {
+      "id": "entity:slim-harpo",
+      "slug": "slim-harpo",
+      "name": "Slim Harpo",
+      "entityType": "artist",
+      "summary": "One of the most commercially successful swamp blues artists of his day; \"Baby Scratch My Back\" (1966) topped the R&B chart, and his songs became widely covered by British rock acts.",
+      "dateDisplay": "1924 – 1970",
+      "regions": [
+        "Baton Rouge"
+      ],
+      "styles": [
+        "Blues",
+        "Swamp blues"
+      ],
+      "roles": [
+        "Musician",
+        "Vocalist"
+      ],
+      "instruments": [
+        "Harmonica",
+        "Guitar"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-slim-harpo"
+      ],
+      "featuredVideo": {
+        "platform": "youtube",
+        "videoId": "SnMfdg61hPE",
+        "title": "Baby Scratch My Back",
+        "sourceUrl": "https://www.youtube.com/watch?v=SnMfdg61hPE",
+        "lastChecked": "2026-07-25"
+      },
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
+    },
+    {
+      "id": "entity:smokestack-lightning",
+      "slug": "smokestack-lightning",
+      "name": "Smokestack Lightning",
+      "entityType": "recording",
+      "summary": "One of Howlin' Wolf's most popular and influential recordings; received a Grammy Hall of Fame Award in 1999 and was selected for preservation in the National Recording Registry. Performed by Howlin' Wolf, written by Chester Burnett (Howlin' Wolf), released on Chess Records.",
+      "dateDisplay": "1956",
+      "regions": [
+        "Chicago"
+      ],
+      "styles": [
+        "Chicago blues"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-smokestack-lightning"
+      ],
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
+    },
+    {
       "id": "entity:smokey-hogg",
       "slug": "smokey-hogg",
       "name": "Smokey Hogg",
@@ -8448,6 +8948,41 @@
         "lastChecked": "2026-07-22"
       },
       "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:sonny-boy-williamson-i",
+      "slug": "sonny-boy-williamson-i",
+      "name": "Sonny Boy Williamson I",
+      "entityType": "artist",
+      "summary": "Often regarded as the pioneer of the blues harp as a solo instrument, earning recognition as \"the father of modern blues harp\" and shaping generations of harmonica players.",
+      "dateDisplay": "1914 – 1948",
+      "regions": [
+        "Chicago"
+      ],
+      "styles": [
+        "Blues",
+        "Country blues"
+      ],
+      "roles": [
+        "Musician",
+        "Songwriter"
+      ],
+      "instruments": [
+        "Harmonica",
+        "Voice"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-sonny-boy-williamson-i"
+      ],
+      "featuredVideo": {
+        "platform": "youtube",
+        "videoId": "1k8K1YGjrvI",
+        "title": "Good Morning, School Girl",
+        "sourceUrl": "https://www.youtube.com/watch?v=1k8K1YGjrvI",
+        "lastChecked": "2026-07-25"
+      },
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
     },
     {
       "id": "entity:sonny-boy-williamson-ii",
@@ -8677,6 +9212,25 @@
       "reviewStatus": "needs_revision"
     },
     {
+      "id": "entity:stormy-monday",
+      "slug": "stormy-monday",
+      "name": "Call It Stormy Monday (But Tuesday Is Just as Bad)",
+      "entityType": "recording",
+      "summary": "A slow twelve-bar blues described as one of the most influential records in both blues and guitar history, inspiring B.B. King and others to adopt the electric guitar. Performed by T-Bone Walker, written by Aaron \"T-Bone\" Walker, released on Black & White Records.",
+      "dateDisplay": "1947",
+      "regions": [
+        "United States"
+      ],
+      "styles": [
+        "Electric blues"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-stormy-monday"
+      ],
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
+    },
+    {
       "id": "entity:susan-tedeschi",
       "slug": "susan-tedeschi",
       "name": "Susan Tedeschi",
@@ -8712,6 +9266,25 @@
         "lastChecked": "2026-07-22"
       },
       "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:sweet-home-chicago",
+      "slug": "sweet-home-chicago",
+      "name": "Sweet Home Chicago",
+      "entityType": "recording",
+      "summary": "Johnson's adaptation of earlier regional songs into a migration anthem, replacing references to Kokomo, Indiana with Chicago; became a blues standard likened to \"When the Saints Go Marching In.\" Performed by Robert Johnson, written by Robert Johnson, released on Vocalion Records.",
+      "dateDisplay": "1936 – recorded; 1937 – released",
+      "regions": [
+        "Chicago"
+      ],
+      "styles": [
+        "Delta blues"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-sweet-home-chicago"
+      ],
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
     },
     {
       "id": "entity:sylvester-weaver",
@@ -9079,6 +9652,25 @@
         "lastChecked": "2026-07-22"
       },
       "reviewStatus": "needs_revision"
+    },
+    {
+      "id": "entity:the-thrill-is-gone",
+      "slug": "the-thrill-is-gone",
+      "name": "The Thrill Is Gone",
+      "entityType": "recording",
+      "summary": "B.B. King's rendition of this 1951 blues standard reached number three on Billboard's Best Selling Soul Singles chart and won King a Grammy Award for Best Male R&B Vocal Performance in 1970. Performed by B.B. King, written by Roy Hawkins and Rick Darnell, released on Bluesway Records.",
+      "dateDisplay": "1969",
+      "regions": [
+        "United States"
+      ],
+      "styles": [
+        "Electric blues"
+      ],
+      "sourceIds": [
+        "source:encyclopedia-the-thrill-is-gone"
+      ],
+      "reviewStatus": "needs_revision",
+      "lastReviewed": "2026-07-25"
     },
     {
       "id": "entity:thornetta-davis",

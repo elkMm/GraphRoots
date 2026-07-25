@@ -1,16 +1,17 @@
 {
   "corpusVersion": "0.7.1",
-  "generatedAt": "2026-07-22T19:24:54.416Z",
+  "generatedAt": "2026-07-25T23:39:33.159Z",
   "valid": true,
   "counts": {
-    "entities": 296,
+    "entities": 316,
     "relationships": 1196,
     "publicRelationships": 43,
-    "sources": 519,
+    "sources": 539,
     "entitiesByType": {
-      "artist": 282,
+      "artist": 294,
       "ensemble": 8,
-      "tradition": 6
+      "tradition": 6,
+      "recording": 8
     },
     "relationshipsByType": {
       "influenced_style": 25,

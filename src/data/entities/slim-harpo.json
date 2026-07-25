@@ -1,0 +1,22 @@
+{
+  "id": "entity:slim-harpo",
+  "slug": "slim-harpo",
+  "name": "Slim Harpo",
+  "entityType": "artist",
+  "summary": "One of the most commercially successful swamp blues artists of his day; \"Baby Scratch My Back\" (1966) topped the R&B chart, and his songs became widely covered by British rock acts.",
+  "dateDisplay": "1924 – 1970",
+  "regions": ["Baton Rouge"],
+  "styles": ["Blues", "Swamp blues"],
+  "roles": ["Musician", "Vocalist"],
+  "instruments": ["Harmonica", "Guitar"],
+  "sourceIds": ["source:encyclopedia-slim-harpo"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "SnMfdg61hPE",
+    "title": "Baby Scratch My Back",
+    "sourceUrl": "https://www.youtube.com/watch?v=SnMfdg61hPE",
+    "lastChecked": "2026-07-25"
+  },
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

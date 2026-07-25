@@ -1,0 +1,13 @@
+{
+  "id": "entity:cross-road-blues",
+  "slug": "cross-road-blues",
+  "name": "Cross Road Blues",
+  "entityType": "recording",
+  "summary": "Robert Johnson's original Delta blues recording became foundational to blues history and slide guitar technique; its Devil-at-the-crossroads mythology has overshadowed lyrics actually about hardship and loneliness. Performed by Robert Johnson, written by Robert Johnson, released on Vocalion Records.",
+  "dateDisplay": "1936 – recorded; 1937 – released",
+  "regions": ["Mississippi Delta"],
+  "styles": ["Delta blues"],
+  "sourceIds": ["source:encyclopedia-cross-road-blues"],
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}

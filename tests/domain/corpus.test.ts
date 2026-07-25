@@ -33,11 +33,11 @@ describe("GraphRoots corpus", () => {
     const report = validateCorpus(corpus, "2026-07-22T00:00:00.000Z");
 
     expect(report.valid).toBe(true);
-    expect(report.counts.entities).toBe(296);
-    expect(report.counts.entitiesByType.artist).toBe(282);
+    expect(report.counts.entities).toBe(316);
+    expect(report.counts.entitiesByType.artist).toBe(294);
     expect(report.counts.relationships).toBe(1196);
     expect(report.counts.publicRelationships).toBe(43);
-    expect(report.counts.sources).toBe(519);
+    expect(report.counts.sources).toBe(539);
     expect(report.citationCoverage.percentage).toBe(100);
   });
 
@@ -53,7 +53,7 @@ describe("GraphRoots corpus", () => {
     expect(artistsWithoutVideo).toEqual([]);
     expect(
       corpus.entities.filter((entity) => entity.entityType === "artist"),
-    ).toHaveLength(282);
+    ).toHaveLength(294);
     expect(gareDuNord?.featuredVideo?.videoId).toBe("XrqDr2c-yxU");
   });
 

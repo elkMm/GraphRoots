@@ -1,0 +1,22 @@
+{
+  "id": "entity:hound-dog-taylor",
+  "slug": "hound-dog-taylor",
+  "name": "Hound Dog Taylor",
+  "entityType": "artist",
+  "summary": "Chicago blues musician known for raw, energetic electrified slide guitar; his recordings launched Alligator Records and influenced later musicians including George Thorogood.",
+  "dateDisplay": "1917 – 1975",
+  "regions": ["Chicago"],
+  "styles": ["Chicago blues", "Blues rock"],
+  "roles": ["Guitarist", "Songwriter"],
+  "instruments": ["Electric guitar", "Voice"],
+  "sourceIds": ["source:encyclopedia-hound-dog-taylor"],
+  "featuredVideo": {
+    "platform": "youtube",
+    "videoId": "GbiIiuXeZgc",
+    "title": "Give Me Back My Wig",
+    "sourceUrl": "https://www.youtube.com/watch?v=GbiIiuXeZgc",
+    "lastChecked": "2026-07-25"
+  },
+  "reviewStatus": "needs_revision",
+  "lastReviewed": "2026-07-25"
+}
