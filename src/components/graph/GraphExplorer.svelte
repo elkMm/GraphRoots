@@ -3,6 +3,7 @@
   import * as d3 from "d3";
   import { withBase } from "../../domain/base-path";
   import { filterGraphPayload } from "../../domain/graph/filter-payload";
+  import { getEntityPath } from "../../domain/routes";
   import type {
     GraphEdgePayload,
     GraphNodePayload,
@@ -124,16 +125,7 @@
   };
 
   function entityPath(node: GraphNodePayload): string {
-    if (node.entityType === "artist") {
-      return withBase(`/artists/${node.slug}`);
-    }
-    if (node.entityType === "ensemble") {
-      return withBase(`/ensembles/${node.slug}`);
-    }
-    if (node.entityType === "tradition") {
-      return withBase(`/traditions/${node.slug}`);
-    }
-    return withBase(`/entities/${node.slug}`);
+    return withBase(getEntityPath(node));
   }
 
   function availableNetworkGroups(nodes: GraphNodePayload[]): string[] {
@@ -280,6 +272,14 @@
       .call(zoomBehavior.transform, transform);
   }
 
+  function refitStage(): void {
+    if (!svgElement || !stageElement || !nodeSelection) return;
+    const width = Math.max(stageElement.clientWidth, 320);
+    const height = Math.max(stageElement.clientHeight, 460);
+    d3.select(svgElement).attr("viewBox", `0 0 ${width} ${height}`);
+    fitGraph(0);
+  }
+
   function renderGraph(): void {
     if (!graph || !svgElement || !stageElement) return;
     simulation?.stop();
@@ -375,19 +375,26 @@
       )
       .attr("marker-end", defaultMarker);
 
+    let isDragging = false;
     const drag = d3
       .drag<SVGGElement, SimulationNode>()
-      .on("start", (event, node) => {
-        if (!event.active) simulation?.alphaTarget(0.25).restart();
+      .on("start", (_event, node) => {
         node.fx = node.x;
         node.fy = node.y;
       })
       .on("drag", (event, node) => {
+        if (!isDragging) {
+          isDragging = true;
+          simulation?.alphaTarget(0.25).restart();
+        }
         node.fx = event.x;
         node.fy = event.y;
       })
-      .on("end", (event, node) => {
-        if (!event.active) simulation?.alphaTarget(0);
+      .on("end", (_event, node) => {
+        if (isDragging) {
+          isDragging = false;
+          simulation?.alphaTarget(0);
+        }
         node.fx = null;
         node.fy = null;
       });
@@ -429,8 +436,10 @@
       .attr("y", 4)
       .text((node) => node.name);
 
+    let hasFitted = false;
     simulation = d3
       .forceSimulation<SimulationNode>(nodes)
+      .alphaDecay(0.05)
       .force(
         "link",
         d3
@@ -467,7 +476,10 @@
         );
       })
       .on("end", () => {
-        fitGraph(500);
+        if (!hasFitted) {
+          hasFitted = true;
+          fitGraph(500);
+        }
       });
 
     const requestedSlug = new URL(window.location.href).searchParams.get(
@@ -547,7 +559,24 @@
 
   onMount(() => {
     const controller = new AbortController();
-    const resizeObserver = new ResizeObserver(() => renderGraph());
+    let lastStageWidth = 0;
+    let lastStageHeight = 0;
+    let resizeTimeout: ReturnType<typeof setTimeout> | undefined;
+    const resizeObserver = new ResizeObserver(() => {
+      clearTimeout(resizeTimeout);
+      resizeTimeout = setTimeout(() => {
+        const width = stageElement.clientWidth;
+        const height = stageElement.clientHeight;
+        if (width === lastStageWidth && height === lastStageHeight) return;
+        lastStageWidth = width;
+        lastStageHeight = height;
+        // Resizing (e.g. a mobile browser's chrome collapsing) should only
+        // reframe the existing layout, never rebuild the simulation from
+        // scratch — that would scatter every node back to its start position.
+        if (simulation) refitStage();
+        else renderGraph();
+      }, 150);
+    });
 
     async function load(): Promise<void> {
       try {
@@ -561,6 +590,8 @@
         visibleEdges = graph.edges;
         loading = false;
         await tick();
+        lastStageWidth = stageElement.clientWidth;
+        lastStageHeight = stageElement.clientHeight;
         resizeObserver.observe(stageElement);
         renderGraph();
       } catch (error) {
@@ -575,6 +606,7 @@
 
     return () => {
       controller.abort();
+      clearTimeout(resizeTimeout);
       resizeObserver.disconnect();
       simulation?.stop();
     };
