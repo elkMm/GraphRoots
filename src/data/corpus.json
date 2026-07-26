@@ -1,10 +1,10 @@
 {
   "name": "GraphRoots Blues corpus",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "lastUpdated": "2026-07-25",
   "license": {
-    "id": "CC-BY-4.0",
-    "name": "Creative Commons Attribution 4.0 International"
+    "id": "CC-BY-NC-4.0",
+    "name": "Creative Commons Attribution-NonCommercial 4.0 International"
   },
   "methodologyPath": "/methodology"
 }

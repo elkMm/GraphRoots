@@ -1,5 +1,11 @@
 # Blues Corpus Changelog
 
+## 0.7.3 — 2026-07-25
+
+### Changed
+
+- Revised the public data license from Creative Commons Attribution 4.0 International (CC BY 4.0) to Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). Share and adaptation remain permitted with attribution; commercial use now requires separate permission from GraphRoots.
+
 ## 0.7.2 — 2026-07-25
 
 ### Added
