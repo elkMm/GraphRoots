@@ -1,5 +1,22 @@
 # Blues Corpus Changelog
 
+## 0.7.2 — 2026-07-25
+
+### Added
+
+- Added 12 artists with individual profile sources and public YouTube embeds checked for availability: Etta James, Otis Rush, Sonny Boy Williamson I, Little Milton, Slim Harpo, Hound Dog Taylor, Robert Nighthawk, Johnny Winter, Bobby Rush, Derek Trucks, George Thorogood, and Lightnin' Slim.
+- Added the corpus's first 8 `recording` entities, each with an individual source: Cross Road Blues, Sweet Home Chicago, Hoochie Coochie Man, Smokestack Lightning, The Thrill Is Gone, Dust My Broom, Call It Stormy Monday, and Killing Floor.
+
+### Changed
+
+- Expanded the corpus to 316 entities (294 artists, 8 recordings), 539 sources, and 1,196 relationships.
+- Asserted a public data license: the reviewed corpus and its public downloads are now licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), replacing the previous `NOASSERTION` state.
+
+### Review Notes
+
+- No relationship was promoted to reviewed. The reviewed public dataset remains at 43 relationships with 100% citation coverage.
+- The new recording entities do not yet have graph relationships to their performing artists; that classification work remains open for a future revision.
+
 ## 0.7.1 — 2026-07-22
 
 ### Added

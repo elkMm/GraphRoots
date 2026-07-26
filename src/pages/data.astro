@@ -76,7 +76,13 @@ const downloads = [
       <dl>
         <div><dt>Corpus version</dt><dd>{corpus.metadata.version}</dd></div>
         <div><dt>Last updated</dt><dd>{corpus.metadata.lastUpdated}</dd></div>
-        <div><dt>License</dt><dd>{corpus.metadata.license.name}</dd></div>
+        <div>
+          <dt>License</dt><dd>
+            <a href="https://creativecommons.org/licenses/by/4.0/"
+              >{corpus.metadata.license.name}</a
+            >
+          </dd>
+        </div>
         <div>
           <dt>Methodology</dt><dd>
             <a href={withBase(corpus.metadata.methodologyPath)}
@@ -86,9 +92,13 @@ const downloads = [
         </div>
       </dl>
       <p class="notice">
-        No public data license has been asserted yet. Downloads are provided for
-        inspection, not as an implied permission grant. Citation guidance will
-        be finalized with the license decision.
+        The reviewed corpus and its public downloads are licensed under <a
+          href="https://creativecommons.org/licenses/by/4.0/"
+          >Creative Commons Attribution 4.0 International (CC BY 4.0)</a
+        >. You may share and adapt the data for any purpose, including
+        commercially, provided you give appropriate attribution to GraphRoots
+        and indicate if changes were made. Third-party media and source
+        materials remain subject to their own rights and terms.
       </p>
       <p>
         See the <a href={withBase("/changelog")}

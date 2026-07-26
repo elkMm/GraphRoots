@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "corpusVersion": "0.7.1",
-    "generatedAt": "2026-07-25T23:39:33.557Z",
+    "corpusVersion": "0.7.2",
+    "generatedAt": "2026-07-26T00:05:48.798Z",
     "license": {
-      "id": "NOASSERTION",
-      "name": "No public data license has been asserted yet"
+      "id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International"
     },
     "methodologyUrl": "/methodology"
   },
